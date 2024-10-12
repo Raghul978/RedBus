@@ -1,0 +1,246 @@
+State,Route,Bus Name,Bus Type,Departing Time,Duration Time,Reaching Time,Price,Seats Available,Star Rating
+KERALA_RTC,Bangalore to Kozhikode,MMK Travels,A/C Seater / Sleeper (2+1),22:30,09h 00m,07:30,1999,7 Seats available,4.5
+KERALA_RTC,Bangalore to Kozhikode,SAAM BUS,VE A/C Sleeper (2+1),21:45,09h 00m,06:45,1900,15 Seats available,4.3
+KERALA_RTC,Bangalore to Kozhikode,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),23:00,10h 00m,09:00,1899,12 Seats available,4.1
+KERALA_RTC,Bangalore to Kozhikode,AdSuraj Holidays,VE A/C Sleeper (2+1),22:30,09h 00m,07:30,1900,18 Seats available,3.9
+KERALA_RTC,Bangalore to Kozhikode,NS Transports,,21:45,08h 25m,06:10,,,4.1
+KERALA_RTC,Kozhikode to Bangalore,MMK Travels,A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,900,14 Seats available,4.5
+KERALA_RTC,Kozhikode to Bangalore,DLT BUS,A/C Sleeper (2+1),21:45,08h 45m,06:30,999,11 Seats available,4.4
+KERALA_RTC,Kozhikode to Bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),12:15,09h 30m,21:45,799,16 Seats available,4.3
+KERALA_RTC,Kozhikode to Bangalore,AdSuraj Holidays,VE A/C Sleeper (2+1),22:00,09h 15m,07:15,950,,3.7
+KERALA_RTC,Kozhikode to Ernakulam,Madhavi Travels,A/C Semi Sleeper (2+2),00:15,06h 00m,06:15,599,12 Seats available,4.3
+KERALA_RTC,Kozhikode to Ernakulam,Madhavi Travels,A/C Sleeper (2+1),01:30,04h 45m,06:15,799,31 Seats available,4.7
+KERALA_RTC,Kozhikode to Ernakulam,A1 Travels,A/C Seater / Sleeper (2+1),20:05,03h 54m,23:59,800,14 Seats available,3.4
+KERALA_RTC,Kozhikode to Ernakulam,A1 Travels,NON A/C Semi Sleeper (2+2),21:00,04h 30m,01:30,650,33 Seats available,3.7
+KERALA_RTC,Kozhikode to Ernakulam,A1 Travels,NON A/C Semi Sleeper (2+2),22:30,04h 30m,03:00,700,17 Seats available,3.5
+KERALA_RTC,Kozhikode to Ernakulam,Sonia Travels,A/C Seater/Sleeper (2+1),23:30,04h 59m,04:29,680,22 Seats available,4.9
+KERALA_RTC,Kozhikode to Ernakulam,Sonia Travels,A/C Semi Sleeper (2+2),23:30,04h 45m,04:15,650,15 Seats available,5.0
+KERALA_RTC,Kozhikode to Ernakulam,UFO Bus,A/C Sleeper (2+1),23:55,05h 35m,05:30,899,12 Seats available,4.0
+KERALA_RTC,Kozhikode to Ernakulam,UFO Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:55,05h 35m,05:30,670,21 Seats available,3.9
+KERALA_RTC,Kozhikode to Ernakulam,Arya Travels,A/C Sleeper (2+1),23:59,05h 31m,05:30,895,2 Seats available,3.0
+KERALA_RTC,Kozhikode to Ernakulam,SG Travels,Bharat Benz A/C Sleeper (2+1),23:59,05h 56m,05:55,849,35 Seats available,4.3
+KERALA_RTC,Kozhikode to Ernakulam,Kalpaka Travels 1,A/C Sleeper (2+1),23:59,06h 01m,06:00,800,23 Seats available,4.3
+KERALA_RTC,Kozhikode to Ernakulam,Cochin Express,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:59,05h 51m,05:50,667,8 Seats available,4.5
+KERALA_RTC,Kozhikode to Ernakulam,UFO Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),00:20,05h 10m,05:30,650,9 Seats available,4.5
+KERALA_RTC,Kozhikode to Ernakulam,Holy Maria Travels,A/C Semi Sleeper (2+2),00:10,04h 00m,04:10,600,30 Seats available,2.9
+KERALA_RTC,Kozhikode to Ernakulam,Ubc travels,A/C Semi Sleeper (2+2),00:25,04h 15m,04:40,700,29 Seats available,2.4
+KERALA_RTC,Kozhikode to Ernakulam,Blue Bird Travels,A/C Seater Push Back (2+2),01:25,04h 31m,05:56,549,19 Seats available,1.0
+KERALA_RTC,Kozhikode to Ernakulam,Greenline kerala,A/C Seater Push Back (2+2),01:30,04h 30m,06:00,650,7 Seats available,2.5
+KERALA_RTC,Kozhikode to Ernakulam,Ubc travels,A/C Seater/Sleeper (2+1),01:45,03h 55m,05:40,900,12 Seats available,2.6
+KERALA_RTC,Kozhikode to Ernakulam,Galaxy Tours,2+1 Air Suspension A/C Seater / Sleeper,21:45,04h 15m,02:00,850,41 Seats available,2.7
+KERALA_RTC,Kozhikode to Ernakulam,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:15,03h 30m,01:45,900,5 Seats available,2.9
+KERALA_RTC,Kozhikode to Ernakulam,Shajees Motors,A/C Semi Sleeper (2+2),22:30,04h 35m,03:05,530,6 Seats available,2.6
+KERALA_RTC,Kozhikode to Ernakulam,Kalpaka Travels 1,A/C Semi Sleeper (2+2),23:59,05h 01m,05:00,600,6 Seats available,2.4
+KERALA_RTC,Kozhikode to Ernakulam,Adrin Travels,A/C Seater/Sleeper (2+1),01:20,04h 30m,05:50,1000,14 Seats available,4.1
+KERALA_RTC,Kozhikode to Ernakulam,Galaxy Tours,Bharat Benz A/C Semi Sleeper (2+2),21:45,04h 15m,02:00,1100,18 Seats available,3.5
+KERALA_RTC,Kozhikode to Ernakulam,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),22:10,04h 30m,02:40,1200,23 Seats available,3.6
+KERALA_RTC,Ernakulam to Kozhikode,Ubc travels,A/C Semi Sleeper (2+2),20:40,04h 20m,01:00,700,1 Seat available,3.0
+KERALA_RTC,Ernakulam to Kozhikode,Cochin Express,Bharat Benz A/C Semi Sleeper (2+2),21:25,05h 00m,02:25,899,7 Seats available,4.3
+KERALA_RTC,Ernakulam to Kozhikode,UFO Bus,Volvo A/C Semi Sleeper (2+2),21:45,04h 55m,02:40,670,1 Seat available,5.0
+KERALA_RTC,Ernakulam to Kozhikode,Kalpaka Travels 1,A/C Semi Sleeper (2+2),22:00,05h 00m,03:00,600,1 Seat available,4.5
+KERALA_RTC,Ernakulam to Kozhikode,Capital Travels,A/C Seater (2+2),22:00,05h 00m,03:00,899,5 Seats available,5.0
+KERALA_RTC,Ernakulam to Kozhikode,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,05h 31m,05:30,900,16 Seats available,3.6
+KERALA_RTC,Ernakulam to Kozhikode,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,05h 01m,05:00,800,7 Seats available,3.0
+KERALA_RTC,Ernakulam to Kozhikode,Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),01:25,03h 05m,04:30,799,22 Seats available,1.0
+KERALA_RTC,Ernakulam to Kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),01:30,05h 30m,07:00,650,11 Seats available,1.9
+KERALA_RTC,Ernakulam to Kozhikode,Holy Maria Travels,A/C Semi Sleeper (2+2),20:10,05h 20m,01:30,700,28 Seats available,2.7
+KERALA_RTC,Ernakulam to Kozhikode,Holy Maria Travels,A/C Semi Sleeper (2+2),20:50,05h 20m,02:10,800,32 Seats available,2.7
+KERALA_RTC,Ernakulam to Kozhikode,Blue Bird Travels,A/C Seater Push Back (2+2),00:45,05h 45m,06:30,699,5 Seats available,1.9
+KERALA_RTC,Ernakulam to Kozhikode,Galaxy Tours,A/C Semi Sleeper (2+2),01:15,04h 45m,06:00,800,1 Seat available,1.5
+KERALA_RTC,Ernakulam to Kozhikode,Shajees Motors,A/C Semi Sleeper (2+2),20:30,04h 10m,00:40,1200,11 Seats available,3.4
+KERALA_RTC,Ernakulam to Kozhikode,Ubc travels,A/C Seater/Sleeper (2+1),20:45,06h 15m,03:00,1200,2 Seats available,3.6
+KERALA_RTC,Ernakulam to Kozhikode,Adrin Travels,A/C Seater/Sleeper (2+1),21:00,05h 00m,02:00,1500,17 Seats available,4.6
+KERALA_RTC,Ernakulam to Kozhikode,Madhavi Travels,A/C Sleeper (2+1),21:40,05h 20m,03:00,1499,21 Seats available,4.3
+KERALA_RTC,Ernakulam to Kozhikode,Sonia Travels,A/C Semi Sleeper (2+2),21:45,04h 25m,02:10,999,25 Seats available,3.8
+KERALA_RTC,Ernakulam to Kozhikode,Arya Travels,Volvo A/C Semi Sleeper (2+2),22:00,05h 30m,03:30,1195,21 Seats available,5.0
+KERALA_RTC,Ernakulam to Kozhikode,Capital Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:00,05h 00m,03:00,1050,37 Seats available,5.0
+KERALA_RTC,Ernakulam to Kozhikode,Greenline kerala,A/C Seater Push Back (2+2),22:01,04h 44m,02:45,1000,2 Seats available,5.0
+KERALA_RTC,Ernakulam to Kozhikode,EMERALD TRAVELS,Bharat Benz A/C Seater (2+2),22:30,05h 45m,04:15,1350,16 Seats available,3.0
+KERALA_RTC,Ernakulam to Kozhikode,Madhavi Travels,A/C Sleeper (2+1),23:59,04h 31m,04:30,1999,45 Seats available,3.9
+KERALA_RTC,Ernakulam to Kozhikode,Aadithya Travels,A/C Seater/Sleeper (2+1),21:30,04h 15m,01:45,1350,29 Seats available,2.7
+KERALA_RTC,Ernakulam to Kozhikode,PSK Travels,Bharat Benz A/C Semi Sleeper (2+2),21:30,04h 30m,02:00,1190,17 Seats available,2.6
+KERALA_RTC,Ernakulam to Kozhikode,AURA CONNECT,A/C Sleeper (2+1),21:35,04h 45m,02:20,1899,8 Seats available,2.5
+KERALA_RTC,Bangalore to Kannur,NS Transports,A/C Sleeper (2+1),22:15,07h 30m,05:45,2200,8 Seats available,4.5
+KERALA_RTC,Bangalore to Kannur,MMK Travels,VE A/C Seater / Sleeper (2+1),22:15,07h 15m,05:30,1999,3 Seats available,4.3
+KERALA_RTC,Bangalore to Kannur,GOLDEN TRAVEL AGENCIES,Volvo A/C Semi Sleeper (2+2),22:45,06h 00m,04:45,1699,1 Seat available,4.3
+KERALA_RTC,Bangalore to Kannur,GOLDEN TRAVEL AGENCIES,A/C Sleeper (2+1),22:00,07h 25m,05:25,1899,1 Seat available,4.2
+KERALA_RTC,Bangalore to Kannur,NS Transports,Non A/C Seater / Sleeper (2+1),22:00,08h 00m,06:00,1700,1 Seat available,3.9
+KERALA_RTC,Bangalore to Kannur,SAAM BUS,VE A/C Sleeper (2+1),21:45,07h 00m,04:45,1995,2 Seats available,4.0
+KERALA_RTC,Bangalore to Kannur,NS Transports,NON A/C Sleeper (2+1),22:45,06h 35m,05:20,1799,14 Seats available,5.0
+KERALA_RTC,Bangalore to Kannur,Kalpaka Travels,A/C Sleeper (2+1),22:10,06h 50m,05:00,2000,5 Seats available,3.9
+KERALA_RTC,Bangalore to Kannur,National travels and logistics,Non A/C Seater / Sleeper (2+1),22:40,07h 05m,05:45,1690,12 Seats available,3.9
+KERALA_RTC,Bangalore to Kannur,GOLDEN TRAVEL AGENCIES,NON A/C Sleeper (2+1),22:30,06h 15m,04:45,1499,1 Seat available,3.8
+KERALA_RTC,Bangalore to Kannur,GOLDEN TRAVEL AGENCIES,Non AC Seater (2+2),22:15,06h 45m,05:00,1399,18 Seats available,4.0
+KERALA_RTC,Bangalore to Kannur,GOLDEN TRAVEL AGENCIES,A/C Sleeper (2+1),21:30,07h 45m,05:15,1999,3 Seats available,4.1
+KERALA_RTC,Bangalore to Kannur,SAAM BUS,Volvo A/C Semi Sleeper (2+2),21:45,07h 00m,04:45,1700,21 Seats available,3.8
+KERALA_RTC,Bangalore to Kannur,Kalpaka Travels,NON A/C Seater/ Sleeper (2+1),22:00,08h 10m,06:10,1500,1 Seat available,4.7
+KERALA_RTC,Bangalore to Kannur,Blue Lagoon Holidays,A/C Semi Sleeper (2+2),22:00,07h 30m,05:30,1399,12 Seats available,4.7
+KERALA_RTC,Bangalore to Kannur,Rukma Travels,A/C Seater/Sleeper (2+1),21:30,07h 30m,05:00,1799,23 Seats available,4.6
+KERALA_RTC,Bangalore to Kannur,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),21:30,07h 15m,04:45,1399,3 Seats available,4.2
+KERALA_RTC,Bangalore to Kannur,Sam Tourist,A/C Sleeper (2+1),22:35,07h 30m,06:05,1924,14 Seats available,2.9
+KERALA_RTC,Bangalore to Kannur,Sam Tours and Travels,A/C Semi Sleeper (2+2),19:30,10h 05m,05:35,1349,2 Seats available,4.0
+KERALA_RTC,Bangalore to Kannur,DLT BUS,A/C Sleeper (2+1),22:30,07h 30m,06:00,1995,14 Seats available,3.0
+KERALA_RTC,Bangalore to Kannur,Sam Tourist,Volvo A/C Seater (2+2),23:00,07h 35m,06:35,1424,20 Seats available,2.4
+KERALA_RTC,Bangalore to Kannur,Sam Tours and Travels,A/C Semi Sleeper (2+2),22:00,07h 35m,05:35,1349,23 Seats available,2.0
+KERALA_RTC,Bangalore to Kannur,Sam Tours and Travels,A/C Seater (2+2),21:00,08h 35m,05:35,1399,6 Seats available,2.0
+KERALA_RTC,Kozhikode to Mysore,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),07:40,05h 00m,12:40,699,29 Seats available,5.0
+KERALA_RTC,Kozhikode to Mysore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),12:15,06h 20m,18:35,599,16 Seats available,4.8
+KERALA_RTC,Kozhikode to Mysore,A1 Travels,A/C Seater / Sleeper (2+1),20:00,08h 00m,04:00,700,13 Seats available,3.2
+KERALA_RTC,Kozhikode to Mysore,National travels and logistics,NON A/C Sleeper (2+1),20:45,07h 15m,04:00,799,21 Seats available,3.8
+KERALA_RTC,Kozhikode to Mysore,Suraj Holidays,NON AC Seater / Sleeper 2+1,21:00,06h 00m,03:00,700,30 Seats available,3.8
+KERALA_RTC,Kozhikode to Mysore,A1 Travels,Non A/C Seater / Sleeper (2+1),21:45,06h 15m,04:00,700,8 Seats available,3.0
+KERALA_RTC,Kozhikode to Mysore,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),03:30,05h 30m,09:00,550,21 Seats available,2.8
+KERALA_RTC,Kozhikode to Mysore,Sam Tourist,NON AC Seater / Sleeper 2+1,21:00,07h 00m,04:00,799,15 Seats available,2.1
+KERALA_RTC,Kozhikode to Mysore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),14:00,06h 30m,20:30,3100,14 Seats available,3.3
+KERALA_RTC,Kozhikode to Mysore,SAAM BUS,VE A/C Sleeper (2+1),20:30,07h 30m,04:00,900,34 Seats available,4.0
+KERALA_RTC,Kozhikode to Mysore,SKS Tours & Travels,A/C Sleeper (2+1),21:00,07h 00m,04:00,899,15 Seats available,5.0
+KERALA_RTC,Kozhikode to Mysore,MMK Travels,A/C Sleeper (2+1),21:00,06h 00m,03:00,999,22 Seats available,4.2
+KERALA_RTC,Kozhikode to Mysore,National travels and logistics,A/C Sleeper (2+1),21:00,06h 15m,03:15,1050,16 Seats available,3.8
+KERALA_RTC,Kozhikode to Mysore,FAST LINE BUS,A/C Sleeper (2+1),21:15,06h 45m,04:00,2699,41 Seats available,5.0
+KERALA_RTC,Kozhikode to Mysore,NS Transports,VE A/C Sleeper (2+1),21:15,06h 15m,03:30,924,15 Seats available,4.3
+KERALA_RTC,Kannur to Bangalore,Ashoka Travel and Logistics,A/C Sleeper (2+1),21:15,08h 15m,05:30,1000,9 Seats available,4.4
+KERALA_RTC,Kannur to Bangalore,NS Transports,A/C Sleeper (2+1),21:15,08h 15m,05:30,999,9 Seats available,4.4
+KERALA_RTC,Kannur to Bangalore,MMK Travels,VE A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,700,26 Seats available,4.2
+KERALA_RTC,Kannur to Bangalore,AdSAAM BUS,VE A/C Sleeper (2+1),22:30,07h 30m,06:00,855,14 Seats available,3.7
+KERALA_RTC,Kannur to Bangalore,NS Transports,Non A/C Seater / Sleeper (2+1),20:30,08h 50m,05:20,647,14 Seats available,4.0
+KERALA_RTC,Kannur to Bangalore,Sugama Tourist,A/C Sleeper (2+1),22:00,07h 30m,05:30,800,19 Seats available,3.9
+KERALA_RTC,Kannur to Bangalore,Ashoka Travel and Logistics,NON A/C Semi Sleeper (2+2),08:00,09h 30m,17:30,800,20 Seats available,3.8
+KERALA_RTC,Kannur to Bangalore,National travels and logistics,Non A/C Seater / Sleeper (2+1),21:15,08h 15m,05:30,499,25 Seats available,3.7
+KERALA_RTC,Kannur to Bangalore,Ashoka Travel and Logistics,A/C Semi Sleeper (2+2),21:00,08h 15m,05:15,900,23 Seats available,3.8
+KERALA_RTC,Kannur to Bangalore,P K Travels,NON A/C Semi Sleeper (2+2),20:30,10h 00m,06:30,675,13 Seats available,3.2
+KERALA_RTC,Kannur to Bangalore,Kalpaka Travels 1,A/C Sleeper (2+1),21:45,07h 15m,05:00,1100,30 Seats available,4.2
+KERALA_RTC,Kannur to Bangalore,Ashoka Travel and Logistics,NON A/C Semi Sleeper (2+2),21:30,07h 30m,05:00,800,24 Seats available,3.6
+KERALA_RTC,Kannur to Bangalore,Kalpaka Travels 1,NON A/C Seater/ Sleeper (2+1),21:30,07h 30m,05:00,800,30 Seats available,4.1
+KERALA_RTC,Kannur to Bangalore,Kalpaka Travels 1,NON A/C Seater/ Sleeper (2+1),21:00,08h 00m,05:00,800,25 Seats available,3.7
+KERALA_RTC,Kannur to Bangalore,Golden Travels,Volvo A/C Semi Sleeper (2+2),21:45,07h 05m,04:50,999,14 Seats available,4.5
+KERALA_RTC,Kannur to Bangalore,P K Travels,A/C Sleeper (2+1),21:00,08h 00m,05:00,899,10 Seats available,4.2
+KERALA_RTC,Kannur to Bangalore,Golden Travels,A/C Sleeper (2+1),21:45,07h 25m,05:10,899,10 Seats available,4.3
+KERALA_RTC,Kannur to Bangalore,Arya Travels,A/C Sleeper (2+1),21:20,08h 10m,05:30,999,14 Seats available,3.0
+KERALA_RTC,Kannur to Bangalore,Golden Travels,A/C Sleeper (2+1),21:15,07h 45m,05:00,999,6 Seats available,4.8
+KERALA_RTC,Kannur to Bangalore,Golden Travels,NON A/C Sleeper (2+1),21:30,07h 30m,05:00,899,16 Seats available,4.0
+KERALA_RTC,Kannur to Bangalore,Kalpaka Travels 1,NON A/C Seater/ Sleeper (2+1),21:15,07h 45m,05:00,900,9 Seats available,2.9
+KERALA_RTC,Kannur to Bangalore,Kalpaka Travels 1,NON A/C Semi Sleeper (2+2),20:45,08h 15m,05:00,800,22 Seats available,3.4
+KERALA_RTC,Kannur to Bangalore,Golden Travels,NON A/C Semi Sleeper (2+2),21:15,07h 45m,05:00,799,13 Seats available,3.9
+KERALA_RTC,Kozhikode to Thiruvananthapuram,A1 Travels,A/C Seater / Sleeper (2+1),20:05,09h 25m,05:30,800,8 Seats available,4.2
+KERALA_RTC,Kozhikode to Thiruvananthapuram,BLM Transports,A/C Sleeper (2+1),22:00,09h 00m,07:00,1482,4 Seats available,3.7
+KERALA_RTC,Kozhikode to Thiruvananthapuram,Madhavi Travels,A/C Sleeper (2+1),22:20,08h 10m,06:30,1999,2 Seats available,3.4
+KERALA_RTC,Kozhikode to Thiruvananthapuram,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:15,07h 30m,05:45,900,5 Seats available,2.4
+KERALA_RTC,Kozhikode to Thiruvananthapuram,A1 Travels,Bharat Benz A/C Sleeper (2+1),23:30,08h 30m,08:00,1300,4 Seats available,2.4
+KERALA_RTC,Kozhikode to Thiruvananthapuram,Galaxy Tours,2+1 Air Suspension A/C Seater / Sleeper,21:45,08h 45m,06:30,850,12 Seats available,2.3
+KERALA_RTC,Kozhikode to Thiruvananthapuram,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:15,08h 00m,07:15,1350,6 Seats available,1.9
+KERALA_RTC,Kozhikode to Thiruvananthapuram,Madhavi Travels,Volvo A/C Semi Sleeper (2+2),23:30,08h 00m,07:30,1499,22 Seats available,4.0
+KERALA_RTC,Kozhikode to Thiruvananthapuram,A1 Travels,NON A/C Semi Sleeper (2+2),21:00,09h 00m,06:00,650,10 Seats available,3.1
+KERALA_RTC,Kozhikode to Thiruvananthapuram,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,07h 30m,06:00,1000,12 Seats available,3.5
+KERALA_RTC,Kozhikode to Thiruvananthapuram,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),22:10,08h 20m,06:30,1200,14 Seats available,2.7
+KERALA_RTC,Kozhikode to Thiruvananthapuram,Galaxy Tours,Bharat Benz A/C Semi Sleeper (2+2),21:45,08h 45m,06:30,1100,29 Seats available,2.7
+KERALA_RTC,Kozhikode to Thiruvananthapuram,A1 Travels,NON A/C Semi Sleeper (2+2),22:30,09h 00m,07:30,700,30 Seats available,3.5
+KERALA_RTC,Kozhikode to Thiruvananthapuram,A1 Travels,Bharat Benz A/C Semi Sleeper (2+2),22:30,08h 30m,07:00,1000,41 Seats available,3.5
+KERALA_RTC,Kozhikode to Thiruvananthapuram,AURA CONNECT,A/C Sleeper (2+1),20:00,09h 35m,05:35,1899,30 Seats available,2.5
+KERALA_RTC,Mysore to Kozhikode,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),03:15,05h 45m,09:00,1699,11 Seats available,3.7
+KERALA_RTC,Mysore to Kozhikode,Bharathi Travels,A/C Sleeper (2+1),05:35,05h 00m,10:35,1600,20 Seats available,3.1
+KERALA_RTC,Mysore to Kozhikode,A1 Travels,Bharat Benz A/C Sleeper (2+1),17:30,06h 00m,23:30,1800,11 Seats available,3.7
+KERALA_RTC,Mysore to Kozhikode,Suraj Holidays,NON AC Seater / Sleeper 2+1,23:00,07h 00m,06:00,1500,10 Seats available,3.9
+KERALA_RTC,Mysore to Kozhikode,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),23:00,07h 00m,06:00,1598,3 Seats available,4.0
+KERALA_RTC,Mysore to Kozhikode,SKS Tours & Travels,A/C Sleeper (2+1),23:59,05h 41m,05:40,1899,4 Seats available,3.6
+KERALA_RTC,Mysore to Kozhikode,FAST LINE BUS,A/C Sleeper (2+1),23:59,06h 16m,06:15,1799,13 Seats available,3.6
+KERALA_RTC,Mysore to Kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),00:10,06h 00m,06:10,1525,18 Seats available,4.1
+KERALA_RTC,Mysore to Kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),00:30,06h 00m,06:30,1665,10 Seats available,5.0
+KERALA_RTC,Mysore to Kozhikode,National travels and logistics,NON A/C Sleeper (2+1),00:40,05h 35m,06:15,1890,24 Seats available,3.0
+KERALA_RTC,Mysore to Kozhikode,Sam Tourist,NON AC Seater / Sleeper 2+1,00:45,06h 20m,07:05,1424,9 Seats available,5.0
+KERALA_RTC,Mysore to Kozhikode,NS Transports,VE A/C Sleeper (2+1),00:45,06h 45m,07:30,1943,27 Seats available,2.9
+KERALA_RTC,Mysore to Kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),05:20,05h 40m,11:00,1300,29 Seats available,2.5
+KERALA_RTC,Bangalore to Kalpetta (kerala),MMK Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,1999,7 Seats available,4.5
+KERALA_RTC,Bangalore to Kalpetta (kerala),DLT BUS,A/C Sleeper (2+1),22:30,06h 50m,05:20,2099,3 Seats available,4.5
+KERALA_RTC,Bangalore to Kalpetta (kerala),DLT BUS,A/C Sleeper (2+1),22:30,07h 00m,05:30,2099,5 Seats available,3.9
+KERALA_RTC,Bangalore to Kalpetta (kerala),Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),23:00,08h 30m,07:30,1899,14 Seats available,4.0
+KERALA_RTC,Bangalore to Kalpetta (kerala),Suraj Holidays,VE A/C Sleeper (2+1),22:30,07h 45m,06:15,1900,19 Seats available,4.2
+KERALA_RTC,Bangalore to Kalpetta (kerala),MMK Travels,A/C Seater / Sleeper (2+1),22:30,07h 15m,05:45,1999,7 Seats available,3.9
+KERALA_RTC,Bangalore to Kalpetta (kerala),Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),23:00,08h 20m,07:20,1899,13 Seats available,3.7
+KERALA_RTC,Bangalore to Kalpetta (kerala),Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:00,07h 25m,05:25,1799,11 Seats available,3.8
+KERALA_RTC,Bangalore to Kalpetta (kerala),FAST LINE BUS,A/C Sleeper (2+1),21:15,06h 45m,04:00,1799,11 Seats available,4.1
+KERALA_RTC,Bangalore to Kalpetta (kerala),Suraj Holidays,VE A/C Sleeper (2+1),22:30,07h 45m,06:15,1900,18 Seats available,3.4
+KERALA_RTC,Bangalore to Kalpetta (kerala),A1 Travels,Non A/C Seater / Sleeper (2+1),21:00,08h 00m,05:00,1600,17 Seats available,3.6
+KERALA_RTC,Bangalore to Kalpetta (kerala),DA Transports,A/C Sleeper (2+1),21:45,06h 30m,04:15,1899,11 Seats available,3.3
+KERALA_RTC,Bangalore to Kalpetta (kerala),A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:00,08h 30m,04:30,1800,4 Seats available,2.1
+KERALA_RTC,Bangalore to Kalpetta (kerala),A1 Travels,A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,1750,24 Seats available,2.5
+KERALA_RTC,Bangalore to Kalpetta (kerala),SKS Tourist Corporation (REGD),A/C Sleeper (2+1),21:00,07h 45m,04:45,1699,11 Seats available,1.9
+KERALA_RTC,Bangalore to Kalpetta (kerala),Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),03:00,05h 40m,08:40,1400,17 Seats available,1.1
+KERALA_RTC,Bangalore to Kalpetta (kerala),Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),02:30,05h 15m,07:45,700,15 Seats available,4.6
+KERALA_RTC,Bangalore to Kalpetta (kerala),Bharathi Travels,A/C Sleeper (2+1),03:05,07h 00m,10:05,890,2 Seats available,4.0
+KERALA_RTC,Bangalore to Kalpetta (kerala),LEGEND HOLIDAYS,Bharat Benz A/C Semi Sleeper (2+2),21:20,07h 10m,04:30,1599,20 Seats available,3.1
+KERALA_RTC,Bangalore to Kalpetta (kerala),Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),03:00,05h 41m,08:41,1400,11 Seats available,2.1
+KERALA_RTC,Bangalore to Kalpetta (kerala),Vijay Lines,A/C Seater / Sleeper (2+1),22:20,06h 25m,04:45,1234,8 Seats available,5.0
+KERALA_RTC,Bangalore to Kalpetta (kerala),P K Travels,A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,1800,4 Seats available,4.3
+KERALA_RTC,Bangalore to Kalpetta (kerala),CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),19:45,08h 00m,03:45,1799,21 Seats available,2.3
+KERALA_RTC,Bangalore to Kalpetta (kerala),SKS Tourist Corporation (REGD),A/C Sleeper (2+1),21:00,07h 20m,04:20,1699,39 Seats available,3.7
+KERALA_RTC,Bangalore to Kalpetta (kerala),Sam Tours and Travels,A/C Classy Seater (2+2),20:00,09h 05m,05:05,1379,27 Seats available,3.7
+KERALA_RTC,Bangalore to Kalpetta (kerala),Sam Tours and Travels,A/C Semi Sleeper (2+2),20:00,09h 05m,05:05,1379,6 Seats available,3.8
+KERALA_RTC,Bangalore to Kalpetta (kerala),CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),19:45,08h 05m,03:50,1598,12 Seats available,3.3
+KERALA_RTC,Bangalore to Kalpetta (kerala),A1 Travels,A/C Semi Sleeper (2+2),22:30,08h 00m,06:30,2000,27 Seats available,3.1
+KERALA_RTC,Kalpetta (kerala) to Bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),13:55,07h 50m,21:45,799,13 Seats available,4.4
+KERALA_RTC,Kalpetta (kerala) to Bangalore,MMK Travels,A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,900,9 Seats available,4.5
+KERALA_RTC,Kalpetta (kerala) to Bangalore,DLT BUS,A/C Sleeper (2+1),23:45,06h 45m,06:30,999,15 Seats available,4.3
+KERALA_RTC,Kalpetta (kerala) to Bangalore,MMK Travels,A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,900,23 Seats available,4.7
+KERALA_RTC,Kalpetta (kerala) to Bangalore,CHANCHALAS TOURS AND TRAVELS,A/C Semi Sleeper (2+2),08:55,07h 20m,16:15,699,15 Seats available,4.5
+KERALA_RTC,Kalpetta (kerala) to Bangalore,P K Travels,A/C Seater / Sleeper (2+1),23:50,06h 55m,06:45,810,29 Seats available,4.3
+KERALA_RTC,Kalpetta (kerala) to Bangalore,Suraj Holidays,VE A/C Sleeper (2+1),23:58,07h 17m,07:15,950,34 Seats available,3.9
+KERALA_RTC,Kalpetta (kerala) to Bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),13:57,07h 48m,21:45,799,22 Seats available,3.6
+KERALA_RTC,Kalpetta (kerala) to Bangalore,A1 Travels,Non A/C Seater / Sleeper (2+1),23:10,07h 20m,06:30,700,22 Seats available,3.2
+KERALA_RTC,Kalpetta (kerala) to Bangalore,FAST LINE BUS,A/C Sleeper (2+1),23:15,07h 00m,06:15,2699,8 Seats available,4.0
+KERALA_RTC,Kalpetta (kerala) to Bangalore,DA Transports,A/C Sleeper (2+1),23:50,06h 55m,06:45,949,29 Seats available,3.6
+KERALA_RTC,Kalpetta (kerala) to Bangalore,DA Transports,A/C Sleeper (2+1),23:55,06h 50m,06:45,949,15 Seats available,4.1
+KERALA_RTC,Kalpetta (kerala) to Bangalore,DLT BUS,A/C Sleeper (2+1),23:59,06h 31m,06:30,999,29 Seats available,3.1
+KERALA_RTC,Kalpetta (kerala) to Bangalore,SKS Tourist Corporation (REGD),Non A/C Seater / Sleeper (2+1),22:20,06h 55m,05:15,799,22 Seats available,3.2
+KERALA_RTC,Kalpetta (kerala) to Bangalore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),16:45,06h 45m,23:30,2900,35 Seats available,3.0
+KERALA_RTC,Kalpetta (kerala) to Bangalore,Suraj Holidays,VE A/C Sleeper (2+1),23:59,07h 16m,07:15,950,36 Seats available,2.4
+KERALA_RTC,Kalpetta (kerala) to Bangalore,A1 Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,700,40 Seats available,2.8
+KERALA_RTC,Kalpetta (kerala) to Bangalore,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:45,06h 45m,06:30,900,15 Seats available,1.8
+KERALA_RTC,Kalpetta (kerala) to Bangalore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),16:30,07h 00m,23:30,2900,15 Seats available,2.9
+KERALA_RTC,Thiruvananthapuram to Kozhikode,BLM Transports,A/C Sleeper (2+1),20:15,08h 45m,05:00,1777,1 Seat available,3.9
+KERALA_RTC,Thiruvananthapuram to Kozhikode,A1 Travels,NON A/C Semi Sleeper (2+2),21:00,09h 30m,06:30,600,15 Seats available,3.4
+KERALA_RTC,Thiruvananthapuram to Kozhikode,Madhavi Travels,Volvo A/C Semi Sleeper (2+2),20:40,07h 50m,04:30,1499,21 Seats available,5.0
+KERALA_RTC,Thiruvananthapuram to Kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),18:01,10h 59m,05:00,1450,1 Seat available,3.4
+KERALA_RTC,Thiruvananthapuram to Kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),21:35,09h 25m,07:00,800,12 Seats available,3.5
+KERALA_RTC,Thiruvananthapuram to Kozhikode,Blue Bird Travels,A/C Seater Push Back (2+2),20:45,09h 45m,06:30,699,28 Seats available,2.2
+KERALA_RTC,Thiruvananthapuram to Kozhikode,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:15,09h 15m,05:30,900,15 Seats available,3.2
+KERALA_RTC,Thiruvananthapuram to Kozhikode,Galaxy Tours,A/C Semi Sleeper (2+2),21:00,09h 00m,06:00,800,23 Seats available,3.8
+KERALA_RTC,Thiruvananthapuram to Kozhikode,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:30,08h 30m,05:00,800,7 Seats available,2.9
+KERALA_RTC,Thiruvananthapuram to Kozhikode,EMERALD TRAVELS,A/C Sleeper (2+1),19:30,09h 00m,04:30,1500,19 Seats available,3.0
+KERALA_RTC,Thiruvananthapuram to Kozhikode,Aadithya Travels,A/C Seater/Sleeper (2+1),14:25,11h 20m,01:45,1350,18 Seats available,2.6
+KERALA_RTC,Kozhikode to Thrissur,Madhavi Travels,A/C Semi Sleeper (2+2),00:15,03h 45m,04:00,599,21 Seats available,4.5
+KERALA_RTC,Kozhikode to Thrissur,Ubc travels,A/C Semi Sleeper (2+2),00:25,02h 35m,03:00,700,9 Seats available,3.6
+KERALA_RTC,Kozhikode to Thrissur,Adrin Travels,A/C Seater/Sleeper (2+1),01:20,03h 00m,04:20,1000,14 Seats available,3.8
+KERALA_RTC,Kozhikode to Thrissur,Blue Bird Travels,A/C Seater Push Back (2+2),01:25,02h 00m,03:25,549,33 Seats available,3.1
+KERALA_RTC,Kozhikode to Thrissur,Greenline kerala,A/C Seater Push Back (2+2),01:30,02h 00m,03:30,650,23 Seats available,3.0
+KERALA_RTC,Kozhikode to Thrissur,Madhavi Travels,A/C Sleeper (2+1),01:30,02h 20m,03:50,799,18 Seats available,4.5
+KERALA_RTC,Kozhikode to Thrissur,Ubc travels,A/C Seater/Sleeper (2+1),01:45,02h 00m,03:45,900,26 Seats available,3.6
+KERALA_RTC,Kozhikode to Thrissur,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),22:10,02h 20m,00:30,1200,41 Seats available,4.0
+KERALA_RTC,Kozhikode to Thrissur,Madhavi Travels,A/C Sleeper (2+1),22:20,02h 50m,01:10,1999,17 Seats available,5.0
+KERALA_RTC,Kozhikode to Thrissur,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:15,02h 25m,01:40,1200,23 Seats available,3.0
+KERALA_RTC,Kozhikode to Thrissur,Sonia Travels,A/C Semi Sleeper (2+2),23:30,02h 40m,02:10,650,7 Seats available,3.9
+KERALA_RTC,Kozhikode to Thrissur,Madhavi Travels,Volvo A/C Semi Sleeper (2+2),23:30,02h 25m,01:55,1499,18 Seats available,4.5
+KERALA_RTC,Kozhikode to Thrissur,Madhavi Travels,A/C Sleeper (2+1),23:30,03h 20m,02:50,1099,28 Seats available,4.5
+KERALA_RTC,Kozhikode to Thrissur,A1 Travels,Bharat Benz A/C Sleeper (2+1),23:30,02h 00m,01:30,1300,2 Seats available,3.2
+KERALA_RTC,Kozhikode to Thrissur,Cochin Express,A/C Seater Push Back (2+2),23:55,03h 40m,03:35,700,36 Seats available,4.2
+KERALA_RTC,Kozhikode to Thrissur,UFO Bus,A/C Sleeper (2+1),23:55,03h 35m,03:30,899,12 Seats available,3.9
+KERALA_RTC,Kozhikode to Thrissur,UFO Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:55,03h 35m,03:30,670,36 Seats available,3.9
+KERALA_RTC,Kozhikode to Thrissur,Cochin Express,A/C Sleeper (2+1),23:59,03h 31m,03:30,850,23 Seats available,4.2
+KERALA_RTC,Kozhikode to Thrissur,Arya Travels,A/C Sleeper (2+1),23:59,03h 16m,03:15,895,6 Seats available,3.1
+KERALA_RTC,Kozhikode to Thrissur,Kalpaka Travels 1,A/C Sleeper (2+1),23:59,03h 46m,03:45,800,45 Seats available,4.0
+KERALA_RTC,Kozhikode to Thrissur,Cochin Express,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:59,03h 31m,03:30,667,38 Seats available,4.2
+KERALA_RTC,Kozhikode to Kottayam,Sonia Travels,A/C Seater/Sleeper (2+1),23:30,06h 45m,06:15,750,17 Seats available,4.6
+KERALA_RTC,Kozhikode to Kottayam,Ubc travels,A/C Seater/Sleeper (2+1),01:45,06h 15m,08:00,900,33 Seats available,3.9
+KERALA_RTC,Kozhikode to Kottayam,Sonia Travels,A/C Semi Sleeper (2+2),23:30,06h 40m,06:10,750,23 Seats available,4.4
+KERALA_RTC,Kozhikode to Kottayam,Madhavi Travels,Volvo A/C Semi Sleeper (2+2),23:30,05h 20m,04:50,1499,15 Seats available,4.0
+KERALA_RTC,Kozhikode to Kottayam,Madhavi Travels,A/C Sleeper (2+1),23:30,06h 30m,06:00,1199,8 Seats available,4.0
+KERALA_RTC,Kozhikode to Kottayam,A1 Travels,A/C Seater / Sleeper (2+1),20:05,06h 55m,03:00,800,14 Seats available,4.2
+KERALA_RTC,Kottayam to Kozhikode,Madhavi Travels,A/C Sleeper (2+1),19:00,08h 00m,03:00,1499,3 Seats available,5.0
+KERALA_RTC,Kottayam to Kozhikode,Madhavi Travels,Volvo A/C Semi Sleeper (2+2),23:59,04h 31m,04:30,1499,25 Seats available,4.7
+KERALA_RTC,Kottayam to Kozhikode,Ubc travels,A/C Seater/Sleeper (2+1),18:00,09h 00m,03:00,1200,2 Seats available,4.0
+KERALA_RTC,Kottayam to Kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),23:59,07h 01m,07:00,800,13 Seats available,2.5
+KERALA_RTC,Kottayam to Kozhikode,Holy Maria Travels,A/C Semi Sleeper (2+2),17:40,07h 50m,01:30,800,39 Seats available,5.0
+KERALA_RTC,Kottayam to Kozhikode,Holy Maria Travels,A/C Semi Sleeper (2+2),18:20,07h 50m,02:10,900,21 Seats available,5.0
+KERALA_RTC,Kottayam to Kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),18:15,07h 10m,01:25,1300,10 Seats available,1.0
+KERALA_RTC,Kottayam to Kozhikode,Ubc travels,A/C Semi Sleeper (2+2),17:30,07h 30m,01:00,700,1 Seat available,3.7
+KERALA_RTC,Kottayam to Kozhikode,EMERALD TRAVELS,A/C Sleeper (2+1),23:00,05h 30m,04:30,1500,18 Seats available,3.7
+KERALA_RTC,Kottayam to Kozhikode,Sonia Travels,A/C Semi Sleeper (2+2),18:45,07h 25m,02:10,999,22 Seats available,3.4

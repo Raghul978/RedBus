@@ -1,0 +1,60 @@
+State,Route,Bus Name,Bus Type,Departing Time,Duration Time,Reaching Time,Price,Seats Available,Star Rating
+WBTC,Digha to Barasat (West Bengal),WBTC (CTC) MADHYAMGRAM - DIGHA via Belghoria - 130|16:00,Non AC Seater (2+3),16:00,05h 05m,21:05,161,19 Seats available,1.7
+WBTC,Digha to Barasat (West Bengal),Arunita Paribahan,A/C Seater (2+3),23:35,05h 25m,05:00,420,28 Seats available,5.0
+WBTC,Digha to Barasat (West Bengal),Aradhana Bus Service,Non AC Seater (2+3),16:50,06h 40m,23:30,350,60 Seats available,1.0
+WBTC,Digha to Barasat (West Bengal),Aradhana Travels,A/C Seater / Sleeper (2+2),18:35,05h 20m,23:55,540,19 Seats available,1.1
+WBTC,Digha to Barasat (West Bengal),Satya Paribahan,A/C Seater (2+3),23:00,06h 10m,05:10,280,23 Seats available,2.6
+WBTC,Digha to Calcutta,Sree Jagannath Travels,A/C Seater Push Back (2+3),15:00,05h 00m,20:00,449,30 Seats available,4.2
+WBTC,Digha to Calcutta,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,330,26 Seats available,3.6
+WBTC,Digha to Calcutta,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,330,28 Seats available,3.2
+WBTC,Digha to Calcutta,Satya Paribahan,A/C Seater (2+3),23:00,04h 45m,03:45,280,25 Seats available,2.9
+WBTC,Digha to Calcutta,Snemita Paribahan(SHINJINI),A/C Seater (2+3),16:00,04h 30m,20:30,420,19 Seats available,2.3
+WBTC,Digha to Calcutta,Snemita Parisheba(Santosh),A/C Seater Push Back (2+3),23:00,05h 20m,04:20,370,20 Seats available,2.2
+WBTC,Digha to Calcutta,Basu Travels,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,419,45 Seats available,2.3
+WBTC,Digha to Calcutta,Snemita Paribahan (Shinjini),AC Seater (2+3),23:35,04h 10m,03:45,370,41 Seats available,2.0
+WBTC,Digha to Calcutta,Parameswar Travels,A/C Seater Push Back (2+3),18:10,05h 05m,23:15,285,60 Seats available,2.2
+WBTC,Digha to Calcutta,Subhadip Travels(Jagannath),A/C Executive (2+3),14:55,04h 45m,19:40,420,19 Seats available,1.2
+WBTC,Digha to Calcutta,Sree Jagannath Travels,A/C Seater Push Back (2+3),16:15,04h 55m,21:10,450,15 Seats available,3.3
+WBTC,Digha to Calcutta,Snemita Parisheba(SNEHA GOLD),AC Seater (2+3),16:40,04h 30m,21:10,430,45 Seats available,3.4
+WBTC,Digha to Calcutta,Parameswar Travels,A/C Seater Push Back (2+3),20:00,05h 35m,01:35,285,23 Seats available,3.3
+WBTC,Digha to Calcutta,SANTOSH BUS SERVICE,AC Seater (2+3),17:05,04h 25m,21:30,323,13 Seats available,2.0
+WBTC,Kolkata to Digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,05h 00m,04:30,899,21 Seats available,4.5
+WBTC,Kolkata to Digha,Express Line,Volvo 9600 A/C Seater (2+2),23:45,05h 00m,04:45,749,39 Seats available,4.3
+WBTC,Kolkata to Digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,07h 30m,05:30,600,12 Seats available,4.2
+WBTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+3),23:45,05h 15m,05:00,400,26 Seats available,3.2
+WBTC,Kolkata to Digha,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,515,16 Seats available,3.9
+WBTC,Kolkata to Digha,Purusottam Travels,A/C Seater (2+3),15:15,04h 50m,20:05,420,19 Seats available,4.3
+WBTC,Kolkata to Digha,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,05h 01m,05:00,415,8 Seats available,3.6
+WBTC,Kolkata to Digha,Basu Travels,A/C Seater Push Back (2+3),23:30,05h 00m,04:30,419,23 Seats available,3.9
+WBTC,Kolkata to Digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,500,28 Seats available,3.9
+WBTC,Kolkata to Digha,Basu Travels,A/C Seater / Sleeper (2+2),23:59,05h 01m,05:00,599,2 Seats available,3.2
+WBTC,Kolkata to Digha,City Express (Shinjini),AC Seater (2+3),23:50,05h 05m,04:55,470,22 Seats available,2.9
+WBTC,Kolkata to Digha,Snemita Paribahan (Bhorpet),AC Seater (2+2),23:55,04h 50m,04:45,570,38 Seats available,3.6
+WBTC,Kolkata to Digha,Mayuri Express,A/C Seater (2+3),18:20,04h 30m,22:50,270,12 Seats available,3.0
+WBTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,400,10 Seats available,2.5
+WBTC,Kolkata to Digha,City Express (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,570,24 Seats available,3.9
+WBTC,Kolkata to Digha,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),16:45,04h 35m,21:20,420,29 Seats available,2.8
+WBTC,Kolkata to Digha,SANTOSH BUS SERVICE,AC Seater (2+3),23:50,05h 10m,05:00,393,26 Seats available,2.6
+WBTC,Kolkata to Digha,Subhadip Travels(Kojagar),Non AC Seater (2+3),16:50,04h 40m,21:30,420,4 Seats available,2.7
+WBTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+3),23:55,05h 05m,05:00,340,23 Seats available,2.9
+WBTC,Kolkata to Digha,Subhadip Travels(Radha Gobinda),A/C Seater (2+3),15:25,05h 35m,21:00,420,20 Seats available,2.6
+WBTC,Kolkata to Digha,SANTOSH BUS SERVICE,A/C Seater / Sleeper (2+2),01:20,04h 10m,05:30,437,17 Seats available,2.6
+WBTC,Kolkata to Digha,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,05h 05m,05:00,550,24 Seats available,1.7
+WBTC,Kolkata to Digha,Sagufta Travels(Janhabi),A/C Seater Push Back (2+3),16:45,04h 30m,21:15,415,11 Seats available,2.3
+WBTC,Kolkata to Digha,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:50,04h 40m,04:30,480,6 Seats available,2.9
+WBTC,Kolkata to Digha,Sagufta Travels (Maity),A/C Seater (2+3),23:59,05h 51m,05:50,415,13 Seats available,2.2
+WBTC,Kolkata to Digha,City Express (BHORPET),AC Seater (2+3),17:40,04h 20m,22:00,370,19 Seats available,2.6
+WBTC,Kolkata to Digha,Samanta Travels,A/C Seater (2+3),18:10,05h 00m,23:10,370,51 Seats available,1.8
+WBTC,Kolkata to Digha,Snemita Paribahan (BHORPET),A/C Seater (2+3),17:40,04h 20m,22:00,380,18 Seats available,2.7
+WBTC,Kolkata to Digha,Samanta Travels,A/C Seater (2+3),18:50,04h 40m,23:30,370,9 Seats available,1.8
+WBTC,Kolkata to Digha,Sagufta Travels (Samanta),A/C Seater (2+3),18:00,04h 50m,22:50,415,3 Seats available,4.0
+WBTC,Kolkata to Digha,Haimanti Bus Service,AC Seater (2+3),19:50,05h 40m,01:30,350,41 Seats available,4.1
+WBTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+2),23:50,04h 55m,04:45,400,6 Seats available,4.8
+WBTC,Kolkata to Digha,Suvam Travels,A/C Seater Push Back (2+3),15:30,05h 00m,20:30,300,21 Seats available,3.6
+WBTC,Kolkata to Digha,Sagufta Travels (Bhorpet Travels),AC Seater (2+2),23:55,04h 40m,04:35,515,20 Seats available,4.3
+WBTC,Kolkata to Digha,Ankita Paribahan(Atithi),A/C Seater (2+3),23:55,05h 05m,05:00,450,18 Seats available,2.6
+WBTC,Kolkata to Digha,Sagufta Travels (Mayuri),A/C Seater (2+2),23:15,04h 45m,04:00,515,21 Seats available,3.6
+WBTC,Kolkata to Digha,Arunita Paribahan,AC Seater (2+2),23:45,05h 00m,04:45,670,17 Seats available,5.0
+WBTC,Kolkata to Digha,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),22:10,07h 30m,05:40,515,30 Seats available,3.2
+WBTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+3),21:50,05h 55m,03:45,400,8 Seats available,3.8
+WBTC,Kolkata to Digha,Snemita Parisheba(Samanta),AC Seater (2+3),18:00,04h 25m,22:25,370,60 Seats available,2.6

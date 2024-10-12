@@ -1,0 +1,133 @@
+State,Route,Bus Name,Bus Type,Departing Time,Duration Time,Reaching Time,Price,Seats Available,Star Rating
+SBSTC,Kolkata to Digha,Shyamoli Paribahan Pvt Ltd,VE A/C Seater (2+2),23:30,05h 00m,04:30,899,21 Seats available,4.5
+SBSTC,Kolkata to Digha,Express Line,Volvo 9600 A/C Seater (2+2),23:45,05h 00m,04:45,749,39 Seats available,4.3
+SBSTC,Kolkata to Digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),22:00,07h 30m,05:30,600,12 Seats available,4.2
+SBSTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+3),23:45,05h 15m,05:00,400,28 Seats available,3.2
+SBSTC,Kolkata to Digha,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,515,16 Seats available,3.9
+SBSTC,Kolkata to Digha,Purusottam Travels,A/C Seater (2+3),14:39,05h 26m,20:05,420,19 Seats available,4.3
+SBSTC,Kolkata to Digha,Sagufta Travels (Atithi),A/C Seater Push Back (2+3),23:59,05h 01m,05:00,415,8 Seats available,3.6
+SBSTC,Kolkata to Digha,Basu Travels,A/C Seater Push Back (2+3),23:30,05h 00m,04:30,419,28 Seats available,3.9
+SBSTC,Kolkata to Digha,Basu Travels,A/C Seater / Sleeper (2+2),23:59,05h 01m,05:00,599,23 Seats available,3.2
+SBSTC,Kolkata to Digha,Maa Chandi Travels,A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,500,2 Seats available,3.9
+SBSTC,Kolkata to Digha,City Express (Shinjini),AC Seater (2+3),23:50,05h 05m,04:55,470,22 Seats available,2.9
+SBSTC,Kolkata to Digha,Snemita Paribahan (Bhorpet),AC Seater (2+2),23:55,04h 50m,04:45,570,38 Seats available,3.6
+SBSTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,400,26 Seats available,2.5
+SBSTC,Kolkata to Digha,Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,05h 05m,05:00,550,24 Seats available,2.7
+SBSTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+3),23:55,05h 05m,05:00,340,12 Seats available,2.6
+SBSTC,Kolkata to Digha,Ankita Paribahan(Janhabi),A/C Seater Push Back (2+3),16:45,04h 35m,21:20,420,10 Seats available,2.8
+SBSTC,Kolkata to Digha,City Express (Shinjini),AC Seater (2+2),23:45,04h 50m,04:35,570,29 Seats available,3.9
+SBSTC,Kolkata to Digha,SANTOSH BUS SERVICE,AC Seater (2+3),23:50,05h 10m,05:00,393,23 Seats available,3.0
+SBSTC,Kolkata to Digha,Subhadip Travels(Radha Gobinda),A/C Seater (2+3),15:25,05h 35m,21:00,420,4 Seats available,2.9
+SBSTC,Kolkata to Digha,Mayuri Express,A/C Seater (2+3),18:20,04h 30m,22:50,270,20 Seats available,2.6
+SBSTC,Kolkata to Digha,Subhadip Travels(Kojagar),Non AC Seater (2+3),16:50,04h 40m,21:30,420,17 Seats available,2.6
+SBSTC,Kolkata to Digha,SANTOSH BUS SERVICE,A/C Seater / Sleeper (2+2),01:20,04h 10m,05:30,437,24 Seats available,2.6
+SBSTC,Kolkata to Digha,Sagufta Travels(Janhabi),A/C Seater Push Back (2+3),16:45,04h 30m,21:15,415,11 Seats available,1.8
+SBSTC,Kolkata to Digha,Sagufta Travels (Maity),A/C Seater (2+3),23:59,05h 51m,05:50,415,6 Seats available,1.7
+SBSTC,Kolkata to Digha,Snemita Paribahan(Shinjini),A/C Seater (2+3),23:50,04h 40m,04:30,480,13 Seats available,2.3
+SBSTC,Kolkata to Digha,Sagufta Travels (Samanta),A/C Seater (2+3),18:00,04h 50m,22:50,415,19 Seats available,2.9
+SBSTC,Kolkata to Digha,Haimanti Bus Service,AC Seater (2+3),19:50,05h 40m,01:30,350,51 Seats available,2.2
+SBSTC,Kolkata to Digha,City Express (BHORPET),AC Seater (2+3),17:40,04h 20m,22:00,370,18 Seats available,1.8
+SBSTC,Kolkata to Digha,Samanta Travels,A/C Seater (2+3),18:10,05h 00m,23:10,370,9 Seats available,2.7
+SBSTC,Kolkata to Digha,Snemita Paribahan (BHORPET),A/C Seater (2+3),17:40,04h 20m,22:00,380,3 Seats available,4.0
+SBSTC,Kolkata to Digha,Samanta Travels,A/C Seater (2+3),18:50,04h 40m,23:30,370,41 Seats available,4.1
+SBSTC,Kolkata to Digha,Suvam Travels,A/C Seater Push Back (2+3),15:30,05h 00m,20:30,300,3 Seats available,4.8
+SBSTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+2),23:50,04h 55m,04:45,400,20 Seats available,3.6
+SBSTC,Kolkata to Digha,Sagufta Travels (Bhorpet Travels),AC Seater (2+2),23:55,04h 40m,04:35,515,21 Seats available,4.3
+SBSTC,Kolkata to Digha,Ankita Paribahan(Atithi),A/C Seater (2+3),23:55,05h 05m,05:00,450,18 Seats available,2.6
+SBSTC,Kolkata to Digha,Sagufta Travels (Mayuri),A/C Seater (2+2),23:15,04h 45m,04:00,515,21 Seats available,3.6
+SBSTC,Kolkata to Digha,Arunita Paribahan,AC Seater (2+2),23:45,05h 00m,04:45,670,17 Seats available,5.0
+SBSTC,Kolkata to Digha,Sagufta Travels(Maa Chandi),A/C Seater / Sleeper (2+2),22:10,07h 30m,05:40,515,30 Seats available,3.2
+SBSTC,Kolkata to Digha,Parameswar Travels,A/C Seater Push Back (2+3),21:50,05h 55m,03:45,400,8 Seats available,3.8
+SBSTC,Kolkata to Digha,Snemita Parisheba(Samanta),AC Seater (2+3),18:00,04h 25m,22:25,370,60 Seats available,2.6
+SBSTC,Digha to Calcutta,Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),14:25,04h 45m,19:10,300,30 Seats available,4.3
+SBSTC,Digha to Calcutta,Sree Jagannath Travels,A/C Seater Push Back (2+3),15:00,05h 00m,20:00,449,26 Seats available,4.2
+SBSTC,Digha to Calcutta,Snemita Paribahan(Shinjini),A/C Seater (2+3),22:45,05h 25m,04:10,330,28 Seats available,3.6
+SBSTC,Digha to Calcutta,City Express (Shinjini),AC Seater (2+3),22:45,05h 25m,04:10,330,19 Seats available,3.2
+SBSTC,Digha to Calcutta,Snemita Pariseba(Samanta),A/C Seater Push Back (2+3),14:45,04h 35m,19:20,450,25 Seats available,2.5
+SBSTC,Digha to Calcutta,Satya Paribahan,A/C Seater (2+3),23:00,04h 45m,03:45,280,20 Seats available,2.9
+SBSTC,Digha to Calcutta,Snemita Paribahan(SHINJINI),A/C Seater (2+3),16:00,04h 30m,20:30,420,45 Seats available,2.3
+SBSTC,Digha to Calcutta,Snemita Paribahan (Shinjini),AC Seater (2+3),23:35,04h 10m,03:45,370,41 Seats available,2.0
+SBSTC,Digha to Calcutta,Parameswar Travels,A/C Seater Push Back (2+3),18:10,05h 05m,23:15,285,19 Seats available,2.2
+SBSTC,Digha to Calcutta,Basu Travels,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,419,15 Seats available,2.3
+SBSTC,Digha to Calcutta,Subhadip Travels(Jagannath),A/C Executive (2+3),14:55,04h 45m,19:40,420,45 Seats available,2.2
+SBSTC,Digha to Calcutta,Snemita Parisheba(Santosh),A/C Seater Push Back (2+3),23:00,05h 20m,04:20,370,60 Seats available,3.4
+SBSTC,Digha to Calcutta,Parameswar Travels,A/C Seater Push Back (2+3),20:00,05h 35m,01:35,285,23 Seats available,1.2
+SBSTC,Digha to Calcutta,SANTOSH BUS SERVICE,AC Seater (2+3),17:05,04h 25m,21:30,323,13 Seats available,2.0
+SBSTC,Kolkata to Asansol (West Bengal),Beauty Travels,NON A/C Seater / Sleeper (2+2),20:20,04h 10m,00:30,380,1 Seat available,5.0
+SBSTC,Kolkata to Nimtouri,SBSTC-KOLKATA - HALDIA - 16:30 (Haldia Depot) - 809,Non AC Seater (2+3),16:30,07h 30m,00:00,80,28 Seats available,1.0
+SBSTC,Kolkata to Nimtouri,SBSTC-KOLKATA - HALDIA - 17:00 (Haldia Depot) - 3017,Non AC Seater (2+3),17:00,07h 00m,00:00,80,40 Seats available,3.6
+SBSTC,Kolkata to Nimtouri,SBSTC-KOLKATA - HALDIA - 17.30 (HALDIA DEPOT) - 565,Non AC Seater (2+3),17:30,06h 30m,00:00,80,35 Seats available,4.4
+SBSTC,Kolkata to Nimtouri,SBSTC-KOLKATA - HALDIA - 18.15 (HALDIA DEPOT) - 566,Non AC Seater (2+3),18:15,05h 45m,00:00,80,24 Seats available,4.4
+SBSTC,Kolkata to Nimtouri,SBSTC-KOLKATA - DIGHA - SPL - 22:45 (DIGHA DEPOT) - 3365,Non AC Seater (2+3),22:45,01h 15m,00:00,80,45 Seats available,4.0
+SBSTC,Kolkata to Nimtouri,SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745,Non AC Seater (2+3),23:45,00h 15m,00:00,78,4 Seats available,3.6
+SBSTC,Jhargram to Kolkata,SBSTC-JHARGRAM - KARUNAMOYEE - VIA-LODHASULI - 15:40 (JH - 3799,Non AC Seater (2+3),15:40,08h 20m,00:00,150,46 Seats available,4.6
+SBSTC,Kolkata to Contai (Kanthi),WBTC (CTC) KARUNAMOYEE (Salt Lake) -DIGHA - 102|15:25,Non AC Seater (2+3),15:25,03h 35m,19:00,134,18 Seats available,5.0
+SBSTC,Kolkata to Contai (Kanthi),Subhadip Travels(Radha Gobinda),A/C Seater (2+3),15:25,04h 25m,19:50,420,12 Seats available,5.0
+SBSTC,Kolkata to Contai (Kanthi),Suvam Travels,Non AC Seater (2+3),16:30,03h 00m,19:30,200,28 Seats available,3.8
+SBSTC,Kolkata to Contai (Kanthi),Subhadip Travels(Kojagar),Non AC Seater (2+3),16:50,03h 55m,20:45,420,17 Seats available,5.0
+SBSTC,Kolkata to Contai (Kanthi),Mayuri Express,AC Seater (2+2),23:15,03h 15m,02:30,540,38 Seats available,3.7
+SBSTC,Kolkata to Contai (Kanthi),City Express (Shinjini),AC Seater (2+2),23:45,03h 45m,03:30,570,36 Seats available,5.0
+SBSTC,Kolkata to Contai (Kanthi),Parameswar Travels,A/C Seater Push Back (2+3),23:45,04h 15m,04:00,400,30 Seats available,2.5
+SBSTC,Kolkata to Contai (Kanthi),Parameswar Travels,A/C Seater Push Back (2+2),23:50,04h 10m,04:00,400,51 Seats available,1.0
+SBSTC,Kolkata to Contai (Kanthi),Snemita Parisheba,A/C Push Back (2+3),15:15,03h 45m,19:00,370,8 Seats available,2.8
+SBSTC,Kolkata to Contai (Kanthi),Suvam Travels,A/C Seater Push Back (2+3),15:30,03h 00m,18:30,300,29 Seats available,1.7
+SBSTC,Kolkata to Kolaghat,SBSTC-KOLKATA - JHARGRAM - VIA - DHARUA - 15:15(JHRGRAM) - 3798,Non AC Seater (2+3),15:15,08h 45m,00:00,65,38 Seats available,3.7
+SBSTC,Kolkata to Kolaghat,SBSTC-KOLKATA - MIDNAPUR - 15:30 (MID DEPOT) - 595,Non AC Seater (2+3),15:30,08h 30m,00:00,64,32 Seats available,4.7
+SBSTC,Kolkata to Kolaghat,SBSTC-ASANSOL - BELDA - VIA - KOLKATA - 08:50 (ASN DEPOT - 3989,Non AC Seater (2+3),16:00,08h 00m,00:00,65,48 Seats available,4.2
+SBSTC,Kolkata to Kolaghat,SBSTC-KARUNAMOYEE - MIDNAPUR - VIA - ECOPARK - 16:00 (MI - 4001,Express Non AC Seater 2+3,16:00,01h 30m,17:30,85,44 Seats available,4.2
+SBSTC,Kolkata to Kolaghat,SBSTC-KOLKATA - JHARGRAM - VIA - LODHASULI - 16:50 - 1394,Non AC Seater (2+3),16:50,07h 10m,00:00,64,47 Seats available,2.3
+SBSTC,Kolkata to Kolaghat,SBSTC-KOLKATA - GOPIGANJ - 17:30 (ARM DEPOT) - 603,Non AC Seater (2+3),17:30,06h 30m,00:00,64,25 Seats available,4.9
+SBSTC,Kolkata to Kolaghat,SBSTC-KOLKATA - MIDNAPUR - 18:00 (MID DEPOT) - 597,Non AC Seater (2+3),18:00,06h 00m,00:00,64,25 Seats available,3.0
+SBSTC,Kolkata to Nandakumar (west bengal),Basu Travels,A/C Seater / Sleeper (2+2),23:59,02h 01m,02:00,599,28 Seats available,4.0
+SBSTC,Kolkata to Nandakumar (west bengal),Sagufta Travels (Santosh),A/C Seater / Sleeper (2+2),01:20,02h 00m,03:20,500,9 Seats available,5.0
+SBSTC,Kolkata to Nandakumar (west bengal),Subhadip Travels(Kojagar),Non AC Seater (2+3),16:50,02h 25m,19:15,420,22 Seats available,2.0
+SBSTC,Kolkata to Mecheda (West Bengal),SBSTC-KOLKATA - HALDIA - 16:30 (Haldia Depot) - 809,Non AC Seater (2+3),16:30,07h 30m,00:00,68,28 Seats available,5.0
+SBSTC,Kolkata to Mecheda (West Bengal),SBSTC-KOLKATA - HALDIA - 17:00 (Haldia Depot) - 3017,Non AC Seater (2+3),17:00,07h 00m,00:00,68,40 Seats available,4.4
+SBSTC,Kolkata to Mecheda (West Bengal),SBSTC-KOLKATA - HALDIA - 17.30 (HALDIA DEPOT) - 565,Non AC Seater (2+3),17:30,06h 30m,00:00,68,35 Seats available,3.7
+SBSTC,Kolkata to Mecheda (West Bengal),SBSTC-KOLKATA - HALDIA - 18.15 (HALDIA DEPOT) - 566,Non AC Seater (2+3),18:15,05h 45m,00:00,68,23 Seats available,3.3
+SBSTC,Kolkata to Mecheda (West Bengal),SBSTC-KOLKATA - DIGHA - SPL - 22:45 (DIGHA DEPOT) - 3365,Non AC Seater (2+3),22:45,01h 15m,00:00,68,35 Seats available,3.9
+SBSTC,Digha to Durgapur (West Bengal),SBSTC-DIGHA - DURGAPUR - VIA - BISHNUPUR - 2/2 - 20:30 - 3808,Non AC Seater (2+2),20:30,08h 10m,04:40,233,14 Seats available,3.8
+SBSTC,Digha to Durgapur (West Bengal),SBSTC-DIGHA - ASANSOL - VIA - MEDINIPUR-DURGAPUR - 21:30 - 1553,Non AC Seater (2+3),21:30,08h 30m,06:00,238,18 Seats available,3.3
+SBSTC,Durgapur (West Bengal) to Digha,ISHIKA TRADERS,A/C Seater / Sleeper (2+2),21:10,07h 50m,05:00,600,1 Seat available,3.4
+SBSTC,Kolkata to Chandipur (West Bengal),SBSTC-KOLKATA - DIGHA - SPL - 22:45 (DIGHA DEPOT) - 3365,Non AC Seater (2+3),22:45,01h 15m,00:00,96,34 Seats available,4.0
+SBSTC,Kolkata to Debra,SBSTC-KOLKATA - JHARGRAM - VIA - DHARUA - 15:15(JHRGRAM) - 3798,Non AC Seater (2+3),15:15,08h 45m,00:00,88,36 Seats available,3.4
+SBSTC,Kolkata to Debra,SBSTC-KOLKATA - MIDNAPUR - 15:30 (MID DEPOT) - 595,Non AC Seater (2+3),15:30,08h 30m,00:00,88,31 Seats available,3.9
+SBSTC,Kolkata to Debra,SBSTC-ASANSOL - BELDA - VIA - KOLKATA - 08:50 (ASN DEPOT - 3989,Non AC Seater (2+3),16:00,08h 00m,00:00,88,48 Seats available,3.4
+SBSTC,Kolkata to Debra,SBSTC-KARUNAMOYEE - MIDNAPUR - VIA - ECOPARK - 16:00 (MI - 4001,Express Non AC Seater 2+3,16:00,08h 00m,00:00,108,2 Seats available,3.4
+SBSTC,Kolkata to Debra,SBSTC-KOLKATA - JHARGRAM - VIA - LODHASULI - 16:50 - 1394,Non AC Seater (2+3),16:50,07h 10m,00:00,88,44 Seats available,1.7
+SBSTC,Kolkata to Debra,SBSTC-KOLKATA - MIDNAPUR - 18:00 (MID DEPOT) - 597,Non AC Seater (2+3),18:00,06h 00m,00:00,88,23 Seats available,1.8
+SBSTC,Kolkata to Debra,SBSTC-KOLKATA - MIDNAPUR - 18:45 (MID DEPOT) - 678,Non AC Seater (2+3),18:45,05h 15m,00:00,88,25 Seats available,3.9
+SBSTC,Kolkata to Panskura,SBSTC-KOLKATA - JHARGRAM - VIA - DHARUA - 15:15(JHRGRAM) - 3798,Non AC Seater (2+3),15:15,08h 45m,00:00,75,37 Seats available,5.0
+SBSTC,Kolkata to Panskura,SBSTC-KOLKATA - MIDNAPUR - 15:30 (MID DEPOT) - 595,Non AC Seater (2+3),15:30,08h 30m,00:00,75,32 Seats available,3.7
+SBSTC,Kolkata to Panskura,SBSTC-ASANSOL - BELDA - VIA - KOLKATA - 08:50 (ASN DEPOT - 3989,Non AC Seater (2+3),16:00,08h 00m,00:00,75,48 Seats available,4.2
+SBSTC,Kolkata to Panskura,SBSTC-KARUNAMOYEE - MIDNAPUR - VIA - ECOPARK - 16:00 (MI - 4001,Express Non AC Seater 2+3,16:00,08h 00m,00:00,95,2 Seats available,4.2
+SBSTC,Kolkata to Panskura,SBSTC-KOLKATA - JHARGRAM - VIA - LODHASULI - 16:50 - 1394,Non AC Seater (2+3),16:50,07h 10m,00:00,75,44 Seats available,3.3
+SBSTC,Kolkata to Panskura,SBSTC-KOLKATA - MIDNAPUR - 18:00 (MID DEPOT) - 597,Non AC Seater (2+3),18:00,06h 00m,00:00,75,23 Seats available,4.9
+SBSTC,Kolkata to Panskura,SBSTC-KOLKATA - MIDNAPUR - 18:45 (MID DEPOT) - 678,Non AC Seater (2+3),18:45,05h 15m,00:00,75,25 Seats available,4.2
+SBSTC,Kolkata to Heria,WBTC (CTC) KARUNAMOYEE (Salt Lake) -DIGHA - 102|15:25,Non AC Seater (2+3),15:25,03h 05m,18:30,115,34 Seats available,3.7
+SBSTC,Kolkata to Heria,SBSTC-KOLKATA - DIGHA - SPL - 22:45 (DIGHA DEPOT) - 3365,Non AC Seater (2+3),22:45,01h 15m,00:00,107,8 Seats available,3.2
+SBSTC,Kolkata to Heria,Basu Travels,A/C Seater Push Back (2+3),23:30,03h 25m,02:55,419,28 Seats available,2.7
+SBSTC,Digha to Barasat (West Bengal),Arunita Paribahan,A/C Seater (2+3),23:35,05h 25m,05:00,420,19 Seats available,5.0
+SBSTC,Digha to Barasat (West Bengal),Aradhana Bus Service,Non AC Seater (2+3),16:50,06h 40m,23:30,350,28 Seats available,1.0
+SBSTC,Digha to Barasat (West Bengal),Aradhana Travels,A/C Seater / Sleeper (2+2),18:35,05h 20m,23:55,540,60 Seats available,1.1
+SBSTC,Digha to Barasat (West Bengal),Satya Paribahan,A/C Seater (2+3),23:00,06h 10m,05:10,280,19 Seats available,2.6
+SBSTC,Digha to Barasat (West Bengal),Aradhana Bus Service,A/C Seater / Sleeper (2+2),23:00,05h 30m,04:30,550,23 Seats available,2.1
+SBSTC,Illambazar to Kolkata,SBSTC-SURI - KOLKATA - 15:15 - (Suri Depot) - 1364,Non AC Seater (2+3),16:15,07h 45m,00:00,155,48 Seats available,3.7
+SBSTC,Kolkata to Futishanko,SBSTC-KOLKATA - LANGALHATA - 15:15 (BWN DEPOT) - 1849,Non AC Seater (2+3),15:15,08h 45m,00:00,140,8 Seats available,2.0
+SBSTC,Kolkata to Futishanko,SBSTC-KOLKATA - KANDRA - 16:00 (BWN DEPOT) - 689,Non AC Seater (2+3),16:00,08h 00m,00:00,140,19 Seats available,2.9
+SBSTC,Kolkata to Futishanko,SBSTC-KOLKATA - KANDI - VIA - FUTISANKO - 16:25 (BWN D - 3968,Non AC Seater (2+3),16:25,07h 35m,00:00,140,28 Seats available,3.6
+SBSTC,Kolkata to Futishanko,SBSTC-KOLKATA - LABPUR - 16:35 (HWH DEPOT) - 3238,Non AC Seater (2+3),16:35,07h 25m,00:00,140,7 Seats available,4.6
+SBSTC,Kolkata to Ramnagar (West Bengal),SBSTC-KOLKATA - DIGHA - SPL - 22:45 (DIGHA DEPOT) - 3365,Non AC Seater (2+3),22:45,01h 15m,00:00,144,34 Seats available,3.8
+SBSTC,Kolkata to Ramnagar (West Bengal),Bengal Surface Transport,A/C Seater Push Back (2+3),23:20,04h 40m,04:00,419,21 Seats available,3.0
+SBSTC,Kolkata to Ramnagar (West Bengal),Basu Travels,A/C Seater Push Back (2+3),23:30,04h 15m,03:45,419,22 Seats available,3.0
+SBSTC,Kolkata to Ramnagar (West Bengal),Bengal Surface Transport,A/C Seater Push Back (2+3),23:59,04h 46m,04:45,419,27 Seats available,1.0
+SBSTC,Kolkata to Ramnagar (West Bengal),Bengal Surface Transport,A/C Seater / Sleeper (2+2),23:55,04h 45m,04:40,550,26 Seats available,3.0
+SBSTC,Kolkata to Ramnagar (West Bengal),Basu Travels,A/C Seater / Sleeper (2+2),23:59,04h 41m,04:40,599,28 Seats available,3.0
+SBSTC,Durgapur (West Bengal) to Purulia,SBSTC-KOLKATA - PURULIA - VIA - ASN - 14:15 (PRL DEPOT) - 292,Non AC Seater (2+3),17:15,06h 45m,00:00,112,12 Seats available,1.6
+SBSTC,Kolkata to Ashari,SBSTC-KOLKATA - JHARGRAM - VIA - DHARUA - 15:15(JHRGRAM) - 3798,Non AC Seater (2+3),15:15,08h 45m,00:00,82,52 Seats available,4.6
+SBSTC,Kolkata to Ashari,SBSTC-KOLKATA - MIDNAPUR - 15:30 (MID DEPOT) - 595,Non AC Seater (2+3),15:30,08h 30m,00:00,82,38 Seats available,5.0
+SBSTC,Kolkata to Ashari,SBSTC-ASANSOL - BELDA - VIA - KOLKATA - 08:50 (ASN DEPOT - 3989,Non AC Seater (2+3),16:00,08h 00m,00:00,82,48 Seats available,3.8
+SBSTC,Kolkata to Ashari,SBSTC-KARUNAMOYEE - MIDNAPUR - VIA - ECOPARK - 16:00 (MI - 4001,Express Non AC Seater 2+3,16:00,08h 00m,00:00,102,6 Seats available,3.8
+SBSTC,Kolkata to Ashari,SBSTC-KOLKATA - JHARGRAM - VIA - LODHASULI - 16:50 - 1394,Non AC Seater (2+3),16:50,07h 10m,00:00,82,45 Seats available,3.5
+SBSTC,Kolkata to Ashari,SBSTC-KOLKATA - MIDNAPUR - 18:00 (MID DEPOT) - 597,Non AC Seater (2+3),18:00,06h 00m,00:00,82,24 Seats available,4.0
+SBSTC,Kolkata to Ashari,SBSTC-KOLKATA - MIDNAPUR - 18:45 (MID DEPOT) - 678,Non AC Seater (2+3),18:45,05h 15m,00:00,82,25 Seats available,3.6

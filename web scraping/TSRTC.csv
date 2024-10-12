@@ -1,0 +1,610 @@
+State,Route,Bus Name,Bus Type,Departing Time,Duration Time,Reaching Time,Price,Seats Available,Star Rating
+TSRTC,Hyderabad to Vijayawada,FRESHBUS,Electric A/C Seater (2+2),22:55,06h 15m,05:10,524,19 Seats available,4.5
+TSRTC,Hyderabad to Vijayawada,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:50,05h 45m,05:35,679,19 Seats available,4.4
+TSRTC,Hyderabad to Vijayawada,Zingbus Plus,A/C Seater / Sleeper (2+1),23:38,06h 27m,06:05,725,31 Seats available,4.5
+TSRTC,Hyderabad to Vijayawada,AdSai Dasari Travels,Non A/C Seater / Sleeper (2+1),23:05,05h 22m,04:27,880,4 Seats available,3.5
+TSRTC,Hyderabad to Vijayawada,FRESHBUS,Electric A/C Seater (2+2),14:45,04h 40m,19:25,449,17 Seats available,4.5
+TSRTC,Hyderabad to Vijayawada,IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),23:30,07h 10m,06:40,1199,22 Seats available,4.5
+TSRTC,Hyderabad to Vijayawada,FRESHBUS,Electric A/C Seater (2+2),23:40,06h 15m,05:55,629,23 Seats available,4.4
+TSRTC,Hyderabad to Vijayawada,GMRK Tours and Travels,Volvo A/C Semi Sleeper (2+2),23:45,05h 40m,05:25,769,23 Seats available,4.5
+TSRTC,Hyderabad to Vijayawada,NueGo,Electric A/C Seater (2+2),22:30,07h 30m,06:00,522,24 Seats available,4.4
+TSRTC,Hyderabad to Vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06h 55m,06:00,769,16 Seats available,4.4
+TSRTC,Hyderabad to Vijayawada,NueGo,Electric A/C Seater (2+2),22:35,06h 40m,05:15,874,29 Seats available,4.5
+TSRTC,Hyderabad to Vijayawada,FRESHBUS,Electric A/C Seater (2+2),00:20,06h 10m,06:30,699,5 Seats available,4.5
+TSRTC,Hyderabad to Vijayawada,Svkdt travels,A/C Sleeper (2+1),23:35,06h 15m,05:50,969,20 Seats available,4.4
+TSRTC,Hyderabad to Vijayawada,FRESHBUS,Electric A/C Seater (2+2),22:25,06h 30m,04:55,899,13 Seats available,4.4
+TSRTC,Khammam to Hyderabad,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),23:40,05h 20m,05:00,400,23 Seats available,3.1
+TSRTC,Khammam to Hyderabad,BSR Tours And Travels,NON A/C Seater (2+2),23:40,06h 20m,06:00,400,33 Seats available,4.2
+TSRTC,Khammam to Hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:40,04h 20m,04:00,390,20 Seats available,4.2
+TSRTC,Khammam to Hyderabad,Sri Venkateswara Travels,Non A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,400,23 Seats available,4.2
+TSRTC,Khammam to Hyderabad,RRR Travels,A/C Sleeper (2+1),23:50,05h 40m,05:30,650,17 Seats available,4.5
+TSRTC,Khammam to Hyderabad,Sri KVR Travels,A/C Sleeper (2+1),23:58,05h 02m,05:00,480,23 Seats available,5.0
+TSRTC,Khammam to Hyderabad,BSR Tours And Travels,A/C Sleeper (2+1),23:59,06h 01m,06:00,780,8 Seats available,4.3
+TSRTC,Khammam to Hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:59,05h 01m,05:00,390,27 Seats available,4.0
+TSRTC,Khammam to Hyderabad,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),23:59,06h 06m,06:05,500,28 Seats available,4.4
+TSRTC,Khammam to Hyderabad,SAIRAJ TRAVELS,A/C Sleeper (2+1),23:59,05h 31m,05:30,700,17 Seats available,5.0
+TSRTC,Khammam to Hyderabad,SAIRAJ TRAVELS,NON A/C Seater (2+2),23:59,06h 16m,06:15,400,26 Seats available,3.5
+TSRTC,Khammam to Hyderabad,Sri Krishna Travels(VGN),Non A/C Seater / Sleeper (2+1),23:59,06h 11m,06:10,450,18 Seats available,3.1
+TSRTC,Khammam to Hyderabad,BSR Tours And Travels,A/C Seater / Sleeper (2+1),23:59,06h 01m,06:00,580,24 Seats available,4.6
+TSRTC,Khammam to Hyderabad,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),00:30,05h 00m,05:30,450,18 Seats available,3.1
+TSRTC,Khammam to Hyderabad,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),00:30,04h 30m,05:00,500,40 Seats available,3.2
+TSRTC,Khammam to Hyderabad,Mozo travels,A/C Seater / Sleeper (2+1),01:30,04h 30m,06:00,499,24 Seats available,4.4
+TSRTC,Khammam to Hyderabad,Mozo travels,A/C Seater / Sleeper (2+1),01:30,04h 30m,06:00,549,35 Seats available,4.4
+TSRTC,Khammam to Hyderabad,Bharathi Tours & Travels,A/C Sleeper (2+1),23:59,0-19h 0-59m,05:00,690,17 Seats available,3.6
+TSRTC,Khammam to Hyderabad,Morning Star Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),18:00,03h 45m,21:45,690,15 Seats available,2.3
+TSRTC,Khammam to Hyderabad,Sri Krishna Travels(VGN),NON A/C Hi-Tech (2+2),23:55,05h 30m,05:25,350,7 Seats available,2.6
+TSRTC,Khammam to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),00:45,03h 35m,04:20,600,9 Seats available,1.8
+TSRTC,Khammam to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),01:30,03h 30m,05:00,790,38 Seats available,2.2
+TSRTC,Khammam to Hyderabad,Navin Citi Connect,Non A/C Seater / Sleeper (2+1),23:59,06h 11m,06:10,3000,41 Seats available,3.4
+TSRTC,Hyderabad to Khammam,Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),21:00,06h 15m,03:15,700,12 Seats available,3.8
+TSRTC,Hyderabad to Khammam,Sri KVR Travels,NON A/C Seater (2+2),21:15,06h 45m,04:00,850,13 Seats available,3.6
+TSRTC,Hyderabad to Khammam,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),21:15,05h 45m,03:00,810,4 Seats available,4.9
+TSRTC,Hyderabad to Khammam,Bharathi Tours & Travels,NON A/C Hi-Tech (2+2),21:20,05h 40m,03:00,800,15 Seats available,4.3
+TSRTC,Hyderabad to Khammam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,06h 10m,03:30,600,12 Seats available,4.7
+TSRTC,Hyderabad to Khammam,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),21:30,05h 45m,03:15,890,17 Seats available,4.3
+TSRTC,Hyderabad to Khammam,Sri Krishna Travels(VGN),NON A/C Hi-Tech (2+2),21:45,05h 45m,03:30,650,9 Seats available,3.9
+TSRTC,Hyderabad to Khammam,Sri Krishna Travels(VGN),Non A/C Seater / Sleeper (2+1),21:45,06h 05m,03:50,650,19 Seats available,3.5
+TSRTC,Hyderabad to Khammam,Rajdhani Travels,A/C Sleeper (2+1),21:50,05h 10m,03:00,950,3 Seats available,4.3
+TSRTC,Hyderabad to Khammam,BSR Tours And Travels,NON A/C Seater (2+2),22:00,04h 30m,02:30,880,30 Seats available,3.1
+TSRTC,Hyderabad to Khammam,Sri KVR Travels,A/C Sleeper (2+1),22:00,06h 00m,04:00,850,14 Seats available,4.1
+TSRTC,Hyderabad to Khammam,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,05h 15m,03:30,890,10 Seats available,4.2
+TSRTC,Hyderabad to Khammam,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,05h 15m,03:30,890,9 Seats available,4.1
+TSRTC,Hyderabad to Khammam,Sri Venkateswara Travels,Non A/C Seater / Sleeper (2+1),22:30,05h 00m,03:30,800,21 Seats available,4.1
+TSRTC,Hyderabad to Khammam,SBS Tours and Travels,Non A/C Seater / Sleeper (2+1),22:45,04h 30m,03:15,690,27 Seats available,3.9
+TSRTC,Hyderabad to Khammam,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),23:45,03h 15m,03:00,950,31 Seats available,1.0
+TSRTC,Hyderabad to Khammam,Maa Bankeshwari -Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),19:15,05h 15m,00:30,650,9 Seats available,1.0
+TSRTC,Hyderabad to Khammam,KVR Tours and Travels,A/C Seater / Sleeper (2+1),21:30,06h 10m,03:40,854,24 Seats available,2.4
+TSRTC,Hyderabad to Khammam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,05h 25m,03:45,750,5 Seats available,1.6
+TSRTC,Hyderabad to Khammam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,05h 25m,03:45,830,20 Seats available,2.8
+TSRTC,Hyderabad to Khammam,Hanuman Travels,A/C Seater / Sleeper (2+1),22:30,04h 30m,03:00,949,22 Seats available,3.0
+TSRTC,Hyderabad to Khammam,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:30,05h 00m,04:30,900,19 Seats available,3.8
+TSRTC,Hyderabad to Khammam,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:30,06h 00m,00:30,999,18 Seats available,3.4
+TSRTC,Hyderabad to Khammam,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:30,04h 00m,23:30,1200,38 Seats available,4.0
+TSRTC,Hyderabad to Khammam,Navin Citi Connect,Non A/C Seater / Sleeper (2+1),19:45,06h 30m,02:15,3000,21 Seats available,3.7
+TSRTC,Hyderabad to Khammam,DMR Travels,A/C Sleeper (2+1),20:50,05h 40m,02:30,1770,13 Seats available,4.0
+TSRTC,Hyderabad to Khammam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,06h 30m,03:50,1000,25 Seats available,3.5
+TSRTC,Hyderabad to Khammam,Bharathi Tours & Travels,A/C Sleeper (2+1),21:20,06h 10m,03:30,1390,23 Seats available,3.5
+TSRTC,Hyderabad to Khammam,Sri Rama Travels,A/C Seater / Sleeper (2+1),21:40,05h 50m,03:30,1111,21 Seats available,3.0
+TSRTC,Hyderabad to Khammam,Sri Rama Travels,A/C Seater / Sleeper (2+1),21:40,05h 50m,03:30,1888,20 Seats available,5.0
+TSRTC,Hyderabad to Khammam,Siri Tours and Travels,Non A/C Seater / Sleeper (2+1),21:50,04h 40m,02:30,999,12 Seats available,5.0
+TSRTC,Hyderabad to Khammam,Sri Sai Balaji Travels,A/C Sleeper (2+1),21:55,05h 05m,03:00,1399,34 Seats available,3.0
+TSRTC,Hyderabad to Khammam,Sri Sai Balaji Travels,A/C Sleeper (2+1),21:55,05h 05m,03:00,3999,3 Seats available,3.8
+TSRTC,Hyderabad to Khammam,BSR Tours And Travels,A/C Sleeper (2+1),22:00,04h 30m,02:30,1280,3 Seats available,4.2
+TSRTC,Hyderabad to Khammam,RRR Travels,A/C Sleeper (2+1),22:00,06h 00m,04:00,1100,16 Seats available,4.0
+TSRTC,Hyderabad to Khammam,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),22:15,05h 15m,03:30,1090,32 Seats available,4.2
+TSRTC,Hyderabad to Khammam,SVN TOURS & TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:15,05h 45m,04:00,1372,1 Seat available,4.0
+TSRTC,Hyderabad to Khammam,SAIRAJ TRAVELS,A/C Sleeper (2+1),22:15,05h 15m,03:30,1890,42 Seats available,3.7
+TSRTC,Hyderabad to Khammam,SVN TOURS & TRAVELS,NON A/C Semi Sleeper / Sleeper (2+1),22:15,05h 45m,04:00,2176,22 Seats available,4.7
+TSRTC,Hyderabad to Khammam,Morning Star Travels,A/C Sleeper (2+1),22:30,04h 30m,03:00,1290,19 Seats available,3.0
+TSRTC,Hyderabad to Khammam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:35,05h 10m,03:45,1000,9 Seats available,5.0
+TSRTC,Hyderabad to Khammam,Bharathi Tours & Travels,A/C Sleeper (2+1),22:35,05h 10m,03:45,1390,10 Seats available,4.0
+TSRTC,Hyderabad to Khammam,Mozo travels,A/C Seater / Sleeper (2+1),22:40,04h 55m,03:35,1000,21 Seats available,4.6
+TSRTC,Hyderabad to Khammam,Mythri Tours And Travels,A/C Sleeper (2+1),23:00,03h 30m,02:30,1299,12 Seats available,1.0
+TSRTC,Hyderabad to Khammam,VSR Tours and Travels,A/C Sleeper (2+1),23:00,03h 30m,02:30,1299,23 Seats available,2.4
+TSRTC,Hyderabad to Khammam,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),17:00,04h 15m,21:15,1300,8 Seats available,1.0
+TSRTC,Hyderabad to Khammam,Sri Krishna Travels,A/C Sleeper (2+1),19:00,04h 30m,23:30,2000,12 Seats available,1.0
+TSRTC,Hyderabad to Khammam,KVR Tours and Travels,A/C Sleeper (2+1),19:30,06h 10m,01:40,1329,1 Seat available,2.7
+TSRTC,Hyderabad to Srisailam,TGSRTC - 9618,Super Luxury (Non AC Seater 2+2 Push Back),14:35,07h 45m,22:20,442,21 Seats available,3.6
+TSRTC,Hyderabad to Srisailam,TGSRTC - 1282,Rajdhani (AC Semi Sleeper 2+2),15:00,05h 00m,20:00,524,31 Seats available,3.7
+TSRTC,Hyderabad to Srisailam,TGSRTC - 1964,Deluxe (Non AC Seater 2+2),15:00,07h 15m,22:15,390,29 Seats available,4.1
+TSRTC,Hyderabad to Srisailam,TGSRTC - 1266,Super Luxury (Non AC Seater 2+2 Push Back),15:45,07h 15m,23:00,442,11 Seats available,4.4
+TSRTC,Hyderabad to Srisailam,TGSRTC - 1254,Super Luxury (Non AC Seater 2+2 Push Back),20:10,12h 20m,08:30,442,19 Seats available,4.4
+TSRTC,Hyderabad to Srisailam,TGSRTC - 1252,Super Luxury (Non AC Seater 2+2 Push Back),20:15,12h 15m,08:30,442,20 Seats available,4.0
+TSRTC,Hyderabad to Karimnagar,DNR Express,AC Sleeper (2+1),21:30,02h 29m,23:59,998,36 Seats available,2.9
+TSRTC,Hyderabad to Karimnagar,Bhumi travels,AC Seater (2+2),22:00,05h 00m,03:00,2000,9 Seats available,2.4
+TSRTC,Hyderabad to Mancherial,TGSRTC - 77374,SEMI DELUXE,20:30,05h 20m,01:50,537,25 Seats available,3.8
+TSRTC,Hyderabad to Mancherial,DNR Express,AC Sleeper (2+1),21:30,04h 30m,02:00,998,8 Seats available,2.4
+TSRTC,Hyderabad to Nirmal,New Royal Travels (Raipur),A/C Seater / Sleeper (2+1),14:35,05h 55m,20:30,1810,9 Seats available,3.0
+TSRTC,Hyderabad to Nirmal,Muskan Travels,A/C Seater (2+2),17:00,04h 45m,21:45,619,1 Seat available,3.0
+TSRTC,Hyderabad to Nirmal,GDR Tours and Travels,Bharat Benz A/C Seater (2+2),18:00,04h 00m,22:00,600,16 Seats available,3.3
+TSRTC,Hyderabad to Nirmal,Sahara Tours and Travels,Bharat Benz A/C Seater (2+2),18:00,03h 45m,21:45,800,21 Seats available,3.7
+TSRTC,Hyderabad to Nirmal,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),19:00,04h 15m,23:15,1800,15 Seats available,5.0
+TSRTC,Hyderabad to Nirmal,Pooja Travels,A/C Sleeper (2+1),20:00,07h 30m,03:30,1100,14 Seats available,5.0
+TSRTC,Hyderabad to Nirmal,Muskan Travels,NON A/C Sleeper (2+1),21:45,05h 45m,03:30,577,42 Seats available,2.3
+TSRTC,Hyderabad to Nirmal,Pooja Travels,A/C Sleeper (2+1),20:10,06h 20m,02:30,1000,22 Seats available,3.0
+TSRTC,Hyderabad to Nirmal,Pooja Travels,NON A/C Seater (2+2),21:00,05h 00m,02:00,700,30 Seats available,3.0
+TSRTC,Hyderabad to Nirmal,Ameena Travels,A/C Sleeper (2+1),21:50,05h 10m,03:00,1110,12 Seats available,4.4
+TSRTC,Hyderabad to Adilabad,Orange Tours And Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),18:00,05h 15m,23:15,800,13 Seats available,3.7
+TSRTC,Hyderabad to Adilabad,Sahara Tours and Travels,Bharat Benz A/C Seater (2+2),18:00,05h 15m,23:15,800,11 Seats available,3.5
+TSRTC,Hyderabad to Adilabad,GDR Tours and Travels,Bharat Benz A/C Seater (2+2),18:00,05h 15m,23:15,600,14 Seats available,3.2
+TSRTC,Hyderabad to Adilabad,Orange Tours And Travels,A/C Sleeper (2+1),22:00,05h 45m,03:45,1000,2 Seats available,4.2
+TSRTC,Hyderabad to Adilabad,SRS Travels,Scania Multi-Axle AC Semi Sleeper (2+2),22:30,05h 30m,04:00,1150,5 Seats available,3.3
+TSRTC,Hyderabad to Adilabad,Pooja Travels,A/C Sleeper (2+1),20:10,08h 25m,04:35,1000,13 Seats available,3.2
+TSRTC,Hyderabad to Adilabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),19:00,05h 30m,00:30,1200,13 Seats available,3.6
+TSRTC,Hyderabad to Adilabad,Orange Tours And Travels,Scania AC Multi Axle Sleeper (2+1),23:50,04h 55m,04:45,1100,17 Seats available,2.3
+TSRTC,Hyderabad to Adilabad,Pooja Travels,NON A/C Sleeper (2+1),22:00,07h 40m,05:40,1000,1 Seat available,2.4
+TSRTC,Hyderabad to Adilabad,Orange Tours And Travels,A/C Sleeper (2+1),22:00,05h 45m,03:45,1000,4 Seats available,2.8
+TSRTC,Hyderabad to Adilabad,Pooja Travels,NON A/C Seater (2+2),21:00,08h 10m,05:10,700,2 Seats available,1.9
+TSRTC,Hyderabad to Adilabad,Kaleswari Travels,Non A/C Seater / Sleeper (2+1),23:30,05h 45m,05:15,1891,5 Seats available,2.3
+TSRTC,Hyderabad to Adilabad,Diamond Travels,AC Sleeper (2+1),21:30,06h 15m,03:45,900,9 Seats available,1.7
+TSRTC,Hyderabad to Adilabad,Saini Travels Pvt. Ltd.,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:30,05h 00m,03:30,1400,7 Seats available,5.0
+TSRTC,Hyderabad to Adilabad,New Royal Travels (Raipur),A/C Seater / Sleeper (2+1),14:45,07h 00m,21:45,1810,7 Seats available,1.5
+TSRTC,Hyderabad to Adilabad,New Royal Travels (Raipur),A/C Sleeper (2+1),17:30,05h 30m,23:00,1600,8 Seats available,4.0
+TSRTC,Hyderabad to Adilabad,Vijayant Travels,A/C Sleeper (2+1),21:45,05h 30m,03:15,1140,22 Seats available,3.9
+TSRTC,Hyderabad to Adilabad,Pooja Travels,A/C Sleeper (2+1),20:00,07h 05m,03:05,1100,30 Seats available,2.4
+TSRTC,Hyderabad to Ongole,Chandu Travels,A/C Sleeper (2+1),22:00,07h 45m,05:45,1139,17 Seats available,4.1
+TSRTC,Hyderabad to Ongole,Kaveri Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),21:30,08h 15m,05:45,1110,15 Seats available,4.1
+TSRTC,Hyderabad to Ongole,Kamakshi Tours And Travels,Non A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,890,7 Seats available,4.4
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,Scania AC Multi Axle Sleeper (2+1),21:30,08h 15m,05:45,1160,14 Seats available,4.4
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,A/C Sleeper (2+1),22:00,08h 15m,06:15,1160,11 Seats available,4.2
+TSRTC,Hyderabad to Ongole,Sri Lakshmi Narasimha Travels (SLNT),Non A/C Seater / Sleeper (2+1),20:00,08h 30m,04:30,750,12 Seats available,4.4
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,08h 00m,05:30,1200,11 Seats available,4.0
+TSRTC,Hyderabad to Ongole,Sri Vengamamba Bus Transport (SVBT),A/C Seater / Sleeper (2+1),21:40,08h 35m,06:15,1190,9 Seats available,4.4
+TSRTC,Hyderabad to Ongole,Kaveri Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),21:00,07h 00m,04:00,1180,10 Seats available,4.9
+TSRTC,Hyderabad to Ongole,Mozo travels,A/C Sleeper (2+1),22:00,06h 50m,04:50,900,12 Seats available,4.1
+TSRTC,Hyderabad to Ongole,KKaveri Travels,Non A/C Seater / Sleeper (2+1),21:00,08h 40m,05:40,700,16 Seats available,3.0
+TSRTC,Hyderabad to Ongole,Sri Krishna Travels,A/C Semi Sleeper / Sleeper (2+1),22:00,07h 30m,05:30,800,14 Seats available,3.5
+TSRTC,Hyderabad to Ongole,Sri Sivanjali Bus,Non A/C Seater / Sleeper (2+1),22:00,08h 00m,06:00,780,18 Seats available,3.0
+TSRTC,Hyderabad to Ongole,Sri Krishna Travels,A/C Semi Sleeper / Sleeper (2+1),21:45,07h 55m,05:40,1000,18 Seats available,3.3
+TSRTC,Hyderabad to Ongole,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),22:30,08h 25m,06:55,900,10 Seats available,3.4
+TSRTC,Hyderabad to Ongole,KMBT Travels,NON A/C Hi-Tech Push Back (2+2),21:10,08h 20m,05:30,741,7 Seats available,3.4
+TSRTC,Hyderabad to Ongole,KMBT Travels,NON A/C Sleeper (2+1),22:00,07h 00m,05:00,1036,15 Seats available,3.6
+TSRTC,Hyderabad to Ongole,Cherry tours&travels,Non A/C Seater / Sleeper (2+1),21:50,08h 10m,06:00,713,12 Seats available,3.6
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,760,7 Seats available,3.6
+TSRTC,Hyderabad to Ongole,KKaveri Travels,Non A/C Seater / Sleeper (2+1),19:05,08h 55m,04:00,840,25 Seats available,3.4
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:00,08h 15m,05:15,890,17 Seats available,3.7
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,NON A/C Sleeper (2+1),21:30,08h 00m,05:30,950,13 Seats available,3.3
+TSRTC,Hyderabad to Ongole,Sri Lakshmi Narasimha Travels (SLNT),Non A/C Seater / Sleeper (2+1),22:00,07h 15m,05:15,820,9 Seats available,3.7
+TSRTC,Hyderabad to Ongole,Sri Sahasra Tours and Travels,A/C Seater / Sleeper (2+1),21:00,08h 30m,05:30,880,8 Seats available,3.6
+TSRTC,Hyderabad to Ongole,Ramu Tours & Travels,A/C Seater / Sleeper (2+1),22:00,06h 20m,04:20,890,22 Seats available,3.5
+TSRTC,Hyderabad to Ongole,VV Vinayak Travels,Non A/C Seater / Sleeper (2+1),22:10,07h 50m,06:00,850,17 Seats available,3.6
+TSRTC,Hyderabad to Ongole,Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:30,09h 00m,06:30,760,9 Seats available,3.1
+TSRTC,Hyderabad to Ongole,Sri Lakshmi Narasimha Travels (SLNT),A/C Sleeper (2+1),22:00,07h 30m,05:30,1150,15 Seats available,3.9
+TSRTC,Hyderabad to Ongole,Sri Lakshmi Narasimha Travels (SLNT),Non A/C Seater / Sleeper (2+1),22:00,07h 00m,05:00,820,9 Seats available,3.8
+TSRTC,Hyderabad to Ongole,VV Vinayak Travels,A/C Sleeper (2+1),22:15,07h 45m,06:00,1270,15 Seats available,3.5
+TSRTC,Hyderabad to Ongole,New Slnst Travels,A/C Sleeper (2+1),22:00,07h 45m,05:45,1063,21 Seats available,3.2
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,VE A/C Sleeper (2+1),19:00,08h 30m,03:30,1000,15 Seats available,3.5
+TSRTC,Hyderabad to Ongole,KKaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:00,07h 30m,04:30,1100,13 Seats available,3.3
+TSRTC,Hyderabad to Ongole,Sri Krishna Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,07h 50m,05:20,1300,21 Seats available,3.7
+TSRTC,Hyderabad to Ongole,LUCKY TRAVELS,A/C Sleeper (2+1),22:45,07h 20m,06:05,999,16 Seats available,3.9
+TSRTC,Hyderabad to Ongole,Kaveri Travels,A/C Sleeper (2+1),21:30,09h 00m,06:30,1100,9 Seats available,3.9
+TSRTC,Hyderabad to Ongole,Sri Krishna Travels,A/C Sleeper (2+1),22:30,07h 00m,05:30,1400,10 Seats available,3.6
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),21:30,08h 20m,05:50,1400,9 Seats available,3.3
+TSRTC,Hyderabad to Ongole,Padmavathi Travels,A/C Sleeper (2+1),22:15,07h 15m,05:30,1200,13 Seats available,3.5
+TSRTC,Hyderabad to Ongole,Sri Krishna Travels,NON A/C Semi Sleeper / Sleeper (2+1),20:00,09h 00m,05:00,1000,7 Seats available,3.5
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,NON A/C Sleeper (2+1),21:30,08h 15m,05:45,1000,12 Seats available,3.1
+TSRTC,Hyderabad to Ongole,SAI PRASANNA TRAVELS,Non A/C Seater / Sleeper (2+1),21:40,07h 50m,05:30,720,2 Seats available,3.8
+TSRTC,Hyderabad to Ongole,Sri Tulasi Tours and Travels,A/C Seater / Sleeper (2+1),21:15,06h 45m,04:00,849,20 Seats available,3.3
+TSRTC,Hyderabad to Ongole,Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:00,08h 45m,05:45,750,9 Seats available,3.3
+TSRTC,Hyderabad to Ongole,Kaveri Travels,Non A/C Seater / Sleeper (2+1),19:40,08h 50m,04:30,850,10 Seats available,3.2
+TSRTC,Hyderabad to Ongole,Meghana Travels,A/C Sleeper (2+1),21:50,06h 50m,04:40,1036,20 Seats available,2.9
+TSRTC,Hyderabad to Ongole,Lakshmi Travels,Non A/C Seater / Sleeper (2+1),22:00,07h 10m,05:10,846,16 Seats available,2.9
+TSRTC,Hyderabad to Ongole,Orange Tours And Travels,Volvo Multi-Axle Sleeper A/C (2+1),23:45,06h 45m,06:30,1000,26 Seats available,3.9
+TSRTC,Hyderabad to Ongole,Morning Star Travels,A/C Sleeper (2+1),22:30,07h 00m,05:30,1090,20 Seats available,2.5
+TSRTC,Hyderabad to Ongole,Pspk Bus,NON A/C Sleeper (2+1),21:00,09h 00m,06:00,4750,30 Seats available,4.2
+TSRTC,Hyderabad to Ongole,Ramu Tours & Travels,A/C Sleeper (2+1),22:30,07h 15m,05:45,1015,20 Seats available,3.2
+TSRTC,Hyderabad to Ongole,Sri Laxmi Sravanthi Siva Tours And Travels,Non A/C Seater / Sleeper (2+1),21:40,08h 20m,06:00,699,8 Seats available,3.7
+TSRTC,Hyderabad to Ongole,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,06h 15m,05:15,989,15 Seats available,2.8
+TSRTC,Hyderabad to Ongole,VV Vinayak Travels,Non A/C Seater / Sleeper (2+1),22:15,07h 45m,06:00,794,19 Seats available,3.0
+TSRTC,Hyderabad to Ongole,Go Tour Travels and Holidays,A/C Sleeper (2+1),22:45,06h 00m,04:45,1190,3 Seats available,3.4
+TSRTC,Hyderabad to Ongole,Sri Krishna Travels,A/C Sleeper (2+1),21:45,07h 35m,05:20,1400,10 Seats available,3.0
+TSRTC,Hyderabad to Ongole,KTC Travels,A/C Sleeper (2+1),22:00,06h 15m,04:15,1299,19 Seats available,3.4
+TSRTC,Hyderabad to Ongole,Kamakshi Tours And Travels,Non A/C Seater / Sleeper (2+1),21:15,09h 45m,07:00,890,36 Seats available,3.0
+TSRTC,Hyderabad to Ongole,Mozo travels,A/C Seater / Sleeper (2+1),20:10,07h 35m,03:45,875,17 Seats available,2.4
+TSRTC,Hyderabad to Ongole,Jagan Travels,Non A/C Seater / Sleeper (2+1),19:20,09h 10m,04:30,1080,10 Seats available,2.4
+TSRTC,Hyderabad to Ongole,Rajeswari Travels,Non A/C Seater / Sleeper (2+1),20:15,08h 15m,04:30,899,26 Seats available,4.2
+TSRTC,Hyderabad to Ongole,Sri Laxmi Sravanthi Siva Tours And Travels,Non A/C Seater / Sleeper (2+1),21:40,07h 35m,05:15,699,8 Seats available,3.3
+TSRTC,Hyderabad to Ongole,Sri Laxmi Sravanthi Siva Tours And Travels,Non A/C Seater / Sleeper (2+1),21:50,07h 30m,05:20,699,15 Seats available,2.5
+TSRTC,Hyderabad to Ongole,SLNS Travels,A/C Sleeper (2+1),21:35,08h 10m,05:45,1349,17 Seats available,3.1
+TSRTC,Hyderabad to Ongole,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),22:00,06h 30m,04:30,1049,15 Seats available,3.7
+TSRTC,Hyderabad to Ongole,KKaveri Travels,Non A/C Seater / Sleeper (2+1),22:00,07h 00m,05:00,890,24 Seats available,2.8
+TSRTC,Hyderabad to Ongole,Sri Tulasi Tours and Travels,Non A/C Seater / Sleeper (2+1),19:44,08h 36m,04:20,1199,2 Seats available,1.9
+TSRTC,Hyderabad to Ongole,Vihari Travels ,NON AC Seater / Sleeper 2+1,22:00,08h 35m,06:35,730,8 Seats available,2.6
+TSRTC,Hyderabad to Ongole,LIMOLINER,A/C Sleeper (2+1),17:20,09h 25m,02:45,989,15 Seats available,2.7
+TSRTC,Hyderabad to Ongole,KKaveri Travels,Non A/C Seater / Sleeper (2+1),21:00,08h 45m,05:45,890,17 Seats available,5.0
+TSRTC,Hyderabad to Ongole,Cherry tours&travels,A/C Seater / Sleeper (2+1),22:00,07h 00m,05:00,950,10 Seats available,1.3
+TSRTC,Hyderabad to Ongole,PMR Express,A/C Sleeper (2+1),19:00,08h 30m,03:30,1349,14 Seats available,4.2
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,Volvo Multi-Axle A/C Sleeper (2+1),19:00,08h 00m,03:00,1200,13 Seats available,3.6
+TSRTC,Hyderabad to Ongole,Vikram Travels,A/C Sleeper (2+1),20:30,06h 30m,03:00,1217,11 Seats available,4.0
+TSRTC,Hyderabad to Ongole,Ramana Tours And Travels,A/C Sleeper (2+1),17:45,08h 50m,02:35,1000,4 Seats available,3.6
+TSRTC,Hyderabad to Ongole,Vihari Travels ,NON A/C Sleeper (2+1),22:00,07h 30m,05:30,1090,8 Seats available,3.5
+TSRTC,Hyderabad to Ongole,Chandu Travels,A/C Sleeper (2+1),21:30,07h 45m,05:15,1226,17 Seats available,3.5
+TSRTC,Hyderabad to Ongole,VV Vinayak Travels,Non A/C Seater / Sleeper (2+1),22:35,07h 40m,06:15,790,9 Seats available,3.6
+TSRTC,Hyderabad to Ongole,SBT,Non A/C Seater / Sleeper (2+1),22:00,08h 40m,06:40,690,28 Seats available,3.4
+TSRTC,Hyderabad to Ongole,VV Vinayak Travels,A/C Seater / Sleeper (2+1),22:10,07h 50m,06:00,877,20 Seats available,4.7
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:30,08h 35m,06:05,1000,3 Seats available,3.4
+TSRTC,Hyderabad to Ongole,Cherry tours&travels,Non A/C Seater / Sleeper (2+1),21:45,07h 25m,05:10,1500,33 Seats available,3.4
+TSRTC,Hyderabad to Ongole,Zingbus Plus,A/C Sleeper (2+1),18:30,05h 50m,00:20,971,19 Seats available,3.9
+TSRTC,Hyderabad to Ongole,Vihari Travels ,NON AC Seater / Sleeper 2+1,20:00,08h 30m,04:30,950,8 Seats available,3.0
+TSRTC,Hyderabad to Ongole,Vihari Travels ,NON A/C Seater/ Sleeper (2+1),20:00,08h 15m,04:15,780,11 Seats available,3.2
+TSRTC,Hyderabad to Ongole,Vihari Travels ,NON A/C Sleeper (2+1),22:00,07h 30m,05:30,1120,16 Seats available,3.3
+TSRTC,Hyderabad to Ongole,Jagan Travels,A/C Seater / Sleeper (2+1),22:20,07h 30m,05:50,786,13 Seats available,2.8
+TSRTC,Hyderabad to Ongole,Vihari Travels ,NON A/C Sleeper (2+1),22:05,07h 25m,05:30,1600,26 Seats available,3.1
+TSRTC,Hyderabad to Ongole,KTC Travels,A/C Seater / Sleeper (2+1),21:45,07h 00m,04:45,790,24 Seats available,3.0
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:30,08h 15m,05:45,700,4 Seats available,2.7
+TSRTC,Hyderabad to Ongole,Vihari Travels ,NON AC Seater / Sleeper 2+1,20:00,08h 30m,04:30,990,17 Seats available,2.4
+TSRTC,Hyderabad to Ongole,Padmavathi Travels,A/C Sleeper (2+1),22:15,05h 50m,04:05,1200,21 Seats available,1.5
+TSRTC,Hyderabad to Ongole,Yolo Bus,A/C Sleeper (2+1),22:20,06h 53m,05:13,940,21 Seats available,2.7
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,A/C Sleeper (2+1),17:00,06h 59m,23:59,1000,16 Seats available,2.3
+TSRTC,Hyderabad to Ongole,VV Vinayak Travels,Non A/C Seater / Sleeper (2+1),22:10,07h 50m,06:00,790,15 Seats available,1.7
+TSRTC,Hyderabad to Ongole,Chandu Travels,Non A/C Seater / Sleeper (2+1),21:30,07h 45m,05:15,779,1 Seat available,2.4
+TSRTC,Hyderabad to Ongole,Kaveri Travels,A/C Sleeper (2+1),21:00,07h 00m,04:00,1200,40 Seats available,1.5
+TSRTC,Hyderabad to Ongole,Sri Sivanjali Bus,Non A/C Seater / Sleeper (2+1),22:00,08h 00m,06:00,3000,29 Seats available,1.7
+TSRTC,Hyderabad to Ongole,Morning Star Travels,A/C Sleeper (2+1),22:30,06h 15m,04:45,1090,12 Seats available,2.4
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,NON A/C Sleeper (2+1),22:00,08h 30m,06:30,800,29 Seats available,1.8
+TSRTC,Hyderabad to Ongole,Morning Star Travels,A/C Sleeper (2+1),20:00,06h 15m,02:15,1090,9 Seats available,1.7
+TSRTC,Hyderabad to Ongole,LimoLiner,A/C Sleeper (2+1),22:30,06h 00m,04:30,959,24 Seats available,3.8
+TSRTC,Hyderabad to Ongole,Sri Krishna Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:30,05h 45m,01:15,1000,27 Seats available,1.0
+TSRTC,Hyderabad to Ongole,KKaveri Travels,A/C Sleeper (2+1),22:00,07h 00m,05:00,1100,21 Seats available,3.7
+TSRTC,Hyderabad to Ongole,V Kaveri Travels,A/C Sleeper (2+1),21:30,08h 00m,05:30,1100,20 Seats available,3.4
+TSRTC,Hyderabad to Ongole,Jagan Travels,Scania AC Multi Axle Sleeper (2+1),20:40,06h 05m,02:45,850,41 Seats available,2.8
+TSRTC,Hyderabad to Ongole,Vihari Tours And Travels,Non A/C Seater / Sleeper (2+1),22:10,07h 20m,05:30,3999,8 Seats available,2.7
+TSRTC,Hyderabad to Ongole,Cherry tours&travels,Non A/C Seater / Sleeper (2+1),20:50,07h 40m,04:30,1090,15 Seats available,2.3
+TSRTC,Hyderabad to Ongole,Yolo Bus,A/C Sleeper (2+1),17:30,07h 44m,01:14,1010,16 Seats available,2.1
+TSRTC,Hyderabad to Ongole,PMR Express,A/C Sleeper (2+1),21:15,05h 55m,03:10,1650,23 Seats available,1.0
+TSRTC,Kothagudem to Hyderabad,BSR Tours And Travels,A/C Sleeper (2+1),23:30,06h 30m,06:00,780,8 Seats available,4.4
+TSRTC,Kothagudem to Hyderabad,BSR Tours And Travels,A/C Seater / Sleeper (2+1),23:15,06h 45m,06:00,580,24 Seats available,4.6
+TSRTC,Kothagudem to Hyderabad,SAIRAJ TRAVELS,A/C Sleeper (2+1),23:00,06h 30m,05:30,700,17 Seats available,4.6
+TSRTC,Kothagudem to Hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:20,05h 40m,05:00,390,17 Seats available,4.4
+TSRTC,Kothagudem to Hyderabad,SAIRAJ TRAVELS,NON A/C Seater (2+2),23:00,07h 15m,06:15,400,26 Seats available,4.4
+TSRTC,Kothagudem to Hyderabad,Bharathi Tours & Travels,A/C Sleeper (2+1),23:00,06h 00m,05:00,690,20 Seats available,4.9
+TSRTC,Kothagudem to Hyderabad,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:05,05h 55m,05:00,500,36 Seats available,4.0
+TSRTC,Kothagudem to Hyderabad,VSR Tours and Travels,A/C Sleeper (2+1),23:30,06h 30m,06:00,649,21 Seats available,4.8
+TSRTC,Kothagudem to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:15,05h 05m,04:20,600,7 Seats available,3.0
+TSRTC,Kothagudem to Hyderabad,Bharathi Tours & Travels,A/C Sleeper (2+1),23:30,06h 00m,05:30,690,18 Seats available,5.0
+TSRTC,Kothagudem to Hyderabad,Morning Star Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),16:25,05h 20m,21:45,690,28 Seats available,3.3
+TSRTC,Kothagudem to Hyderabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:10,05h 50m,05:00,800,30 Seats available,2.6
+TSRTC,Kothagudem to Hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:05,05h 55m,05:00,390,33 Seats available,4.2
+TSRTC,Kothagudem to Hyderabad,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),23:00,07h 05m,06:05,500,25 Seats available,3.6
+TSRTC,Kothagudem to Hyderabad,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),01:00,05h 35m,06:35,1100,15 Seats available,3.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,YNR Travels,A/C Sleeper (2+1),15:25,07h 00m,22:25,497,14 Seats available,4.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,AC Sleeper (2+1),22:55,06h 30m,05:25,709,19 Seats available,4.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Yolo Bus,A/C Seater / Sleeper (2+1),22:15,07h 52m,06:07,450,18 Seats available,4.3
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,AdPavan Tours and Travels,A/C Sleeper (2+1),21:57,07h 03m,05:00,626,26 Seats available,4.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,GMRK Tours and Travels,Volvo A/C Semi Sleeper (2+2),22:45,06h 25m,05:10,499,26 Seats available,4.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Zingbus Plus,A/C Seater / Sleeper (2+1),21:45,07h 20m,05:05,473,13 Seats available,4.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Sri Sanvi Tours and Travels,A/C Sleeper (2+1),22:15,06h 45m,05:00,719,18 Seats available,4.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),22:15,07h 45m,06:00,749,32 Seats available,4.5
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Tirumala Xpress,A/C Sleeper (2+1),22:10,07h 25m,05:35,555,11 Seats available,4.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,07h 00m,05:45,589,17 Seats available,4.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Svkdt travels,A/C Sleeper (2+1),22:20,07h 15m,05:35,750,11 Seats available,4.2
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,NueGo,Electric A/C Seater (2+2),22:15,07h 10m,05:25,474,26 Seats available,4.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Zingbus Plus,A/C Seater / Sleeper (2+1),22:35,07h 20m,05:55,494,6 Seats available,4.2
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,KARTHIKEYA TOURS AND TRAVELS,A/C Seater / Sleeper (2+1),23:15,05h 45m,05:00,400,16 Seats available,4.5
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,AC Sleeper (2+1),22:25,07h 20m,05:45,799,11 Seats available,4.5
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Sri KVR Travels,A/C Sleeper (2+1),22:40,06h 50m,05:30,762,13 Seats available,4.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,AC Sleeper (2+1),22:35,06h 35m,05:10,879,14 Seats available,4.5
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Yolo Bus,A/C Sleeper (2+1),21:31,07h 56m,05:27,690,21 Seats available,4.8
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Sudha Sri Tours and Travels,A/C Sleeper (2+1),22:20,07h 40m,06:00,590,13 Seats available,4.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,FRESHBUS,Electric A/C Seater (2+2),15:10,07h 05m,22:15,499,25 Seats available,4.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Teja Tours and Travels,A/C Sleeper (2+1),23:00,07h 00m,06:00,580,20 Seats available,4.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,FRESHBUS,Electric A/C Seater (2+2),16:00,06h 50m,22:50,499,12 Seats available,4.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,NueGo,Electric A/C Seater (2+2),14:45,07h 25m,22:10,356,30 Seats available,4.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,NueGo,Electric A/C Seater (2+2),23:30,07h 10m,06:40,356,28 Seats available,3.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),23:00,07h 00m,06:00,450,16 Seats available,3.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Mozo travels,A/C Sleeper (2+1),23:15,06h 15m,05:30,580,18 Seats available,3.3
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,KKaveri Travels,Non A/C Seater / Sleeper (2+1),23:00,06h 45m,05:45,450,24 Seats available,3.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:00,06h 30m,05:30,450,8 Seats available,3.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Svkdt travels,A/C Sleeper (2+1),22:00,07h 45m,05:45,750,25 Seats available,3.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),22:30,07h 15m,05:45,700,16 Seats available,3.3
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Moonlight Travels,A/C Sleeper (2+1),22:00,08h 00m,06:00,500,22 Seats available,3.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,NON A/C Sleeper (2+1),23:30,05h 35m,05:05,550,26 Seats available,3.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,V Kaveri Travels,A/C Sleeper (2+1),23:15,07h 00m,06:15,600,26 Seats available,3.2
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:00,07h 00m,06:00,700,22 Seats available,3.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,349,40 Seats available,3.2
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,AVR Travels,A/C Seater / Sleeper (2+1),22:00,07h 15m,05:15,1049,41 Seats available,3.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,SS Prasanna Travels,A/C Seater (2+2),22:30,07h 00m,05:30,348,25 Seats available,3.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,390,17 Seats available,3.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Sai Sri Durga Travels,Non A/C Seater / Sleeper (2+1),22:15,07h 25m,05:40,3000,11 Seats available,3.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,AVR Travels,A/C Seater / Sleeper (2+1),22:00,07h 15m,05:15,3999,14 Seats available,3.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Prasanna Travels,A/C Seater / Sleeper (2+1),15:00,07h 40m,22:40,300,5 Seats available,2.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,SRI MARUTHI TRAVELS,A/C Sleeper (2+1),23:10,05h 50m,05:00,399,28 Seats available,2.3
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),23:10,05h 50m,05:00,399,21 Seats available,2.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),14:45,06h 45m,21:30,600,3 Seats available,2.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,NON A/C Sleeper (2+1),22:15,06h 35m,04:50,500,17 Seats available,2.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:10,05h 40m,04:50,590,26 Seats available,2.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),22:55,04h 55m,03:50,690,36 Seats available,2.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Chandu Travels,A/C Seater / Sleeper (2+1),23:00,06h 30m,05:30,399,30 Seats available,2.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),21:25,09h 25m,06:50,590,36 Seats available,2.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:15,05h 40m,04:55,590,19 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Zingbus Plus,A/C Seater / Sleeper (2+1),23:38,07h 12m,06:50,869,31 Seats available,4.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),23:30,07h 45m,07:15,1199,17 Seats available,4.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),GMRK Tours and Travels,Volvo A/C Semi Sleeper (2+2),23:30,06h 40m,06:10,699,23 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),AdIntrCity SmartBus,AC Sleeper (2+1),23:50,07h 35m,07:25,1219,16 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),NueGo,Electric A/C Seater (2+2),22:35,08h 00m,06:35,874,16 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Pavan Tours and Travels,A/C Sleeper (2+1),22:30,07h 40m,06:10,1073,6 Seats available,4.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),IntrCity SmartBus,AC Sleeper (2+1),23:10,07h 40m,06:50,1109,13 Seats available,4.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sri KVR Travels,A/C Sleeper (2+1),22:30,07h 00m,05:30,1089,13 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,07h 15m,06:45,809,13 Seats available,4.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sri Sanvi Tours and Travels,A/C Sleeper (2+1),22:15,07h 15m,05:30,1079,16 Seats available,4.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Svkdt travels,A/C Sleeper (2+1),22:20,08h 10m,06:30,969,5 Seats available,4.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),IntrCity SmartBus,AC Sleeper (2+1),23:40,07h 00m,06:40,1019,17 Seats available,4.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Svkdt travels,A/C Sleeper (2+1),22:30,08h 25m,06:55,969,5 Seats available,4.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),V Kaveri Travels,A/C Seater / Sleeper (2+1),22:15,07h 00m,05:15,700,6 Seats available,4.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Yolo Bus,A/C Seater / Sleeper (2+1),22:15,07h 55m,06:10,760,19 Seats available,4.0
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),NueGo,Electric A/C Seater (2+2),15:00,08h 00m,23:00,485,15 Seats available,4.0
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),NueGo,Electric A/C Seater (2+2),23:50,08h 00m,07:50,748,12 Seats available,3.8
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),V Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,700,15 Seats available,3.8
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Mozo travels,A/C Sleeper (2+1),22:30,06h 55m,05:25,879,9 Seats available,3.9
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),KARTHIKEYA TOURS AND TRAVELS,A/C Seater / Sleeper (2+1),22:30,06h 45m,05:15,600,13 Seats available,4.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Teja Tours and Travels,A/C Sleeper (2+1),22:00,07h 15m,05:15,880,29 Seats available,3.9
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Tirumala Xpress,A/C Sleeper (2+1),21:35,08h 55m,06:30,899,15 Seats available,3.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:30,07h 00m,06:30,1000,24 Seats available,3.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),KKaveri Travels,Non A/C Seater / Sleeper (2+1),20:45,08h 15m,05:00,670,18 Seats available,3.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Orange Tours And Travels,NON A/C Sleeper (2+1),21:45,08h 00m,05:45,800,25 Seats available,3.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Chandu Travels,A/C Seater / Sleeper (2+1),22:05,07h 30m,05:35,532,15 Seats available,3.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Yolo Bus,A/C Sleeper (2+1),22:31,08h 19m,06:50,829,19 Seats available,4.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 30m,05:50,800,15 Seats available,3.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),22:30,07h 15m,05:45,649,31 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Orange Tours And Travels,A/C Seater / Sleeper (2+1),22:00,07h 30m,05:30,700,18 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,A/C Sleeper (2+1),22:40,07h 00m,05:40,990,20 Seats available,3.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:30,06h 30m,06:00,900,7 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,NON A/C Sleeper (2+1),23:00,05h 30m,04:30,850,20 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),23:05,07h 25m,06:30,600,15 Seats available,2.8
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),V Kaveri Travels,A/C Sleeper (2+1),21:30,08h 30m,06:00,950,11 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,A/C Sleeper (2+1),22:55,06h 35m,05:30,990,19 Seats available,2.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sri Sai Padmavathi Travels,A/C Seater/Sleeper (2+1),23:45,05h 30m,05:15,500,23 Seats available,4.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Lakshmi Gayatri Travels,Non A/C Seater / Sleeper (2+1),22:30,08h 15m,06:45,699,13 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,A/C Sleeper (2+1),22:30,06h 45m,05:15,990,15 Seats available,2.9
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sudha Sri Tours and Travels,A/C Sleeper (2+1),22:10,06h 30m,04:40,990,20 Seats available,2.9
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),SRI MARUTHI TRAVELS,A/C Sleeper (2+1),22:30,07h 15m,05:45,799,40 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sai Sri Durga Travels,Non A/C Seater / Sleeper (2+1),23:45,06h 45m,06:30,3000,10 Seats available,2.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,NON A/C Sleeper (2+1),22:50,06h 35m,05:25,850,17 Seats available,2.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),GMRK Tours and Travels,Bharat Benz A/C Sleeper (2+1),23:10,05h 50m,05:00,809,32 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),23:50,06h 40m,06:30,600,21 Seats available,3.0
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Zingbus Plus,A/C Seater / Sleeper (2+1),23:03,07h 12m,06:15,869,34 Seats available,4.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),23:55,07h 15m,07:10,600,27 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),YNR Travels,A/C Sleeper (2+1),23:35,07h 25m,07:00,991,35 Seats available,3.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),22:45,07h 30m,06:15,600,17 Seats available,3.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),FRESHBUS,Electric A/C Seater (2+2),16:10,08h 25m,00:35,579,42 Seats available,3.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sravani Travels,A/C Seater / Sleeper (2+1),22:25,07h 05m,05:30,4000,22 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Yolo Bus,A/C Seater / Sleeper (2+1),22:20,07h 39m,05:59,700,40 Seats available,1.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),AVR Travels,A/C Seater / Sleeper (2+1),23:00,07h 15m,06:15,2500,34 Seats available,1.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),23:10,08h 00m,07:10,600,19 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),21:40,07h 20m,05:00,749,35 Seats available,1.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sri Sai Padmavathi Travels,A/C Seater/Sleeper (2+1),23:40,06h 20m,06:00,700,27 Seats available,4.0
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),S S N L Travels,A/C Seater / Sleeper (2+1),23:10,06h 40m,05:50,599,50 Seats available,1.5
+TSRTC,Hyderabad to Kothagudem,BSR Tours And Travels,A/C Sleeper (2+1),22:00,06h 30m,04:30,1280,5 Seats available,4.7
+TSRTC,Hyderabad to Kothagudem,SAIRAJ TRAVELS,A/C Sleeper (2+1),22:15,06h 45m,05:00,1890,1 Seat available,4.5
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,A/C Sleeper (2+1),21:20,07h 30m,04:50,1390,13 Seats available,4.8
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:35,06h 55m,05:30,1000,10 Seats available,4.2
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 35m,05:55,1000,5 Seats available,4.0
+TSRTC,Hyderabad to Kothagudem,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,06h 45m,05:00,890,9 Seats available,3.6
+TSRTC,Hyderabad to Kothagudem,VSR Tours and Travels,A/C Sleeper (2+1),23:00,05h 30m,04:30,1299,7 Seats available,4.7
+TSRTC,Hyderabad to Kothagudem,Morning Star Travels,A/C Sleeper (2+1),22:50,05h 40m,04:30,1290,7 Seats available,3.1
+TSRTC,Hyderabad to Kothagudem,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:30,06h 15m,05:45,900,9 Seats available,3.0
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,A/C Sleeper (2+1),22:35,06h 55m,05:30,1390,9 Seats available,4.6
+TSRTC,Hyderabad to Kothagudem,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,06h 40m,05:00,830,20 Seats available,4.7
+TSRTC,Hyderabad to Kothagudem,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,06h 40m,05:00,750,5 Seats available,2.8
+TSRTC,Hyderabad to Kothagudem,Manish travels,NON A/C Seater (2+2),22:00,07h 00m,05:00,3000,40 Seats available,4.5
+TSRTC,Hyderabad to Kothagudem,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,06h 45m,05:00,890,10 Seats available,4.1
+TSRTC,Hyderabad to Kothagudem,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),22:15,06h 45m,05:00,1090,16 Seats available,4.0
+TSRTC,Hyderabad to Kothagudem,Morning Star Travels,A/C Sleeper (2+1),22:30,05h 50m,04:20,1290,21 Seats available,2.8
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,NON A/C Hi-Tech (2+2),21:20,07h 26m,04:46,800,13 Seats available,3.5
+TSRTC,Hyderabad to Kothagudem,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),17:00,05h 45m,22:45,1300,11 Seats available,2.0
+TSRTC,Hyderabad to Kothagudem,Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),21:00,06h 45m,03:45,900,7 Seats available,2.3
+TSRTC,Hyderabad to Sathupally,Mozo travels,A/C Seater / Sleeper (2+1),22:40,06h 25m,05:05,1000,10 Seats available,4.7
+TSRTC,Hyderabad to Sathupally,Sri Venkateswara Travels,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,800,21 Seats available,4.3
+TSRTC,Hyderabad to Sathupally,BSR Tours And Travels,NON A/C Seater (2+2),22:00,07h 00m,05:00,880,30 Seats available,4.0
+TSRTC,Hyderabad to Sathupally,Mythri Tours And Travels,A/C Sleeper (2+1),23:00,05h 15m,04:15,1299,20 Seats available,4.8
+TSRTC,Hyderabad to Sathupally,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,07h 40m,05:00,600,11 Seats available,3.9
+TSRTC,Hyderabad to Sathupally,Sri Krishna Travels(VGN),NON A/C Hi-Tech (2+2),21:45,07h 15m,05:00,650,9 Seats available,3.9
+TSRTC,Hyderabad to Sathupally,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),21:30,07h 15m,04:45,890,11 Seats available,4.2
+TSRTC,Hyderabad to Sathupally,Hanuman Travels,A/C Seater / Sleeper (2+1),22:30,05h 35m,04:05,1794,34 Seats available,4.3
+TSRTC,Hyderabad to Sathupally,SBS Tours and Travels,Non A/C Seater / Sleeper (2+1),22:45,05h 15m,04:00,690,6 Seats available,4.4
+TSRTC,Hyderabad to Sathupally,Sri KVR Travels,A/C Sleeper (2+1),22:00,06h 50m,04:50,850,14 Seats available,3.2
+TSRTC,Hyderabad to Sathupally,KVR Tours and Travels,A/C Seater / Sleeper (2+1),21:30,07h 30m,05:00,854,24 Seats available,3.2
+TSRTC,Hyderabad to Sathupally,Sri Krishna Travels(VGN),Non A/C Seater / Sleeper (2+1),21:45,07h 35m,05:20,650,17 Seats available,3.0
+TSRTC,Hyderabad to Sathupally,Sri Krishna Travels,A/C Sleeper (2+1),19:00,06h 00m,01:00,2000,14 Seats available,2.5
+TSRTC,Hyderabad to Sathupally,Morning Star Travels,A/C Sleeper (2+1),22:25,06h 25m,04:50,1290,12 Seats available,5.0
+TSRTC,Hyderabad to Sathupally,Sri Rama Travels,A/C Seater / Sleeper (2+1),21:40,06h 50m,04:30,1111,25 Seats available,3.2
+TSRTC,Hyderabad to Sathupally,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:30,05h 30m,01:00,1200,6 Seats available,2.9
+TSRTC,Hyderabad to Sathupally,Mahadevv travels,Non A/C Seater / Sleeper (2+1),22:00,05h 30m,03:30,999,8 Seats available,2.6
+TSRTC,Hyderabad to Sathupally,SVN TOURS & TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:15,06h 45m,05:00,1614,32 Seats available,4.5
+TSRTC,Hyderabad to Sathupally,Siri Tours and Travels,Non A/C Seater / Sleeper (2+1),21:50,06h 10m,04:00,999,13 Seats available,4.0
+TSRTC,Hyderabad to Sathupally,Sri Rama Travels,A/C Seater / Sleeper (2+1),21:40,06h 50m,04:30,1888,21 Seats available,2.0
+TSRTC,Hyderabad to Sathupally,KVR Tours and Travels,A/C Sleeper (2+1),19:30,07h 30m,03:00,1329,23 Seats available,1.0
+TSRTC,Hyderabad to Sathupally,DMR Travels,A/C Sleeper (2+1),20:50,07h 10m,04:00,1770,21 Seats available,3.4
+TSRTC,Hyderabad to Sathupally,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:30,07h 35m,02:05,999,11 Seats available,3.4
+TSRTC,Hyderabad to Sathupally,Navin Citi Connect,Non A/C Seater / Sleeper (2+1),19:45,07h 00m,02:45,3000,38 Seats available,2.9
+TSRTC,Kodad to Hyderabad,APSRTC - 3793,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:40,03h 05m,02:45,318,16 Seats available,4.8
+TSRTC,Kodad to Hyderabad,NueGo,Electric A/C Seater (2+2),15:20,03h 50m,19:10,356,30 Seats available,3.4
+TSRTC,Kodad to Hyderabad,NueGo,Electric A/C Seater (2+2),16:45,03h 50m,20:35,475,36 Seats available,3.4
+TSRTC,Hyderabad to Bhadrachalam,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),22:15,07h 30m,05:45,1090,16 Seats available,4.7
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,A/C Sleeper (2+1),21:20,08h 30m,05:50,1390,13 Seats available,4.4
+TSRTC,Hyderabad to Bhadrachalam,VSR Tours and Travels,A/C Sleeper (2+1),23:00,06h 30m,05:30,1199,7 Seats available,4.2
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:35,07h 55m,06:30,1000,11 Seats available,4.2
+TSRTC,Hyderabad to Bhadrachalam,BSR Tours And Travels,A/C Sleeper (2+1),22:00,07h 30m,05:30,1380,4 Seats available,4.5
+TSRTC,Hyderabad to Bhadrachalam,SAIRAJ TRAVELS,A/C Sleeper (2+1),22:15,07h 30m,05:45,1890,1 Seat available,4.5
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 30m,05:50,1000,5 Seats available,4.1
+TSRTC,Hyderabad to Bhadrachalam,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),17:00,06h 40m,23:40,1300,40 Seats available,5.0
+TSRTC,Hyderabad to Bhadrachalam,Manish travels,NON A/C Seater (2+2),22:00,08h 00m,06:00,3000,13 Seats available,4.5
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,NON A/C Hi-Tech (2+2),21:20,08h 40m,06:00,800,19 Seats available,3.2
+TSRTC,Hyderabad to Bhadrachalam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,07h 30m,05:50,830,9 Seats available,3.8
+TSRTC,Hyderabad to Bhadrachalam,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,07h 30m,05:45,890,9 Seats available,3.7
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,A/C Sleeper (2+1),22:35,07h 55m,06:30,1390,6 Seats available,3.8
+TSRTC,Hyderabad to Bhadrachalam,Morning Star Travels,A/C Sleeper (2+1),22:50,06h 25m,05:15,1290,9 Seats available,3.7
+TSRTC,Hyderabad to Bhadrachalam,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:30,07h 30m,07:00,900,5 Seats available,3.1
+TSRTC,Hyderabad to Bhadrachalam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,07h 30m,05:50,750,9 Seats available,3.0
+TSRTC,Hyderabad to Bhadrachalam,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,07h 30m,05:45,890,11 Seats available,1.0
+TSRTC,Hyderabad to Bhadrachalam,Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),21:00,07h 00m,04:00,800,22 Seats available,1.8
+TSRTC,Hyderabad to Bhadrachalam,Gupta Travels Galaxy,NON A/C Sleeper (2+2),17:15,05h 30m,22:45,950,7 Seats available,1.6
+TSRTC,Hyderabad to Bhadrachalam,Morning Star Travels,A/C Sleeper (2+1),22:30,06h 40m,05:10,1290,12 Seats available,2.3
+TSRTC,Kothagudem to Hyderabad,BSR Tours And Travels,A/C Sleeper (2+1),23:30,06h 30m,06:00,780,8 Seats available,4.4
+TSRTC,Kothagudem to Hyderabad,BSR Tours And Travels,A/C Seater / Sleeper (2+1),23:15,06h 45m,06:00,580,24 Seats available,4.6
+TSRTC,Kothagudem to Hyderabad,SAIRAJ TRAVELS,A/C Sleeper (2+1),23:00,06h 30m,05:30,700,17 Seats available,4.6
+TSRTC,Kothagudem to Hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:20,05h 40m,05:00,390,17 Seats available,4.4
+TSRTC,Kothagudem to Hyderabad,SAIRAJ TRAVELS,NON A/C Seater (2+2),23:00,07h 15m,06:15,400,26 Seats available,4.4
+TSRTC,Kothagudem to Hyderabad,Bharathi Tours & Travels,A/C Sleeper (2+1),23:00,06h 00m,05:00,690,20 Seats available,4.9
+TSRTC,Kothagudem to Hyderabad,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:05,05h 55m,05:00,500,36 Seats available,4.0
+TSRTC,Kothagudem to Hyderabad,VSR Tours and Travels,A/C Sleeper (2+1),23:30,06h 30m,06:00,649,21 Seats available,4.8
+TSRTC,Kothagudem to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:15,05h 05m,04:20,600,7 Seats available,3.0
+TSRTC,Kothagudem to Hyderabad,Bharathi Tours & Travels,A/C Sleeper (2+1),23:30,06h 00m,05:30,690,18 Seats available,5.0
+TSRTC,Kothagudem to Hyderabad,Morning Star Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),16:25,05h 20m,21:45,690,28 Seats available,3.3
+TSRTC,Kothagudem to Hyderabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:10,05h 50m,05:00,800,30 Seats available,2.6
+TSRTC,Kothagudem to Hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:05,05h 55m,05:00,390,33 Seats available,4.2
+TSRTC,Kothagudem to Hyderabad,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),23:00,07h 05m,06:05,500,25 Seats available,3.6
+TSRTC,Kothagudem to Hyderabad,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),01:00,05h 35m,06:35,1100,15 Seats available,3.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,YNR Travels,A/C Sleeper (2+1),15:25,07h 00m,22:25,497,14 Seats available,4.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,AC Sleeper (2+1),22:55,06h 30m,05:25,709,15 Seats available,4.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Yolo Bus,A/C Seater / Sleeper (2+1),22:15,07h 52m,06:07,450,18 Seats available,4.3
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,AdPavan Tours and Travels,A/C Sleeper (2+1),21:57,07h 03m,05:00,626,26 Seats available,4.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,GMRK Tours and Travels,Volvo A/C Semi Sleeper (2+2),22:45,06h 25m,05:10,499,26 Seats available,4.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Zingbus Plus,A/C Seater / Sleeper (2+1),21:45,07h 20m,05:05,473,18 Seats available,4.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),22:15,07h 45m,06:00,749,13 Seats available,4.5
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Sri Sanvi Tours and Travels,A/C Sleeper (2+1),22:15,06h 45m,05:00,719,32 Seats available,4.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Tirumala Xpress,A/C Sleeper (2+1),22:10,07h 25m,05:35,555,11 Seats available,4.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,07h 00m,05:45,589,11 Seats available,4.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,NueGo,Electric A/C Seater (2+2),22:15,07h 10m,05:25,474,6 Seats available,4.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,KARTHIKEYA TOURS AND TRAVELS,A/C Seater / Sleeper (2+1),23:15,05h 45m,05:00,400,16 Seats available,4.5
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Svkdt travels,A/C Sleeper (2+1),22:20,07h 15m,05:35,690,16 Seats available,4.2
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,AC Sleeper (2+1),22:25,07h 20m,05:45,719,11 Seats available,4.5
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Sri KVR Travels,A/C Sleeper (2+1),22:40,06h 50m,05:30,762,13 Seats available,4.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,IntrCity SmartBus,AC Sleeper (2+1),22:35,06h 35m,05:10,879,14 Seats available,4.5
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,FRESHBUS,Electric A/C Seater (2+2),15:10,07h 05m,22:15,499,21 Seats available,4.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Yolo Bus,A/C Sleeper (2+1),21:31,07h 56m,05:27,690,26 Seats available,4.8
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Sudha Sri Tours and Travels,A/C Sleeper (2+1),22:20,07h 40m,06:00,590,13 Seats available,4.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Zingbus Plus,A/C Seater / Sleeper (2+1),22:35,07h 20m,05:55,494,25 Seats available,4.2
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,FRESHBUS,Electric A/C Seater (2+2),16:00,06h 50m,22:50,499,20 Seats available,4.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Teja Tours and Travels,A/C Sleeper (2+1),23:00,07h 00m,06:00,580,12 Seats available,4.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,NueGo,Electric A/C Seater (2+2),14:45,07h 25m,22:10,356,30 Seats available,4.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,NueGo,Electric A/C Seater (2+2),23:30,07h 10m,06:40,356,28 Seats available,3.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,V Kaveri Travels,Non A/C Seater / Sleeper (2+1),23:00,07h 00m,06:00,450,16 Seats available,3.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Mozo travels,A/C Sleeper (2+1),23:15,06h 15m,05:30,580,18 Seats available,3.3
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,KKaveri Travels,Non A/C Seater / Sleeper (2+1),23:00,06h 45m,05:45,450,24 Seats available,3.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:00,06h 30m,05:30,450,8 Seats available,3.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Svkdt travels,A/C Sleeper (2+1),22:00,07h 45m,05:45,690,25 Seats available,3.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),22:30,07h 15m,05:45,700,16 Seats available,3.3
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Moonlight Travels,A/C Sleeper (2+1),22:00,08h 00m,06:00,500,22 Seats available,3.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,NON A/C Sleeper (2+1),23:30,05h 35m,05:05,550,26 Seats available,3.4
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,V Kaveri Travels,A/C Sleeper (2+1),23:15,07h 00m,06:15,600,26 Seats available,3.2
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:00,07h 00m,06:00,700,22 Seats available,3.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,349,40 Seats available,3.2
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,AVR Travels,A/C Seater / Sleeper (2+1),22:00,07h 15m,05:15,1049,41 Seats available,3.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,SS Prasanna Travels,A/C Seater (2+2),22:30,07h 00m,05:30,348,25 Seats available,3.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,390,17 Seats available,3.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Sai Sri Durga Travels,Non A/C Seater / Sleeper (2+1),22:15,07h 25m,05:40,3000,11 Seats available,3.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,AVR Travels,A/C Seater / Sleeper (2+1),22:00,07h 15m,05:15,3999,14 Seats available,3.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Prasanna Travels,A/C Seater / Sleeper (2+1),15:00,07h 40m,22:40,300,5 Seats available,2.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,SRI MARUTHI TRAVELS,A/C Sleeper (2+1),23:10,05h 50m,05:00,399,21 Seats available,2.3
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),23:10,05h 50m,05:00,399,28 Seats available,2.6
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),14:45,06h 45m,21:30,600,3 Seats available,2.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,NON A/C Sleeper (2+1),22:15,06h 35m,04:50,500,17 Seats available,2.7
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:10,05h 40m,04:50,590,26 Seats available,2.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),22:55,04h 55m,03:50,690,36 Seats available,2.1
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),21:25,09h 25m,06:50,590,30 Seats available,2.0
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Chandu Travels,A/C Seater / Sleeper (2+1),23:00,06h 30m,05:30,399,36 Seats available,2.9
+TSRTC,Guntur (Andhra Pradesh) to Hyderabad,Morning Star Travels,A/C Sleeper (2+1),23:15,05h 40m,04:55,590,19 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Zingbus Plus,A/C Seater / Sleeper (2+1),23:38,07h 12m,06:50,869,31 Seats available,4.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),23:30,07h 45m,07:15,1249,17 Seats available,4.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),GMRK Tours and Travels,Volvo A/C Semi Sleeper (2+2),23:30,06h 40m,06:10,699,23 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),AdIntrCity SmartBus,AC Sleeper (2+1),23:50,07h 35m,07:25,1219,15 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),NueGo,Electric A/C Seater (2+2),22:35,08h 00m,06:35,874,16 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Pavan Tours and Travels,A/C Sleeper (2+1),22:30,07h 40m,06:10,1073,6 Seats available,4.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),IntrCity SmartBus,AC Sleeper (2+1),23:10,07h 40m,06:50,1229,11 Seats available,4.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sri KVR Travels,A/C Sleeper (2+1),22:30,07h 00m,05:30,1089,13 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,07h 15m,06:45,809,13 Seats available,4.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sri Sanvi Tours and Travels,A/C Sleeper (2+1),22:15,07h 15m,05:30,1079,16 Seats available,4.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Svkdt travels,A/C Sleeper (2+1),22:20,08h 10m,06:30,969,5 Seats available,4.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),IntrCity SmartBus,AC Sleeper (2+1),23:40,07h 00m,06:40,1039,17 Seats available,4.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Svkdt travels,A/C Sleeper (2+1),22:30,08h 25m,06:55,969,5 Seats available,4.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),V Kaveri Travels,A/C Seater / Sleeper (2+1),22:15,07h 00m,05:15,700,6 Seats available,4.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Yolo Bus,A/C Seater / Sleeper (2+1),22:15,07h 55m,06:10,760,19 Seats available,4.0
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),NueGo,Electric A/C Seater (2+2),15:00,08h 00m,23:00,485,15 Seats available,4.0
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),NueGo,Electric A/C Seater (2+2),23:50,08h 00m,07:50,748,12 Seats available,3.8
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),V Kaveri Travels,Non A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,700,15 Seats available,3.8
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Mozo travels,A/C Sleeper (2+1),22:30,06h 55m,05:25,879,9 Seats available,3.9
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),KARTHIKEYA TOURS AND TRAVELS,A/C Seater / Sleeper (2+1),22:30,06h 45m,05:15,600,13 Seats available,4.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Teja Tours and Travels,A/C Sleeper (2+1),22:00,07h 15m,05:15,880,29 Seats available,3.9
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Tirumala Xpress,A/C Sleeper (2+1),21:35,08h 55m,06:30,899,15 Seats available,3.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:30,07h 00m,06:30,1000,24 Seats available,3.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),KKaveri Travels,Non A/C Seater / Sleeper (2+1),20:45,08h 15m,05:00,670,12 Seats available,3.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Orange Tours And Travels,NON A/C Sleeper (2+1),21:45,08h 00m,05:45,800,25 Seats available,3.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Chandu Travels,A/C Seater / Sleeper (2+1),22:05,07h 30m,05:35,532,15 Seats available,3.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Yolo Bus,A/C Sleeper (2+1),22:31,08h 19m,06:50,829,19 Seats available,4.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 30m,05:50,800,15 Seats available,3.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),22:30,07h 15m,05:45,649,31 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Orange Tours And Travels,A/C Seater / Sleeper (2+1),22:00,07h 30m,05:30,700,18 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,A/C Sleeper (2+1),22:40,07h 00m,05:40,990,20 Seats available,3.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:30,06h 30m,06:00,900,20 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),23:05,07h 25m,06:30,600,7 Seats available,2.8
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,NON A/C Sleeper (2+1),23:00,05h 30m,04:30,850,15 Seats available,2.7
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),V Kaveri Travels,A/C Sleeper (2+1),21:30,08h 30m,06:00,950,11 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,A/C Sleeper (2+1),22:55,06h 35m,05:30,990,17 Seats available,2.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sri Sai Padmavathi Travels,A/C Seater/Sleeper (2+1),23:45,05h 30m,05:15,500,23 Seats available,4.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Lakshmi Gayatri Travels,Non A/C Seater / Sleeper (2+1),22:30,08h 15m,06:45,699,13 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,A/C Sleeper (2+1),22:30,06h 45m,05:15,990,15 Seats available,2.9
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sudha Sri Tours and Travels,A/C Sleeper (2+1),22:10,06h 30m,04:40,990,40 Seats available,2.9
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sai Sri Durga Travels,Non A/C Seater / Sleeper (2+1),23:45,06h 45m,06:30,3000,20 Seats available,2.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),SRI MARUTHI TRAVELS,A/C Sleeper (2+1),22:30,07h 15m,05:45,799,10 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Morning Star Travels,NON A/C Sleeper (2+1),22:50,06h 35m,05:25,850,17 Seats available,2.2
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),GMRK Tours and Travels,Bharat Benz A/C Sleeper (2+1),23:10,05h 50m,05:00,809,32 Seats available,4.4
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),23:50,06h 40m,06:30,600,21 Seats available,3.0
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Zingbus Plus,A/C Seater / Sleeper (2+1),23:03,07h 12m,06:15,869,34 Seats available,4.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),23:55,07h 15m,07:10,600,27 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),YNR Travels,A/C Sleeper (2+1),23:35,07h 25m,07:00,991,35 Seats available,3.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),22:45,07h 30m,06:15,600,17 Seats available,3.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),FRESHBUS,Electric A/C Seater (2+2),16:10,08h 25m,00:35,579,42 Seats available,3.1
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sravani Travels,A/C Seater / Sleeper (2+1),22:25,07h 05m,05:30,4000,22 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Yolo Bus,A/C Seater / Sleeper (2+1),22:20,07h 39m,05:59,700,40 Seats available,1.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),AVR Travels,A/C Seater / Sleeper (2+1),23:00,07h 15m,06:15,2500,19 Seats available,1.3
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),SRI MARUTHI TRAVELS,Non A/C Seater / Sleeper (2+1),21:40,07h 20m,05:00,749,34 Seats available,1.5
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Prasanna Travels,A/C Seater / Sleeper (2+1),23:10,08h 00m,07:10,600,35 Seats available,2.6
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),Sri Sai Padmavathi Travels,A/C Seater/Sleeper (2+1),23:40,06h 20m,06:00,700,27 Seats available,4.0
+TSRTC,Hyderabad to Guntur (Andhra Pradesh),S S N L Travels,A/C Seater / Sleeper (2+1),23:10,06h 40m,05:50,599,50 Seats available,1.5
+TSRTC,Hyderabad to Kothagudem,BSR Tours And Travels,A/C Sleeper (2+1),22:00,06h 30m,04:30,1280,5 Seats available,4.7
+TSRTC,Hyderabad to Kothagudem,SAIRAJ TRAVELS,A/C Sleeper (2+1),22:15,06h 45m,05:00,1890,1 Seat available,4.5
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,A/C Sleeper (2+1),21:20,07h 30m,04:50,1390,13 Seats available,4.8
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:35,06h 55m,05:30,1000,10 Seats available,4.2
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 35m,05:55,1000,5 Seats available,4.0
+TSRTC,Hyderabad to Kothagudem,VSR Tours and Travels,A/C Sleeper (2+1),23:00,05h 30m,04:30,1299,7 Seats available,4.7
+TSRTC,Hyderabad to Kothagudem,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,06h 45m,05:00,890,9 Seats available,3.6
+TSRTC,Hyderabad to Kothagudem,Morning Star Travels,A/C Sleeper (2+1),22:50,05h 40m,04:30,1290,7 Seats available,3.1
+TSRTC,Hyderabad to Kothagudem,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:30,06h 15m,05:45,900,8 Seats available,3.0
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,A/C Sleeper (2+1),22:35,06h 55m,05:30,1390,9 Seats available,4.6
+TSRTC,Hyderabad to Kothagudem,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,06h 40m,05:00,830,19 Seats available,4.7
+TSRTC,Hyderabad to Kothagudem,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,06h 40m,05:00,750,5 Seats available,2.8
+TSRTC,Hyderabad to Kothagudem,Manish travels,NON A/C Seater (2+2),22:00,07h 00m,05:00,3000,40 Seats available,4.5
+TSRTC,Hyderabad to Kothagudem,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,06h 45m,05:00,890,10 Seats available,4.1
+TSRTC,Hyderabad to Kothagudem,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),22:15,06h 45m,05:00,1090,16 Seats available,4.0
+TSRTC,Hyderabad to Kothagudem,Morning Star Travels,A/C Sleeper (2+1),22:30,05h 50m,04:20,1290,21 Seats available,2.8
+TSRTC,Hyderabad to Kothagudem,Bharathi Tours & Travels,NON A/C Hi-Tech (2+2),21:20,07h 26m,04:46,800,13 Seats available,3.5
+TSRTC,Hyderabad to Kothagudem,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),17:00,05h 45m,22:45,1300,7 Seats available,2.0
+TSRTC,Hyderabad to Kothagudem,Maa Bankeshwari -Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),19:15,05h 45m,01:00,650,11 Seats available,2.3
+TSRTC,Hyderabad to Sathupally,Mozo travels,A/C Seater / Sleeper (2+1),22:40,06h 25m,05:05,1000,10 Seats available,4.7
+TSRTC,Hyderabad to Sathupally,Sri Venkateswara Travels,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,800,21 Seats available,4.3
+TSRTC,Hyderabad to Sathupally,BSR Tours And Travels,NON A/C Seater (2+2),22:00,07h 00m,05:00,880,30 Seats available,4.0
+TSRTC,Hyderabad to Sathupally,Mythri Tours And Travels,A/C Sleeper (2+1),23:00,05h 15m,04:15,1299,20 Seats available,4.8
+TSRTC,Hyderabad to Sathupally,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,07h 40m,05:00,600,11 Seats available,3.9
+TSRTC,Hyderabad to Sathupally,Sri Krishna Travels(VGN),NON A/C Hi-Tech (2+2),21:45,07h 15m,05:00,650,9 Seats available,3.9
+TSRTC,Hyderabad to Sathupally,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),21:30,07h 15m,04:45,890,11 Seats available,4.2
+TSRTC,Hyderabad to Sathupally,Hanuman Travels,A/C Seater / Sleeper (2+1),22:30,05h 35m,04:05,1794,34 Seats available,4.4
+TSRTC,Hyderabad to Sathupally,SBS Tours and Travels,Non A/C Seater / Sleeper (2+1),22:45,05h 15m,04:00,690,6 Seats available,4.3
+TSRTC,Hyderabad to Sathupally,KVR Tours and Travels,A/C Seater / Sleeper (2+1),21:30,07h 30m,05:00,854,24 Seats available,3.2
+TSRTC,Hyderabad to Sathupally,Sri KVR Travels,A/C Sleeper (2+1),22:00,06h 50m,04:50,850,16 Seats available,3.2
+TSRTC,Hyderabad to Sathupally,Sri Krishna Travels(VGN),Non A/C Seater / Sleeper (2+1),21:45,07h 35m,05:20,650,17 Seats available,3.0
+TSRTC,Hyderabad to Sathupally,Sri Krishna Travels,A/C Sleeper (2+1),19:00,06h 00m,01:00,2000,14 Seats available,2.5
+TSRTC,Hyderabad to Sathupally,Morning Star Travels,A/C Sleeper (2+1),22:25,06h 25m,04:50,1290,12 Seats available,5.0
+TSRTC,Hyderabad to Sathupally,Sri Rama Travels,A/C Seater / Sleeper (2+1),21:40,06h 50m,04:30,1111,25 Seats available,3.2
+TSRTC,Hyderabad to Sathupally,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:30,05h 30m,01:00,1200,6 Seats available,2.9
+TSRTC,Hyderabad to Sathupally,Mahadevv travels,Non A/C Seater / Sleeper (2+1),22:00,05h 30m,03:30,999,8 Seats available,2.6
+TSRTC,Hyderabad to Sathupally,SVN TOURS & TRAVELS,A/C Semi Sleeper / Sleeper (2+1),22:15,06h 45m,05:00,1614,32 Seats available,4.5
+TSRTC,Hyderabad to Sathupally,Siri Tours and Travels,Non A/C Seater / Sleeper (2+1),21:50,06h 10m,04:00,999,13 Seats available,4.0
+TSRTC,Hyderabad to Sathupally,Sri Rama Travels,A/C Seater / Sleeper (2+1),21:40,06h 50m,04:30,1888,21 Seats available,2.0
+TSRTC,Hyderabad to Sathupally,KVR Tours and Travels,A/C Sleeper (2+1),19:30,07h 30m,03:00,1329,23 Seats available,1.0
+TSRTC,Hyderabad to Sathupally,DMR Travels,A/C Sleeper (2+1),20:50,07h 10m,04:00,1770,21 Seats available,3.4
+TSRTC,Hyderabad to Sathupally,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:30,07h 35m,02:05,999,11 Seats available,3.4
+TSRTC,Hyderabad to Sathupally,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),23:45,04h 45m,04:30,950,31 Seats available,2.9
+TSRTC,Kodad to Hyderabad,APSRTC - 3793,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",23:40,03h 05m,02:45,318,16 Seats available,4.8
+TSRTC,Kodad to Hyderabad,NueGo,Electric A/C Seater (2+2),15:20,03h 50m,19:10,356,30 Seats available,3.4
+TSRTC,Kodad to Hyderabad,NueGo,Electric A/C Seater (2+2),16:45,03h 50m,20:35,475,36 Seats available,3.4
+TSRTC,Hyderabad to Bhadrachalam,SAIRAJ TRAVELS,A/C Seater / Sleeper (2+1),22:15,07h 30m,05:45,1090,16 Seats available,4.7
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,A/C Sleeper (2+1),21:20,08h 30m,05:50,1390,13 Seats available,4.4
+TSRTC,Hyderabad to Bhadrachalam,VSR Tours and Travels,A/C Sleeper (2+1),23:00,06h 30m,05:30,1199,7 Seats available,4.2
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),22:35,07h 55m,06:30,1000,11 Seats available,4.2
+TSRTC,Hyderabad to Bhadrachalam,BSR Tours And Travels,A/C Sleeper (2+1),22:00,07h 30m,05:30,1380,4 Seats available,4.5
+TSRTC,Hyderabad to Bhadrachalam,SAIRAJ TRAVELS,A/C Sleeper (2+1),22:15,07h 30m,05:45,1890,1 Seat available,4.5
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),21:20,08h 30m,05:50,1000,5 Seats available,4.1
+TSRTC,Hyderabad to Bhadrachalam,MAHABAHUSRIKVRTRAVELS,A/C Seater / Sleeper (2+1),17:00,06h 40m,23:40,1300,40 Seats available,5.0
+TSRTC,Hyderabad to Bhadrachalam,Manish travels,NON A/C Seater (2+2),22:00,08h 00m,06:00,3000,13 Seats available,4.5
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,NON A/C Hi-Tech (2+2),21:20,08h 40m,06:00,800,19 Seats available,3.2
+TSRTC,Hyderabad to Bhadrachalam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,07h 30m,05:50,830,9 Seats available,3.8
+TSRTC,Hyderabad to Bhadrachalam,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,07h 30m,05:45,890,9 Seats available,3.7
+TSRTC,Hyderabad to Bhadrachalam,Bharathi Tours & Travels,A/C Sleeper (2+1),22:35,07h 55m,06:30,1390,6 Seats available,3.8
+TSRTC,Hyderabad to Bhadrachalam,Morning Star Travels,A/C Sleeper (2+1),22:50,06h 25m,05:15,1290,9 Seats available,3.7
+TSRTC,Hyderabad to Bhadrachalam,Orange Tours And Travels,NON A/C Seater/ Sleeper (2+1),23:30,07h 30m,07:00,900,5 Seats available,3.1
+TSRTC,Hyderabad to Bhadrachalam,Nani’s Sai Krishna Travels,Non A/C Seater / Sleeper (2+1),22:20,07h 30m,05:50,750,9 Seats available,3.0
+TSRTC,Hyderabad to Bhadrachalam,SAIRAJ TRAVELS,NON A/C Seater (2+2),22:15,07h 30m,05:45,890,10 Seats available,1.0
+TSRTC,Hyderabad to Bhadrachalam,Gupta Travels Galaxy,NON A/C Seater / Sleeper (2+2),21:00,07h 00m,04:00,800,22 Seats available,1.8
+TSRTC,Hyderabad to Bhadrachalam,Gupta Travels Galaxy,NON A/C Sleeper (2+2),17:15,05h 30m,22:45,950,7 Seats available,1.6
+TSRTC,Hyderabad to Bhadrachalam,Morning Star Travels,A/C Sleeper (2+1),22:30,06h 40m,05:10,1290,12 Seats available,2.3

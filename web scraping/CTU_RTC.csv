@@ -1,0 +1,526 @@
+State,Route,Bus Name,Bus Type,Departing Time,Duration Time,Reaching Time,Price,Seats Available,Star Rating
+CTURTC,Yamuna Nagar to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165752,HVAC Seater (2+3),14:20,02h 45m,17:05,195.6,26 Seats available,3.9
+CTURTC,Yamuna Nagar to Chandigarh,Zimindara Travels,AC Sleeper (2+1),20:30,04h 00m,00:30,699,26 Seats available,4.1
+CTURTC,Yamuna Nagar to Chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),20:40,02h 50m,23:30,899,38 Seats available,3.7
+CTURTC,Yamuna Nagar to Chandigarh,Om Sidh Express,Volvo A/C Semi Sleeper (2+2),20:20,02h 40m,23:00,1044,32 Seats available,3.5
+CTURTC,Yamuna Nagar to Chandigarh,City Land Travels,A/C Seater/Sleeper (2+1),22:20,02h 00m,00:20,748,32 Seats available,3.5
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater (2+2),12:55,04h 35m,17:30,285,35 Seats available,3.7
+CTURTC,Chandigarh to Delhi,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),13:00,06h 00m,19:00,522,27 Seats available,3.8
+CTURTC,Chandigarh to Delhi,City Land Travels,Volvo A/C Semi Sleeper (2+2),13:25,05h 35m,19:00,448,41 Seats available,5.0
+CTURTC,Chandigarh to Delhi,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),13:40,05h 20m,19:00,399,26 Seats available,4.4
+CTURTC,Chandigarh to Delhi,City Land Travels,Volvo A/C Semi Sleeper (2+2),14:00,05h 00m,19:00,388,32 Seats available,3.5
+CTURTC,Chandigarh to Delhi,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:55,04h 50m,04:45,599,31 Seats available,3.0
+CTURTC,Chandigarh to Delhi,FlixBus,Volvo A/C Seater (2+2),14:25,05h 20m,19:45,427.68,37 Seats available,3.9
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater (2+2),14:30,05h 30m,20:00,285,27 Seats available,3.3
+CTURTC,Chandigarh to Delhi,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),23:20,05h 50m,05:10,473,8 Seats available,4.5
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater (2+2),15:30,05h 30m,21:00,285,37 Seats available,3.5
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater (2+2),16:30,05h 25m,21:55,285,8 Seats available,3.4
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater (2+2),17:30,05h 25m,22:55,285,32 Seats available,4.2
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater (2+2),18:30,05h 25m,23:55,285,32 Seats available,3.9
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater (2+2),20:00,05h 20m,01:20,333,33 Seats available,4.0
+CTURTC,Chandigarh to Delhi,Khurana Bus Service,Volvo A/C (2+2),20:50,05h 50m,02:40,300,40 Seats available,3.7
+CTURTC,Chandigarh to Delhi,Khurana Bus Service,Volvo A/C (2+2),21:10,05h 30m,02:40,300,52 Seats available,3.5
+CTURTC,Chandigarh to Delhi,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:55,05h 50m,05:45,599,52 Seats available,3.0
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater/Sleeper (2+1),22:00,05h 15m,03:15,285,51 Seats available,3.4
+CTURTC,Chandigarh to Delhi,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),23:45,05h 25m,05:10,466,25 Seats available,4.7
+CTURTC,Chandigarh to Delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,05h 30m,04:30,569,5 Seats available,4.6
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater (2+2),23:00,05h 15m,04:15,285,28 Seats available,4.1
+CTURTC,Chandigarh to Delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:35,04h 55m,04:30,499,28 Seats available,4.7
+CTURTC,Chandigarh to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:40,05h 05m,04:45,455,22 Seats available,4.7
+CTURTC,Chandigarh to Delhi,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:55,05h 50m,05:45,599,21 Seats available,3.0
+CTURTC,Chandigarh to Delhi,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),17:00,06h 30m,23:30,857,7 Seats available,3.0
+CTURTC,Chandigarh to Delhi,NueGo,Electric A/C Seater/Sleeper (2+1),23:45,05h 15m,05:00,285,33 Seats available,3.6
+CTURTC,Chandigarh to Delhi,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:50,05h 00m,04:50,759,48 Seats available,4.9
+CTURTC,Chandigarh to Delhi,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:45,05h 01m,22:46,449,37 Seats available,1.8
+CTURTC,Chandigarh to Delhi,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:45,05h 16m,23:01,449,37 Seats available,2.0
+CTURTC,Delhi to Chandigarh,RSRTC - 183801,Express Non AC Seater 2+3,15:30,05h 30m,21:00,320,29 Seats available,1.0
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),14:30,05h 05m,19:35,285,5 Seats available,3.4
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),15:30,05h 05m,20:35,285,31 Seats available,3.6
+CTURTC,Delhi to Chandigarh,FlixBus,AC Seater (2+2),16:00,06h 10m,22:10,366.96,10 Seats available,4.3
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),16:30,05h 25m,21:55,285,40 Seats available,3.4
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),17:00,05h 50m,22:50,569,13 Seats available,4.6
+CTURTC,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),17:00,06h 00m,23:00,688,33 Seats available,3.8
+CTURTC,Delhi to Chandigarh,Zakir Flights,Volvo A/C Semi Sleeper (2+2),19:00,05h 30m,00:30,539,9 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,06h 05m,23:05,400,23 Seats available,4.3
+CTURTC,Delhi to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:00,05h 02m,22:02,449,37 Seats available,3.6
+CTURTC,Delhi to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:45,05h 00m,00:45,1006,20 Seats available,3.8
+CTURTC,Delhi to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:00,06h 15m,00:15,672,39 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Deltin Travels,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,04h 29m,23:59,510,13 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),17:30,06h 00m,23:30,465,24 Seats available,4.7
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),17:30,05h 05m,22:35,285,24 Seats available,3.9
+CTURTC,Delhi to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:30,05h 00m,00:30,1006,14 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Big Bus,A/C Seater / Sleeper (2+2),17:35,04h 50m,22:25,685,24 Seats available,4.0
+CTURTC,Delhi to Chandigarh,FlixBus,Bharat Benz A/C Sleeper (2+1),17:45,05h 20m,23:05,887.5,9 Seats available,3.9
+CTURTC,Delhi to Chandigarh,SPEED BUS,Bharat Benz A/C Seater / Sleeper (2+2),21:45,06h 15m,04:00,499,43 Seats available,2.0
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),17:55,06h 10m,00:05,650,24 Seats available,4.5
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:00,05h 30m,23:30,664,12 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:00,06h 15m,00:15,672,29 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),19:15,05h 15m,00:30,1006,20 Seats available,3.8
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),18:30,05h 35m,00:05,550,31 Seats available,4.0
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),18:30,05h 15m,23:45,499,39 Seats available,4.7
+CTURTC,Delhi to Chandigarh,City Land Travels,Scania Multi-Axle AC Semi Sleeper (2+2),18:40,05h 20m,00:00,748,19 Seats available,5.0
+CTURTC,Delhi to Chandigarh,FlixBus,Volvo A/C Seater (2+2),18:45,05h 55m,00:40,366.96,35 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),18:45,06h 30m,01:15,617,24 Seats available,4.2
+CTURTC,Delhi to Chandigarh,Reo India Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),18:45,05h 25m,00:10,570,13 Seats available,3.6
+CTURTC,Delhi to Chandigarh,BIR BILLING TRAVELS,Volvo A/C Semi Sleeper (2+2),19:30,05h 45m,01:15,665,33 Seats available,3.8
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,05h 15m,00:15,569,39 Seats available,4.3
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,04h 55m,23:55,759,46 Seats available,4.6
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Scania A/C Semi Sleeper (2+2),20:00,05h 15m,01:15,452,46 Seats available,4.6
+CTURTC,Delhi to Chandigarh,Metahills holidays,Scania A/C Semi Sleeper (2+2),19:00,04h 21m,23:21,710,61 Seats available,3.2
+CTURTC,Delhi to Chandigarh,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),20:00,04h 30m,00:30,422,14 Seats available,3.4
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),21:45,04h 55m,02:40,452,18 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:57,06h 13m,06:10,449,23 Seats available,3.6
+CTURTC,Delhi to Chandigarh,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),19:00,05h 29m,00:29,699,13 Seats available,3.9
+CTURTC,Delhi to Chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,05h 15m,04:20,599,33 Seats available,3.6
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:00,04h 55m,23:55,664,34 Seats available,4.5
+CTURTC,Delhi to Chandigarh,Deltin Travels,Scania Multi-Axle AC Semi Sleeper (2+2),22:50,05h 10m,04:00,729,31 Seats available,3.1
+CTURTC,Delhi to Chandigarh,RS YADAV SMART BUS,Volvo A/C Semi Sleeper (2+2),19:15,05h 39m,00:54,700,28 Seats available,4.4
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),20:30,05h 15m,01:45,452,11 Seats available,4.3
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,05h 00m,00:30,569,12 Seats available,4.2
+CTURTC,Delhi to Chandigarh,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),19:30,05h 40m,01:10,669,25 Seats available,3.4
+CTURTC,Delhi to Chandigarh,Deltin Travels,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,05h 19m,04:19,749,37 Seats available,4.1
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),19:30,05h 10m,00:40,759,44 Seats available,4.6
+CTURTC,Delhi to Chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,05h 20m,04:25,599,44 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),19:00,05h 45m,00:45,672,21 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,04h 36m,03:16,640,22 Seats available,3.0
+CTURTC,Delhi to Chandigarh,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,04h 25m,23:55,699,19 Seats available,3.5
+CTURTC,Delhi to Chandigarh,Awadh Travels,A/C Sleeper (2+2),22:10,05h 20m,03:30,585,17 Seats available,3.7
+CTURTC,Delhi to Chandigarh,Lavish Travels,A/C Seater / Sleeper (2+2),18:15,06h 45m,01:00,719,25 Seats available,1.0
+CTURTC,Delhi to Chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+2),19:30,05h 20m,00:50,499,23 Seats available,3.4
+CTURTC,Delhi to Chandigarh,Reo India Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:35,04h 24m,23:59,503,13 Seats available,4.6
+CTURTC,Delhi to Chandigarh,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),19:40,06h 00m,01:40,693,26 Seats available,4.1
+CTURTC,Delhi to Chandigarh,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),19:15,04h 30m,23:45,599,23 Seats available,2.8
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,06h 20m,02:00,650,30 Seats available,4.2
+CTURTC,Delhi to Chandigarh,FlixBus,Volvo A/C Seater (2+2),19:45,06h 00m,01:45,739.29,24 Seats available,3.9
+CTURTC,Delhi to Chandigarh,Deltin Travels,Volvo 9600 A/C Semi Sleeper (2+2),20:30,05h 00m,01:30,730,34 Seats available,3.1
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:00,05h 30m,01:30,664,19 Seats available,3.7
+CTURTC,Delhi to Chandigarh,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),21:30,04h 45m,02:15,719,22 Seats available,2.8
+CTURTC,Delhi to Chandigarh,Gola Bus Service,A/C Seater/Sleeper (2+1),20:00,05h 30m,01:30,599,28 Seats available,4.3
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,05h 30m,01:30,664,55 Seats available,4.5
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),21:00,05h 05m,02:05,566,15 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,05h 10m,01:10,759,28 Seats available,4.4
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,05h 00m,01:00,712,25 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Royal Safari India Travels,A/C Seater / Sleeper (2+2),22:30,05h 30m,04:00,583,34 Seats available,1.0
+CTURTC,Delhi to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:57,06h 43m,06:40,449,40 Seats available,2.8
+CTURTC,Delhi to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:57,06h 23m,06:20,450,4 Seats available,3.9
+CTURTC,Delhi to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),20:00,05h 20m,01:20,650,32 Seats available,3.4
+CTURTC,Delhi to Chandigarh,Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),20:00,05h 00m,01:00,719,28 Seats available,3.9
+CTURTC,Delhi to Chandigarh,FlixBus,Volvo A/C Seater (2+2),20:15,05h 45m,02:00,739.29,33 Seats available,3.6
+CTURTC,Delhi to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:00,05h 32m,22:32,1050,24 Seats available,4.1
+CTURTC,Delhi to Chandigarh,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),20:15,04h 55m,01:10,693,26 Seats available,3.1
+CTURTC,Delhi to Chandigarh,SIDDHI VINAYAK TRAVELS,Volvo A/C Semi Sleeper (2+2),20:30,05h 45m,02:15,664,6 Seats available,4.1
+CTURTC,Delhi to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),20:30,05h 45m,02:15,448,33 Seats available,4.6
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,05h 20m,01:50,569,39 Seats available,4.1
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:30,05h 00m,01:30,759,13 Seats available,5.0
+CTURTC,Delhi to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),20:30,04h 50m,01:20,750,17 Seats available,4.4
+CTURTC,Delhi to Chandigarh,IntrCity SmartBus,Volvo A/C Semi Sleeper (2+2),20:30,05h 30m,02:00,599,24 Seats available,4.0
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,05h 30m,02:30,759,23 Seats available,3.0
+CTURTC,Delhi to Chandigarh,KVS Holidays,A/C Sleeper (2+2),21:00,05h 30m,02:30,500,38 Seats available,4.6
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,04h 55m,01:55,664,16 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:45,05h 10m,00:55,769,52 Seats available,4.3
+CTURTC,Delhi to Chandigarh,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,05h 30m,02:30,559,32 Seats available,3.2
+CTURTC,Delhi to Chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+2),21:00,05h 30m,02:30,579,29 Seats available,3.9
+CTURTC,Delhi to Chandigarh,FlixBus,Volvo A/C Seater (2+2),21:15,05h 35m,02:50,1359.82,31 Seats available,4.5
+CTURTC,Delhi to Chandigarh,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:20,06h 40m,04:00,349,31 Seats available,2.8
+CTURTC,Delhi to Chandigarh,PAL Travel Lines,Volvo A/C Semi Sleeper (2+2),20:15,04h 30m,00:45,748,40 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),21:20,05h 20m,02:40,599,26 Seats available,3.2
+CTURTC,Delhi to Chandigarh,Goel Tourist (Regd),A/C Seater / Sleeper (2+2),21:40,05h 40m,03:20,788,36 Seats available,4.8
+CTURTC,Delhi to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),20:15,05h 30m,01:45,700,33 Seats available,4.3
+CTURTC,Delhi to Chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+1),21:50,05h 10m,03:00,642,6 Seats available,4.6
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),22:45,05h 45m,04:30,452,13 Seats available,3.7
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater/Sleeper (2+1),22:00,05h 15m,03:15,285,36 Seats available,3.9
+CTURTC,Delhi to Chandigarh,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),22:00,05h 29m,03:29,699,34 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:00,05h 20m,03:20,759,31 Seats available,4.8
+CTURTC,Delhi to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2),21:30,04h 45m,02:15,638,34 Seats available,4.8
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),23:15,05h 20m,04:35,465,33 Seats available,4.4
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,05h 40m,03:40,547,34 Seats available,3.9
+CTURTC,Delhi to Chandigarh,FlixBus,Volvo A/C Seater (2+2),22:05,05h 45m,03:50,762.5,23 Seats available,4.9
+CTURTC,Delhi to Chandigarh,Deltin Travels,Volvo 9600 A/C Semi Sleeper (2+2),21:50,04h 40m,02:30,650,29 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Here Bus,AC Seater (2+2),22:25,04h 45m,03:10,743.81,30 Seats available,3.0
+CTURTC,Delhi to Chandigarh,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),22:30,05h 30m,04:00,599,27 Seats available,5.0
+CTURTC,Delhi to Chandigarh,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,06h 00m,04:30,655,34 Seats available,4.8
+CTURTC,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),22:40,04h 20m,03:00,748,44 Seats available,1.0
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),22:40,05h 10m,03:50,664,29 Seats available,3.7
+CTURTC,Delhi to Chandigarh,Maheshwaram Travels,A/C Seater / Sleeper (2+2),19:40,05h 30m,01:10,626,22 Seats available,4.5
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),23:00,05h 35m,04:35,333,32 Seats available,4.3
+CTURTC,Delhi to Chandigarh,Laxmi holidays,VE A/C Sleeper (2+1),23:00,05h 25m,04:25,641,18 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),21:40,04h 55m,02:35,714,30 Seats available,4.2
+CTURTC,Delhi to Chandigarh,Northern Travels,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,05h 00m,04:30,650,29 Seats available,4.5
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),23:30,05h 15m,04:45,820,24 Seats available,4.5
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,05h 30m,05:00,475,41 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,05h 30m,05:10,641,41 Seats available,4.5
+CTURTC,Delhi to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2),23:00,04h 50m,03:50,962,32 Seats available,3.5
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),22:15,05h 10m,03:25,662,37 Seats available,2.8
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater/Sleeper (2+1),23:55,05h 15m,05:10,425,26 Seats available,2.4
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater/Sleeper (2+1),13:00,05h 25m,18:25,425,12 Seats available,4.5
+CTURTC,Delhi to Chandigarh,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),15:30,06h 00m,21:30,699,29 Seats available,1.0
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),22:35,05h 10m,03:45,847,47 Seats available,2.6
+CTURTC,Delhi to Chandigarh,Big Bus,A/C Seater / Sleeper (2+2),15:30,04h 50m,20:20,685,35 Seats available,1.0
+CTURTC,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),16:30,06h 00m,22:30,688,47 Seats available,1.0
+CTURTC,Delhi to Chandigarh,TANISHQ HOLIDAYS TOUR,Volvo A/C Semi Sleeper (2+2),19:30,04h 00m,23:30,764,41 Seats available,2.4
+CTURTC,Delhi to Chandigarh,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:00,06h 00m,23:00,685,45 Seats available,2.9
+CTURTC,Delhi to Chandigarh,FlixBus,Bharat Benz A/C Seater (2+2),18:00,06h 05m,00:05,739.29,32 Seats available,1.7
+CTURTC,Delhi to Chandigarh,RK Holiday,A/C Seater / Sleeper (2+2),18:25,29h 30m,23:55,595,7 Seats available,2.7
+CTURTC,Delhi to Chandigarh,Malana Travels,Volvo A/C Semi Sleeper (2+2),18:30,05h 29m,23:59,634,29 Seats available,3.3
+CTURTC,Delhi to Chandigarh,City Land Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,05h 40m,01:05,748,41 Seats available,2.4
+CTURTC,Delhi to Chandigarh,Lucky Bus Service,VE A/C Sleeper (2+2),20:30,06h 15m,02:45,2069,16 Seats available,2.2
+CTURTC,Delhi to Chandigarh,SIDDHI VINAYAK TRAVELS,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:30,05h 45m,01:15,650,49 Seats available,2.8
+CTURTC,Delhi to Chandigarh,G.T.SHolidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,05h 00m,00:30,499,44 Seats available,2.0
+CTURTC,Delhi to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),20:00,05h 45m,01:45,684,29 Seats available,2.3
+CTURTC,Delhi to Chandigarh,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:15,05h 30m,01:45,651,8 Seats available,2.9
+CTURTC,Delhi to Chandigarh,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,06h 00m,02:30,655,50 Seats available,2.7
+CTURTC,Delhi to Chandigarh,Kashi Bus,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,03h 31m,00:01,398,23 Seats available,1.0
+CTURTC,Delhi to Chandigarh,Kartar Travels Private Limited,Volvo A/C Semi Sleeper (2+2),20:30,05h 00m,01:30,700,32 Seats available,4.8
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:55,05h 10m,02:05,580,19 Seats available,2.8
+CTURTC,Delhi to Chandigarh,SHAH HOLIDAY TRAVEL,Bharat Benz A/C Seater / Sleeper (2+2),21:00,06h 00m,03:00,699,38 Seats available,1.0
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),22:00,05h 10m,03:10,630,15 Seats available,3.3
+CTURTC,Delhi to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),21:20,05h 35m,02:55,665,31 Seats available,1.0
+CTURTC,Delhi to Chandigarh,RK Holiday,A/C Seater / Sleeper (2+2),21:20,04h 40m,02:00,595,7 Seats available,2.5
+CTURTC,Delhi to Chandigarh,Lucky Bus Service,VE A/C Sleeper (2+2),17:30,06h 15m,23:45,1979,31 Seats available,2.9
+CTURTC,Delhi to Chandigarh,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),21:30,05h 29m,02:59,699,30 Seats available,2.9
+CTURTC,Delhi to Chandigarh,Big Bus,A/C Seater / Sleeper (2+2),22:30,04h 20m,02:50,685,37 Seats available,3.7
+CTURTC,Delhi to Chandigarh,RK Holiday,A/C Seater / Sleeper (2+2),22:50,05h 30m,04:20,595,20 Seats available,2.3
+CTURTC,Delhi to Chandigarh,Kartar Travels Private Limited,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,04h 45m,04:15,600,13 Seats available,2.9
+CTURTC,Delhi to Chandigarh,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:00,04h 40m,23:40,1443,30 Seats available,1.0
+CTURTC,Delhi to Chandigarh,Ashok Bus Service,A/C Seater / Sleeper (2+2),23:35,06h 10m,05:45,759,11 Seats available,3.5
+CTURTC,Delhi to Chandigarh,NueGo,Electric A/C Seater (2+2),23:40,05h 25m,05:05,729,27 Seats available,3.7
+CTURTC,Delhi to Chandigarh,FlixBus,Volvo A/C Seater (2+2),23:55,05h 10m,05:05,739.29,22 Seats available,3.5
+CTURTC,Delhi to Chandigarh,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),12:40,08h 30m,21:10,3300,10 Seats available,3.5
+CTURTC,Delhi to Chandigarh,Rao Travel Heights,Volvo A/C Semi Sleeper (2+2),19:30,05h 20m,00:50,1443,22 Seats available,3.5
+CTURTC,Delhi to Chandigarh,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:00,08h 30m,22:30,3850,42 Seats available,1.0
+CTURTC,Delhi to Chandigarh,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:00,08h 15m,22:15,3850,40 Seats available,3.5
+CTURTC,Delhi to Chandigarh,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,08h 15m,00:45,3300,40 Seats available,3.4
+CTURTC,Delhi to Chandigarh,Shiv Mohan Travels,AC Sleeper (2+1),18:20,06h 30m,00:50,986,25 Seats available,3.1
+CTURTC,Delhi to Chandigarh,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,08h 30m,01:00,3300,35 Seats available,4.5
+CTURTC,Delhi to Chandigarh,Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),20:00,05h 20m,01:20,1349,25 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Malana Travels,Bharat Benz A/C Semi Sleeper (2+2),18:00,05h 30m,23:30,834,41 Seats available,3.1
+CTURTC,Delhi to Chandigarh,Gola Bus Service,VE A/C Seater / Sleeper (2+1),18:00,06h 05m,00:05,1599,19 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,05h 20m,23:50,824,27 Seats available,4.1
+CTURTC,Delhi to Chandigarh,Heera Himachal Holidays,Mercedes Multi-Axle Semi Sleeper (2+2),18:30,06h 30m,01:00,1049,30 Seats available,2.3
+CTURTC,Delhi to Chandigarh,SAI GOLDEN TRAVEL,A/C Sleeper (2+2),18:30,04h 45m,23:15,1904.76,15 Seats available,4.0
+CTURTC,Delhi to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),19:00,05h 20m,00:20,799,50 Seats available,3.7
+CTURTC,Delhi to Chandigarh,Apex Bus Travels,A/C Seater / Sleeper (2+2),21:45,04h 30m,02:15,899,46 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Holiday Appeal Private Limited,Volvo A/C Semi Sleeper (2+2),19:00,04h 45m,23:45,1499,25 Seats available,3.4
+CTURTC,Delhi to Chandigarh,Mahadev Travels(mdvt),Volvo A/C Semi Sleeper (2+2 ),19:15,06h 00m,01:15,2000,15 Seats available,2.3
+CTURTC,Delhi to Chandigarh,Malana Travels,Bharat Benz A/C Semi Sleeper (2+2),19:15,05h 30m,00:45,834,30 Seats available,3.5
+CTURTC,Delhi to Chandigarh,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),21:15,04h 30m,01:45,1714,5 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Apex Bus Travels,A/C Seater / Sleeper (2+2),22:45,04h 30m,03:15,899,41 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Cab India Travels,Volvo A/C Semi Sleeper (2+2),19:20,07h 00m,02:20,999,17 Seats available,4.5
+CTURTC,Delhi to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),21:45,04h 45m,02:30,962,41 Seats available,3.3
+CTURTC,Delhi to Chandigarh,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:30,08h 30m,04:00,3300,27 Seats available,4.3
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,05h 35m,01:05,800,26 Seats available,3.2
+CTURTC,Delhi to Chandigarh,Lucky Bus Service,VE A/C Sleeper (2+2),18:30,06h 30m,01:00,1979,46 Seats available,4.2
+CTURTC,Delhi to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:30,05h 30m,01:00,790,40 Seats available,4.6
+CTURTC,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),19:55,04h 45m,00:40,788,46 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Kingfisher Busline Pvt Ltd,Volvo A/C Multi-Axle Semi Sleeper (2+2),20:00,03h 35m,23:35,849,40 Seats available,3.8
+CTURTC,Delhi to Chandigarh,Holiday Appeal Private Limited,Volvo A/C Semi Sleeper (2+2),20:00,03h 59m,23:59,1199,36 Seats available,3.2
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:00,05h 15m,01:15,910,34 Seats available,3.4
+CTURTC,Delhi to Chandigarh,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),22:35,05h 45m,04:20,858,34 Seats available,3.3
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),20:30,04h 40m,01:10,900,30 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Metahills holidays,Scania A/C Semi Sleeper (2+2),20:30,04h 21m,00:51,1099,32 Seats available,4.5
+CTURTC,Delhi to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),20:30,05h 00m,01:30,1088,49 Seats available,4.6
+CTURTC,Delhi to Chandigarh,Khurana Bus Service,Volvo A/C Semi Sleeper (2+2 ),20:30,06h 00m,02:30,4000,50 Seats available,4.7
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:00,04h 40m,01:40,830,29 Seats available,5.0
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),21:00,05h 00m,02:00,949,22 Seats available,4.8
+CTURTC,Delhi to Chandigarh,Kingfisher Busline Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:00,06h 00m,03:00,1599,20 Seats available,4.7
+CTURTC,Delhi to Chandigarh,IntrCity SmartBus,Volvo 9600 A/C Semi Sleeper (2+2),21:30,05h 35m,03:05,939,49 Seats available,2.8
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,05h 00m,02:30,1112,26 Seats available,3.0
+CTURTC,Delhi to Chandigarh,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:45,04h 30m,02:15,820,16 Seats available,3.5
+CTURTC,Delhi to Chandigarh,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:00,04h 45m,01:45,972,4 Seats available,3.1
+CTURTC,Delhi to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),22:00,04h 50m,02:50,949,15 Seats available,4.6
+CTURTC,Delhi to Chandigarh,JN HOLIDAYS,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),20:10,05h 05m,01:15,1301,14 Seats available,4.0
+CTURTC,Delhi to Chandigarh,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,07h 15m,05:15,3850,12 Seats available,4.2
+CTURTC,Delhi to Chandigarh,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,07h 30m,05:30,3850,30 Seats available,4.6
+CTURTC,Ludhiana to Chandigarh,Jujhar Travels,Mercedes Benz A/C (2+2),13:10,02h 05m,15:15,300,38 Seats available,4.9
+CTURTC,Ludhiana to Chandigarh,Jujhar Travels,Volvo A/C Semi Sleeper (2+2),14:00,02h 00m,16:00,300,32 Seats available,4.9
+CTURTC,Ludhiana to Chandigarh,Jujhar Travels,Volvo A/C Semi Sleeper (2+2),14:25,01h 45m,16:10,320,32 Seats available,3.3
+CTURTC,Ludhiana to Chandigarh,Jujhar Travels,Volvo A/C Semi Sleeper (2+2),15:25,02h 00m,17:25,300,35 Seats available,4.2
+CTURTC,Ludhiana to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),16:00,02h 00m,18:00,250,32 Seats available,3.6
+CTURTC,Ludhiana to Chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,03h 20m,00:20,549,32 Seats available,3.3
+CTURTC,Ludhiana to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),16:00,02h 51m,18:51,250,25 Seats available,3.6
+CTURTC,Ludhiana to Chandigarh,Deltin Travels,A/C Seater / Sleeper (2+1),23:45,01h 25m,01:10,599,25 Seats available,4.1
+CTURTC,Ludhiana to Chandigarh,Jujhar Travels,Mercedes A/C Seater (2+2),17:20,02h 10m,19:30,300,33 Seats available,4.6
+CTURTC,Chandigarh to Yamuna Nagar,Chandigarh Transport Undertaking (CTU) - 165753,HVAC Seater (2+3),15:40,02h 45m,18:25,195.6,13 Seats available,3.9
+CTURTC,Chandigarh to Yamuna Nagar,Shree Mahaveer Travels Jaipur,VE A/C Seater / Sleeper (2+1),22:00,02h 35m,00:35,799,25 Seats available,5.0
+CTURTC,Chandigarh to Yamuna Nagar,Zimindara Travels,AC Sleeper (2+1),22:55,03h 15m,02:10,749,27 Seats available,4.1
+CTURTC,Chandigarh to Yamuna Nagar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,02h 50m,00:20,549,33 Seats available,3.5
+CTURTC,Chandigarh to Yamuna Nagar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,02h 30m,02:00,404,32 Seats available,3.5
+CTURTC,Hamirpur (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:20,04h 55m,01:15,522,18 Seats available,4.6
+CTURTC,Hamirpur (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:15,04h 05m,01:20,690,9 Seats available,4.1
+CTURTC,Hamirpur (Himachal Pradesh) to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),22:00,03h 15m,01:15,600,41 Seats available,5.0
+CTURTC,Hamirpur (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2),22:05,04h 00m,02:05,585,13 Seats available,4.8
+CTURTC,Hamirpur (Himachal Pradesh) to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),22:00,03h 15m,01:15,600,31 Seats available,2.8
+CTURTC,Hamirpur (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),22:00,05h 10m,03:10,800,11 Seats available,5.0
+CTURTC,Chandigarh to Vrindavan,Chandigarh Transport Undertaking (CTU) - 165938,HVAC Seater (2+3),20:00,09h 45m,05:45,634.7,44 Seats available,4.0
+CTURTC,Chandigarh to Vrindavan,GK Travels,A/C Seater/Sleeper (2+1),17:00,32h 00m,01:00,999,20 Seats available,1.0
+CTURTC,Chandigarh to Hamirpur (Himachal Pradesh),HRTC - 1529,Ordinary 3+2 Non AC Seater,13:56,05h 09m,19:05,364,37 Seats available,3.3
+CTURTC,Chandigarh to Pathankot,RAJDHANI TRANSPORT,NON A/C Seater (2+3),13:00,06h 00m,19:00,330,34 Seats available,3.1
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:00,04h 35m,17:35,688,23 Seats available,3.8
+CTURTC,Chandigarh to Pathankot,RAJDHANI TRANSPORT,NON A/C Seater (2+3),13:23,06h 37m,20:00,330,39 Seats available,3.1
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:40,04h 35m,18:15,749,52 Seats available,3.8
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:45,04h 30m,18:15,749,16 Seats available,3.9
+CTURTC,Chandigarh to Pathankot,Khurana Bus Service,Volvo A/C (2+2),14:20,05h 10m,19:30,500,27 Seats available,3.5
+CTURTC,Chandigarh to Pathankot,New Pal Travels,A/C Sleeper (2+1),19:30,07h 00m,02:30,495,39 Seats available,5.0
+CTURTC,Chandigarh to Pathankot,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:20,05h 10m,02:30,493,19 Seats available,3.4
+CTURTC,Chandigarh to Pathankot,Khurana Bus Service,Volvo A/C (2+2),14:25,05h 05m,19:30,500,42 Seats available,4.4
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),21:52,04h 50m,02:42,499,50 Seats available,3.6
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:47,04h 28m,18:15,749,21 Seats available,5.0
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),22:02,04h 40m,02:42,499,44 Seats available,3.6
+CTURTC,Chandigarh to Pathankot,Jamna Travels-Jammu,AshokLeyland Stile A/C,20:30,05h 00m,01:30,550,27 Seats available,3.1
+CTURTC,Chandigarh to Pathankot,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:30,05h 00m,02:30,493,25 Seats available,4.0
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),21:12,05h 30m,02:42,499,28 Seats available,3.9
+CTURTC,Chandigarh to Pathankot,Harikesh Tour N Travels,A/C Sleeper (2+1),21:00,05h 00m,02:00,550,26 Seats available,4.7
+CTURTC,Chandigarh to Pathankot,Baru travels,A/C Seater / Sleeper (2+2),20:45,05h 15m,02:00,450,30 Seats available,3.4
+CTURTC,Chandigarh to Pathankot,GOBUS,A/C Seater / Sleeper (2+2),22:05,04h 25m,02:30,467,27 Seats available,3.3
+CTURTC,Chandigarh to Pathankot,Moon Light Travels Katra,A/C Sleeper (2+1),21:15,04h 45m,02:00,552,14 Seats available,5.0
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),14:40,04h 20m,19:00,613,35 Seats available,3.5
+CTURTC,Chandigarh to Pathankot,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),16:00,04h 40m,20:40,688,32 Seats available,3.9
+CTURTC,Chandigarh to Pathankot,Awadh Travels,A/C Sleeper (2+2),21:30,04h 30m,02:00,899,32 Seats available,3.7
+CTURTC,Chandigarh to Pathankot,Moon Light Travels Katra,A/C Sleeper (2+1),22:00,04h 00m,02:00,674,38 Seats available,3.9
+CTURTC,Chandigarh to Pathankot,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:50,04h 10m,03:00,760,39 Seats available,3.8
+CTURTC,Chandigarh to Pathankot,Zimindara Travels,AC Sleeper (2+1),23:00,04h 30m,03:30,649,34 Seats available,5.0
+CTURTC,Chandigarh to Dehradun,NueGo,Electric A/C Seater (2+2),18:00,04h 55m,22:55,382,22 Seats available,4.0
+CTURTC,Chandigarh to Dehradun,NueGo,Electric A/C Seater (2+2),19:00,03h 55m,22:55,382,17 Seats available,4.1
+CTURTC,Chandigarh to Dehradun,Zimindara Travels,AC Sleeper (2+1),22:55,06h 30m,05:25,749,32 Seats available,3.7
+CTURTC,Dehradun to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),16:00,06h 50m,22:50,686,26 Seats available,4.5
+CTURTC,Dehradun to Chandigarh,Zimindara Travels,AC Sleeper (2+1),16:00,08h 30m,00:30,599,26 Seats available,5.0
+CTURTC,Dehradun to Chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),17:00,06h 30m,23:30,899,32 Seats available,3.3
+CTURTC,Dehradun to Chandigarh,Om Sidh Express,Volvo A/C Semi Sleeper (2+2),17:30,05h 30m,23:00,523,32 Seats available,3.0
+CTURTC,Dehradun to Chandigarh,NueGo,Electric A/C Seater (2+2),18:00,04h 55m,22:55,382,24 Seats available,4.4
+CTURTC,Pathankot to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165786,HVAC Seater (2+3),13:44,06h 16m,20:00,468.6,24 Seats available,4.0
+CTURTC,Pathankot to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:40,05h 11m,18:51,449,40 Seats available,3.8
+CTURTC,Pathankot to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),14:35,04h 40m,19:15,788,18 Seats available,3.9
+CTURTC,Pathankot to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),16:43,05h 31m,22:14,749,28 Seats available,4.7
+CTURTC,Pathankot to Chandigarh,Zimindara Travels,AC Sleeper (2+1),17:25,05h 30m,22:55,649,26 Seats available,4.1
+CTURTC,Pathankot to Chandigarh,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,06h 00m,02:00,339,38 Seats available,4.1
+CTURTC,Pathankot to Chandigarh,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:30,04h 50m,01:20,834,22 Seats available,4.4
+CTURTC,Pathankot to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:40,04h 50m,01:30,578,12 Seats available,4.6
+CTURTC,Pathankot to Chandigarh,Moon Light Travels Katra,A/C Sleeper (2+1),22:45,05h 45m,04:30,552,24 Seats available,4.6
+CTURTC,Pathankot to Chandigarh,New Pal Travels,A/C Sleeper (2+1),23:55,05h 20m,05:15,540,16 Seats available,3.7
+CTURTC,Pathankot to Chandigarh,Here Bus,A/C Seater / Sleeper (2+1),20:45,04h 00m,00:45,856.19,14 Seats available,4.3
+CTURTC,Pathankot to Chandigarh,Radhe Travels,Bharat Benz A/C Sleeper (2+1),23:45,04h 55m,04:40,485,36 Seats available,4.4
+CTURTC,Pathankot to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:00,05h 00m,02:00,770,16 Seats available,4.6
+CTURTC,Pathankot to Chandigarh,Radhe Travels,Bharat Benz A/C Sleeper (2+1),23:45,05h 30m,05:15,485,23 Seats available,3.0
+CTURTC,Pathankot to Chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:15,04h 45m,02:00,854,14 Seats available,4.5
+CTURTC,Pathankot to Chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),21:30,04h 30m,02:00,550,23 Seats available,3.7
+CTURTC,Pathankot to Chandigarh,Awadh Travels,A/C Sleeper (2+1),23:45,05h 00m,04:45,584,42 Seats available,4.1
+CTURTC,Pathankot to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),22:30,04h 15m,02:45,749,22 Seats available,4.6
+CTURTC,Pathankot to Chandigarh,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:40,05h 00m,03:40,675,15 Seats available,3.6
+CTURTC,Pathankot to Chandigarh,Jamna Travels-Jammu,AshokLeyland Stile A/C,23:00,05h 30m,04:30,550,27 Seats available,2.8
+CTURTC,Pathankot to Chandigarh,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:15,04h 43m,23:58,539,28 Seats available,4.8
+CTURTC,Pathankot to Chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),23:00,04h 30m,03:30,540,17 Seats available,4.4
+CTURTC,Pathankot to Chandigarh,City Land Travels,A/C Sleeper (2+1),23:00,05h 15m,04:15,688,24 Seats available,3.6
+CTURTC,Pathankot to Chandigarh,Gola Bus Service,A/C Seater/Sleeper (2+1),23:15,04h 35m,03:50,499,20 Seats available,4.3
+CTURTC,Pathankot to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:25,04h 55m,04:20,608,23 Seats available,4.8
+CTURTC,Pathankot to Chandigarh,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,04h 50m,04:20,489,16 Seats available,4.1
+CTURTC,Pathankot to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),23:43,03h 57m,03:40,725,28 Seats available,3.5
+CTURTC,Pathankot to Chandigarh,Jamna Travels-Jammu,AshokLeyland Stile A/C,23:45,05h 30m,05:15,749,52 Seats available,2.7
+CTURTC,Pathankot to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),16:50,05h 15m,22:05,699,49 Seats available,1.0
+CTURTC,Pathankot to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:40,05h 00m,18:40,449,36 Seats available,3.9
+CTURTC,Pathankot to Chandigarh,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),23:45,05h 30m,05:15,949,50 Seats available,1.0
+CTURTC,Pathankot to Chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:40,05h 00m,18:40,449,46 Seats available,2.4
+CTURTC,Pathankot to Chandigarh,Lavish Travels,A/C Seater / Sleeper (2+2),19:35,05h 40m,01:15,539,9 Seats available,3.9
+CTURTC,Pathankot to Chandigarh,Harikesh Tour N Travels,A/C Sleeper (2+1),23:55,04h 35m,04:30,500,30 Seats available,5.0
+CTURTC,Sujanpur (himachal pradesh) to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165837,HVAC Seater (2+3),13:20,06h 30m,19:50,476.2,26 Seats available,4.1
+CTURTC,Chandigarh to Sujanpur (himachal pradesh),HRTC - 6748,Ordinary 3+2 Non AC Seater,14:05,06h 25m,20:30,358,33 Seats available,4.7
+CTURTC,Chandigarh to Sujanpur (himachal pradesh),HRTC - 1548,Ordinary 3+2 Non AC Seater,14:20,06h 25m,20:45,373,25 Seats available,3.9
+CTURTC,Vrindavan to Chandigarh,HRTC - 587,Ordinary 3+2 Non AC Seater,14:00,09h 05m,23:05,455,47 Seats available,4.7
+CTURTC,Chandigarh to Baijnath,Chandigarh Transport Undertaking (CTU) - 165825,HVAC Seater (2+3),20:08,09h 00m,05:08,611.4,46 Seats available,4.0
+CTURTC,Chandigarh to Baijnath,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,06h 35m,06:30,759,13 Seats available,4.5
+CTURTC,Chandigarh to Dharamshala (Himachal Pradesh),Laxmi holidays,VE A/C Semi Sleeper (2+2),23:50,05h 40m,05:30,759,31 Seats available,4.7
+CTURTC,Chandigarh to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,06h 05m,06:00,759,24 Seats available,4.6
+CTURTC,Chandigarh to Dharamshala (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,06h 04m,05:59,759,21 Seats available,4.5
+CTURTC,Chandigarh to Dharamshala (Himachal Pradesh),A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:59,07h 16m,07:15,699,17 Seats available,3.5
+CTURTC,Chandigarh to Dharamshala (Himachal Pradesh),A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:59,06h 41m,06:40,699,18 Seats available,2.2
+CTURTC,Chandigarh to Agra,Chandigarh Transport Undertaking (CTU) - 165906,HVAC Seater (2+3),20:30,11h 00m,07:30,740.6,47 Seats available,3.7
+CTURTC,Chandigarh to Agra,Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),15:30,08h 15m,23:45,1199,50 Seats available,2.0
+CTURTC,Chandigarh to Agra,Ankush travels,Bharat Benz A/C Seater / Sleeper (2+2),15:45,10h 30m,02:15,1849,10 Seats available,1.0
+CTURTC,Chandigarh to Agra,GK Travels,A/C Seater/Sleeper (2+1),17:00,11h 00m,04:00,1499,30 Seats available,1.0
+CTURTC,Rohtak to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165729,HVAC Seater (2+3),14:00,05h 35m,19:35,404.76,26 Seats available,4.2
+CTURTC,Narnaul to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165855,HVAC Seater (2+3),17:00,06h 00m,23:00,542.8,26 Seats available,4.4
+CTURTC,Amritsar to Chandigarh,PEPSU (Punjab) - 67036,AC Seater Hvac 2+2,15:28,04h 55m,20:23,469,33 Seats available,3.8
+CTURTC,Amritsar to Chandigarh,MAHARAJA TOUR & TRAVELS,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),14:50,04h 25m,19:15,648,25 Seats available,4.2
+CTURTC,Amritsar to Chandigarh,Guardian Travels,Volvo A/C Semi Sleeper (2+2),15:00,03h 30m,18:30,495,25 Seats available,4.3
+CTURTC,Amritsar to Chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:00,05h 30m,23:30,549,34 Seats available,5.0
+CTURTC,Amritsar to Chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:00,06h 20m,00:20,599,32 Seats available,3.9
+CTURTC,Amritsar to Chandigarh,NueGo,Electric A/C Seater (2+2),18:15,04h 00m,22:15,424,33 Seats available,4.4
+CTURTC,Amritsar to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,04h 10m,23:40,400,35 Seats available,4.7
+CTURTC,Amritsar to Chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),20:30,04h 25m,00:55,799,32 Seats available,3.7
+CTURTC,Amritsar to Chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),20:30,04h 20m,00:50,799,32 Seats available,3.7
+CTURTC,Amritsar to Chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:10,03h 20m,01:30,599,33 Seats available,5.0
+CTURTC,Amritsar to Chandigarh,Deltin Travels,A/C Seater / Sleeper (2+1),21:00,03h 55m,00:55,599,26 Seats available,4.1
+CTURTC,Amritsar to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04h 25m,01:25,485,12 Seats available,4.5
+CTURTC,Amritsar to Chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:15,03h 10m,01:25,599,36 Seats available,3.6
+CTURTC,Chandigarh to Haridwar,Chandigarh Transport Undertaking (CTU) - 165962,HVAC Seater (2+3),13:40,05h 50m,19:30,447.6,13 Seats available,3.9
+CTURTC,Chandigarh to Haridwar,Shree Mahaveer Travels Jaipur,VE A/C Seater / Sleeper (2+1),22:00,05h 15m,03:15,799,25 Seats available,4.1
+CTURTC,Chandigarh to Haridwar,Zimindara Travels,AC Sleeper (2+1),22:55,05h 30m,04:25,749,11 Seats available,4.3
+CTURTC,Chandigarh to Haridwar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 00m,04:30,494,20 Seats available,4.1
+CTURTC,Chandigarh to Haridwar,Laxmi holidays,VE A/C Semi Sleeper (2+2),23:55,06h 35m,06:30,854,32 Seats available,4.3
+CTURTC,Chandigarh to Haridwar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),23:58,05h 57m,05:55,786,28 Seats available,3.1
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,FlixBus,Volvo A/C Seater (2+2),18:00,07h 10m,01:10,483.04,18 Seats available,4.1
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:25,06h 35m,01:00,523,31 Seats available,4.7
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:30,06h 30m,01:00,523,31 Seats available,4.4
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),18:45,06h 15m,01:00,630,21 Seats available,4.9
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:00,06h 00m,01:00,630,21 Seats available,4.6
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,VE A/C Semi Sleeper (2+2),19:00,04h 55m,23:55,759,34 Seats available,4.3
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),19:00,05h 50m,00:50,522,29 Seats available,4.8
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:30,05h 35m,01:05,477,32 Seats available,4.6
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),19:05,05h 45m,00:50,522,37 Seats available,5.0
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),21:45,04h 55m,02:40,456,29 Seats available,4.6
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:35,05h 30m,01:05,472,25 Seats available,4.7
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:30,05h 45m,01:15,500,19 Seats available,4.3
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,06h 10m,01:40,550,19 Seats available,5.0
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),21:15,05h 30m,02:45,656,19 Seats available,4.8
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),19:30,06h 10m,01:40,550,37 Seats available,4.9
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),21:40,05h 00m,02:40,428,25 Seats available,4.4
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,04h 29m,23:59,749,19 Seats available,4.3
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:35,05h 40m,01:15,500,32 Seats available,4.1
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:55,06h 05m,02:00,523,19 Seats available,4.5
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Triptara tour & Travel,Scania Multi-Axle AC Semi Sleeper (2+2),19:58,05h 52m,01:50,529,19 Seats available,5.0
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,FlixBus,Volvo A/C Seater (2+2),20:00,07h 10m,03:10,483.04,38 Seats available,4.4
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,06h 00m,02:00,523,34 Seats available,5.0
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,05h 20m,01:50,550,38 Seats available,4.8
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),20:30,05h 50m,02:20,550,34 Seats available,3.8
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Ram Dalal Holidays,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:38,05h 12m,01:50,550,22 Seats available,5.0
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),20:40,05h 40m,02:20,550,22 Seats available,3.4
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),20:55,05h 40m,02:35,499,19 Seats available,4.5
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:00,05h 35m,02:35,499,25 Seats available,4.8
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),21:00,05h 45m,02:45,656,23 Seats available,4.9
+CTURTC,Dharamshala (Himachal Pradesh) to Chandigarh,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),21:45,05h 35m,03:20,499,32 Seats available,4.8
+CTURTC,Jawala Ji to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165784,HVAC Seater (2+3),13:30,06h 05m,19:35,435.25,24 Seats available,3.9
+CTURTC,Jawala Ji to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),20:45,04h 15m,01:00,600,34 Seats available,4.0
+CTURTC,Jawala Ji to Chandigarh,Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),21:00,03h 50m,00:50,522,25 Seats available,3.4
+CTURTC,Jawala Ji to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),21:05,04h 10m,01:15,500,12 Seats available,5.0
+CTURTC,Jawala Ji to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),21:15,04h 30m,01:45,630,19 Seats available,5.0
+CTURTC,Baijnath to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165826,HVAC Seater (2+3),18:40,09h 00m,03:40,611.4,47 Seats available,4.8
+CTURTC,Baijnath to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),17:30,07h 45m,01:15,522,26 Seats available,4.6
+CTURTC,Baijnath to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),18:00,07h 00m,01:00,600,24 Seats available,4.6
+CTURTC,Baijnath to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),18:15,07h 05m,01:20,690,9 Seats available,4.8
+CTURTC,Baijnath to Chandigarh,Bedi Travels,Volvo 9600 A/C Semi Sleeper (2+2),18:15,07h 30m,01:45,630,12 Seats available,4.8
+CTURTC,Baijnath to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),18:30,07h 20m,01:50,522,27 Seats available,4.7
+CTURTC,Baijnath to Chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2),19:00,07h 05m,02:05,630,13 Seats available,5.0
+CTURTC,Baijnath to Chandigarh,Ram Dalal Holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:50,06h 25m,01:15,670,24 Seats available,4.9
+CTURTC,Baijnath to Chandigarh,New Himalaya Travels,Volvo A/C Semi Sleeper (2+2),19:00,06h 30m,01:30,600,22 Seats available,5.0
+CTURTC,Baijnath to Chandigarh,BIR BILLING TRAVELS,Volvo A/C Semi Sleeper (2+2),19:00,06h 00m,01:00,480,28 Seats available,3.0
+CTURTC,Baijnath to Chandigarh,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),19:15,06h 55m,02:10,647,30 Seats available,5.0
+CTURTC,Baijnath to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),19:15,06h 00m,01:15,600,41 Seats available,3.6
+CTURTC,Baijnath to Chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),19:30,07h 40m,03:10,800,11 Seats available,4.1
+CTURTC,Baijnath to Chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,06h 50m,02:50,759,17 Seats available,4.6
+CTURTC,Baijnath to Chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),19:15,06h 00m,01:15,600,31 Seats available,2.8
+CTURTC,Baijnath to Chandigarh,Bharmani Travels,Volvo A/C Semi Sleeper (2+2),20:30,06h 00m,02:30,647,26 Seats available,2.4
+CTURTC,Chandigarh to Rohtak,Chandigarh Transport Undertaking (CTU) - 165730,HVAC Seater (2+3),15:10,05h 30m,20:40,404.76,30 Seats available,3.7
+CTURTC,Chandigarh to Rohtak,Vijay Tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),15:00,05h 15m,20:15,799,36 Seats available,4.2
+CTURTC,Chandigarh to Rohtak,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),15:30,05h 05m,20:35,749,21 Seats available,4.3
+CTURTC,Chandigarh to Hisar (Haryana),Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:30,04h 35m,22:05,600,31 Seats available,2.5
+CTURTC,Chandigarh to Hisar (Haryana),Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),20:00,04h 20m,00:20,899,26 Seats available,3.7
+CTURTC,Chandigarh to Una (Himachal Pradesh),Chandigarh Transport Undertaking (CTU) - 165967,HVAC Seater (2+3),16:30,03h 00m,19:30,230.8,31 Seats available,4.8
+CTURTC,Chandigarh to Una (Himachal Pradesh),Laxmi holidays,VE A/C Semi Sleeper (2+2),23:50,02h 40m,02:30,759,30 Seats available,4.4
+CTURTC,Chandigarh to Una (Himachal Pradesh),Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,02h 45m,02:40,759,12 Seats available,5.0
+CTURTC,Chandigarh to Rishikesh,Laxmi holidays,VE A/C Semi Sleeper (2+2),23:55,06h 15m,06:10,854,15 Seats available,4.3
+CTURTC,Chandigarh to Rishikesh,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),23:58,06h 02m,06:00,786,32 Seats available,3.1
+CTURTC,Rishikesh to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165957,HVAC Seater (2+3),13:45,06h 30m,20:15,506.8,26 Seats available,3.9
+CTURTC,Rishikesh to Chandigarh,Zimindara Travels,AC Sleeper (2+1),16:40,07h 50m,00:30,599,26 Seats available,3.7
+CTURTC,Rishikesh to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:10,05h 40m,22:50,686,32 Seats available,4.5
+CTURTC,Rishikesh to Chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),18:00,05h 30m,23:30,899,32 Seats available,4.1
+CTURTC,Rishikesh to Chandigarh,City Land Travels,A/C Seater/Sleeper (2+1),19:30,04h 50m,00:20,748,24 Seats available,3.3
+CTURTC,Shimla to Chandigarh,RSRTC - 192348,Super Luxury Volvo AC Seater Pushback 2+2,16:30,04h 45m,21:15,432,45 Seats available,4.0
+CTURTC,Shimla to Chandigarh,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),20:30,03h 15m,23:45,229,15 Seats available,4.8
+CTURTC,Shimla to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,03h 05m,23:35,499,26 Seats available,4.6
+CTURTC,Shimla to Chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,02h 30m,23:00,499,29 Seats available,4.8
+CTURTC,Shimla to Chandigarh,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),20:30,02h 50m,23:20,229,22 Seats available,4.7
+CTURTC,Shimla to Chandigarh,Here Bus,AC Seater (2+2),21:00,03h 15m,00:15,570.48,22 Seats available,3.9
+CTURTC,Agra to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165907,HVAC Seater (2+3),17:00,11h 00m,04:00,740.6,46 Seats available,3.4
+CTURTC,Haldwani to Chandigarh,Shree Mahaveer Travels Jaipur,VE A/C Seater / Sleeper (2+1),18:50,10h 40m,05:30,1299,9 Seats available,4.0
+CTURTC,Haldwani to Chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:41,09h 50m,04:31,1099,6 Seats available,3.9
+CTURTC,Jammu (j and k) to Chandigarh,Harikesh Tour N Travels,A/C Sleeper (2+1),21:10,07h 20m,04:30,500,23 Seats available,4.1
+CTURTC,Jammu (j and k) to Chandigarh,Jamna Travels-Jammu,AshokLeyland Stile A/C,21:00,07h 30m,04:30,550,14 Seats available,4.1
+CTURTC,Jammu (j and k) to Chandigarh,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:25,07h 50m,05:15,485,22 Seats available,4.0
+CTURTC,Jammu (j and k) to Chandigarh,AdMoon Light Travels Katra,A/C Sleeper (2+1),20:25,08h 05m,04:30,552,22 Seats available,4.2
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:30,07h 20m,04:50,770,24 Seats available,4.4
+CTURTC,Jammu (j and k) to Chandigarh,New Pal Travels,A/C Sleeper (2+1),22:00,07h 30m,05:30,540,33 Seats available,4.4
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+1),22:15,06h 55m,05:10,542,35 Seats available,4.4
+CTURTC,Jammu (j and k) to Chandigarh,AdMoon Light Travels Katra,A/C Sleeper (2+1),22:15,07h 50m,06:05,552,19 Seats available,4.1
+CTURTC,Jammu (j and k) to Chandigarh,Zimindara Travels,A/C Seater / Sleeper (2+1),13:15,07h 30m,20:45,480,56 Seats available,4.2
+CTURTC,Jammu (j and k) to Chandigarh,Zimindara Travels,AC Sleeper (2+1),14:55,08h 00m,22:55,568,18 Seats available,4.0
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+2),22:30,07h 15m,05:45,514,38 Seats available,4.6
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:15,07h 15m,04:30,770,15 Seats available,4.6
+CTURTC,Jammu (j and k) to Chandigarh,Baru travels,A/C Seater / Sleeper (2+2),21:45,07h 20m,05:05,405,26 Seats available,4.1
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:50,07h 30m,04:20,730,14 Seats available,4.4
+CTURTC,Jammu (j and k) to Chandigarh,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:50,07h 30m,04:20,479,15 Seats available,4.7
+CTURTC,Jammu (j and k) to Chandigarh,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),16:20,07h 38m,23:58,539,12 Seats available,4.2
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:15,07h 25m,03:40,855,16 Seats available,4.5
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:35,07h 55m,01:30,578,26 Seats available,4.5
+CTURTC,Jammu (j and k) to Chandigarh,Harikesh Travels,Volvo A/C Sleeper (2+1),21:30,07h 30m,05:00,719,21 Seats available,4.6
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,07h 15m,02:00,854,46 Seats available,3.7
+CTURTC,Jammu (j and k) to Chandigarh,New Pal Travels,A/C Sleeper (2+1),21:30,07h 45m,05:15,540,12 Seats available,4.1
+CTURTC,Jammu (j and k) to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),17:30,09h 15m,02:45,749,23 Seats available,4.6
+CTURTC,Jammu (j and k) to Chandigarh,Harikesh Travels,A/C Sleeper (2+2),21:30,08h 00m,05:30,989,30 Seats available,4.4
+CTURTC,Jammu (j and k) to Chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:15,07h 45m,02:00,770,24 Seats available,4.5
+CTURTC,Jammu (j and k) to Chandigarh,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:00,07h 40m,03:40,579,19 Seats available,3.2
+CTURTC,Jammu (j and k) to Chandigarh,Kingfisher Busline Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),20:30,08h 10m,04:40,1699,23 Seats available,4.5
+CTURTC,Jammu (j and k) to Chandigarh,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:25,07h 15m,04:40,485,21 Seats available,3.6
+CTURTC,Jammu (j and k) to Chandigarh,Awadh Travels,A/C Sleeper (2+1),21:30,07h 15m,04:45,584,28 Seats available,4.1
+CTURTC,Jammu (j and k) to Chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),20:15,07h 15m,03:30,540,13 Seats available,3.7
+CTURTC,Jammu (j and k) to Chandigarh,Zimindara Travels,AC Sleeper (2+1),21:30,07h 30m,05:00,568,35 Seats available,4.3
+CTURTC,Jammu (j and k) to Chandigarh,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),20:15,07h 25m,03:40,725,40 Seats available,4.0
+CTURTC,Jammu (j and k) to Chandigarh,Zimindara Travels,AC Sleeper (2+1),20:50,07h 30m,04:20,568,28 Seats available,2.3
+CTURTC,Jammu (j and k) to Chandigarh,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:35,07h 25m,05:00,459,24 Seats available,5.0
+CTURTC,Jammu (j and k) to Chandigarh,Baru travels,A/C Seater / Sleeper (2+2),21:45,07h 05m,04:50,449,25 Seats available,4.8
+CTURTC,Jammu (j and k) to Chandigarh,Apex Bus Travels,A/C Seater / Sleeper (2+2),21:45,04h 45m,02:30,899,42 Seats available,2.8
+CTURTC,Jammu (j and k) to Chandigarh,Jamna Travels (Delhi),A/C Seater / Sleeper (2+2),21:00,08h 15m,05:15,949,42 Seats available,3.8
+CTURTC,Jammu (j and k) to Chandigarh,Zingbus Plus,A/C Sleeper (2+1),21:20,08h 20m,05:40,719,9 Seats available,2.8
+CTURTC,Jammu (j and k) to Chandigarh,Travel Point,A/C Seater / Sleeper (2+2),15:45,07h 45m,23:30,469,27 Seats available,3.9
+CTURTC,Jammu (j and k) to Chandigarh,Khurana Bus Service,Volvo A/C (2+2),13:30,07h 20m,20:50,649,5 Seats available,3.4
+CTURTC,Jammu (j and k) to Chandigarh,SWAGATAM TOUR HOLIDAY,A/C Sleeper (2+2),20:00,06h 45m,02:45,1439,22 Seats available,3.2
+CTURTC,Jammu (j and k) to Chandigarh,Khurana Bus Service,Volvo A/C (2+2),13:30,07h 40m,21:10,749,16 Seats available,3.8
+CTURTC,Jammu (j and k) to Chandigarh,City Land Travels,A/C Sleeper (2+1),20:30,07h 45m,04:15,688,46 Seats available,5.0
+CTURTC,Jammu (j and k) to Chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),20:00,07h 55m,03:55,1499,28 Seats available,3.6
+CTURTC,Jammu (j and k) to Chandigarh,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),21:45,07h 20m,05:05,650,26 Seats available,3.0
+CTURTC,Jammu (j and k) to Chandigarh,Lavish Travels,A/C Seater / Sleeper (2+2),16:35,08h 40m,01:15,584,28 Seats available,2.8
+CTURTC,Jammu (j and k) to Chandigarh,Gola Bus Service,A/C Seater/Sleeper (2+1),20:20,07h 30m,03:50,499,20 Seats available,2.8
+CTURTC,Jammu (j and k) to Chandigarh,Khurana Bus Service,Volvo A/C (2+2),13:30,08h 20m,21:50,3500,1 Seat available,3.3
+CTURTC,Jammu (j and k) to Chandigarh,Jamna Travels-Jammu,AshokLeyland Stile A/C,21:45,07h 30m,05:15,599,49 Seats available,2.4
+CTURTC,Jammu (j and k) to Chandigarh,Just kailash,A/C Seater / Sleeper (2+2),21:45,07h 15m,05:00,499,42 Seats available,2.4
+CTURTC,Jammu (j and k) to Chandigarh,Lucky Bus Service,Volvo A/C Sleeper (2+2),21:00,07h 45m,04:45,2519,14 Seats available,3.0
+CTURTC,Jammu (j and k) to Chandigarh,RK Holiday,A/C Seater / Sleeper (2+2),22:10,07h 50m,06:00,695,40 Seats available,2.8
+CTURTC,Chandigarh to Narnaul,GK Travels,A/C Seater/Sleeper (2+1),22:15,04h 45m,03:00,599,33 Seats available,4.7
+CTURTC,Chandigarh to Narnaul,Vijay Tour and Travels,Volvo Multi Axle Sleeper B11R (2+1),21:00,06h 00m,03:00,899,36 Seats available,5.0
+CTURTC,Chandigarh to Narnaul,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:58,05h 32m,05:30,719,21 Seats available,3.7
+CTURTC,Chandigarh to Narnaul,Vijay Tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),15:00,07h 40m,22:40,899,34 Seats available,2.8
+CTURTC,Chandigarh to Jawala Ji,HRTC - 1514,Ordinary 3+2 Non AC Seater,16:00,05h 45m,21:45,343,35 Seats available,3.9
+CTURTC,Chandigarh to Jawala Ji,HRTC - 573,Ordinary 3+2 Non AC Seater,19:40,04h 35m,00:15,343,27 Seats available,4.0
+CTURTC,Chandigarh to Jawala Ji,HRTC - 1524,Ordinary 3+2 Non AC Seater,22:00,04h 45m,02:45,325,37 Seats available,1.0
+CTURTC,Chandigarh to Jammu (j and k),Chandigarh Transport Undertaking (CTU) - 165940,HVAC Seater (2+3),15:40,09h 25m,01:05,638.8,46 Seats available,3.8
+CTURTC,Chandigarh to Jammu (j and k),Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:20,07h 25m,04:45,493,20 Seats available,4.2
+CTURTC,Chandigarh to Jammu (j and k),Moon Light Travels Katra,A/C Sleeper (2+1),21:15,07h 15m,04:30,552,18 Seats available,4.4
+CTURTC,Chandigarh to Jammu (j and k),AdBaru travels,A/C Seater / Sleeper (2+2),20:45,07h 30m,04:15,359,32 Seats available,4.0
+CTURTC,Chandigarh to Jammu (j and k),Zimindara Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,437,13 Seats available,4.3
+CTURTC,Chandigarh to Jammu (j and k),New Pal Travels,A/C Sleeper (2+1),19:30,10h 15m,05:45,450,34 Seats available,4.0
+CTURTC,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:50,07h 10m,06:00,749,25 Seats available,4.4
+CTURTC,Chandigarh to Jammu (j and k),AdHarikesh Tour N Travels,A/C Sleeper (2+1),21:00,07h 30m,04:30,550,19 Seats available,3.9
+CTURTC,Chandigarh to Jammu (j and k),Moon Light Travels Katra,A/C Sleeper (2+1),22:00,07h 25m,05:25,637,17 Seats available,4.3
+CTURTC,Chandigarh to Jammu (j and k),Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:50,07h 10m,07:00,1197,14 Seats available,4.3
+CTURTC,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06h 55m,06:00,578,26 Seats available,4.5
+CTURTC,Chandigarh to Jammu (j and k),Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,770,26 Seats available,4.4
+CTURTC,Chandigarh to Jammu (j and k),SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),23:30,07h 30m,07:00,699,26 Seats available,4.0
+CTURTC,Chandigarh to Jammu (j and k),Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:30,07h 15m,04:45,493,23 Seats available,3.5
+CTURTC,Chandigarh to Jammu (j and k),Jamna Travels-Jammu,AshokLeyland Stile A/C,20:30,08h 00m,04:30,550,16 Seats available,3.9
+CTURTC,Chandigarh to Jammu (j and k),Zimindara Travels,AC Sleeper (2+1),23:00,07h 00m,06:00,568,28 Seats available,3.9
+CTURTC,Chandigarh to Jammu (j and k),Zimindara Travels,AC Sleeper (2+1),21:30,07h 00m,04:30,568,12 Seats available,3.8
+CTURTC,Chandigarh to Jammu (j and k),GOBUS,A/C Seater / Sleeper (2+2),22:05,07h 30m,05:35,467,42 Seats available,3.3
+CTURTC,Chandigarh to Jammu (j and k),Awadh Travels,A/C Sleeper (2+2),21:30,07h 15m,04:45,593,44 Seats available,3.8
+CTURTC,Chandigarh to Jammu (j and k),Zimindara Travels,AC Sleeper (2+1),22:00,07h 00m,05:00,568,6 Seats available,3.9
+CTURTC,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:40,07h 00m,20:40,749,28 Seats available,3.4
+CTURTC,Chandigarh to Jammu (j and k),SAHARA TRAVELS,A/C Seater / Sleeper (2+2),21:15,08h 00m,05:15,480,41 Seats available,2.3
+CTURTC,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:45,06h 55m,20:40,749,40 Seats available,3.1
+CTURTC,Chandigarh to Jammu (j and k),Khurana Bus Service,Volvo A/C (2+2),14:25,07h 45m,22:10,500,32 Seats available,3.4
+CTURTC,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),21:52,08h 00m,05:52,499,39 Seats available,2.0
+CTURTC,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),22:02,07h 50m,05:52,499,39 Seats available,3.6
+CTURTC,Chandigarh to Jammu (j and k),Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),13:47,06h 53m,20:40,749,32 Seats available,2.8
+CTURTC,Chandigarh to Jammu (j and k),Khurana Bus Service,Volvo A/C (2+2),14:20,07h 50m,22:10,500,41 Seats available,2.9
+CTURTC,Chandigarh to Jammu (j and k),Lucky Bus Service,VE A/C Sleeper (2+2),23:45,06h 30m,06:15,1979,34 Seats available,3.3
+CTURTC,Chandigarh to Jammu (j and k),CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,685,39 Seats available,1.8
+CTURTC,Chandigarh to Jammu (j and k),Khurana Bus Service,Volvo A/C (2+2),16:50,06h 10m,23:00,3500,35 Seats available,1.0
+CTURTC,Firozpur to Chandigarh,Chandigarh Transport Undertaking (CTU) - 165790,HVAC Seater (2+3),13:18,05h 20m,18:38,442.9,45 Seats available,4.3
+CTURTC,Chandigarh to Haldwani,Shree Mahaveer Travels Jaipur,VE A/C Seater / Sleeper (2+1),22:00,09h 55m,07:55,999,13 Seats available,4.2
+CTURTC,Chandigarh to Haldwani,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,09h 30m,09:00,674,8 Seats available,3.7

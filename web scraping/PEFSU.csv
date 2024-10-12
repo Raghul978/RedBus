@@ -1,0 +1,752 @@
+State,Route,Bus Name,Bus Type,Departing Time,Duration Time,Reaching Time,Price,Seats Available,Star Rating
+PEFSU,Delhi to Patiala,PEPSU (Punjab) - 66689,Volvo AC Seater (2+2),15:25,05h 00m,20:25,711,37 Seats available,3.8
+PEFSU,Patiala to Delhi,PEPSU (Punjab) - 67101,AC Seater Hvac 2+2,15:25,05h 01m,20:26,454,33 Seats available,2.3
+PEFSU,Patiala to Delhi,PEPSU (Punjab) - 67142,Volvo AC Seater (2+2),16:00,05h 25m,21:25,711,37 Seats available,4.2
+PEFSU,Delhi to Ludhiana,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,06h 40m,05:00,525,35 Seats available,4.6
+PEFSU,Delhi to Ludhiana,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:05,05h 39m,04:44,600,22 Seats available,4.6
+PEFSU,Delhi to Ludhiana,NueGo,Electric A/C Seater (2+2),22:00,06h 40m,04:40,475,17 Seats available,4.1
+PEFSU,Delhi to Ludhiana,AdGolden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,06h 20m,05:45,549,25 Seats available,4.0
+PEFSU,Delhi to Ludhiana,Laxmi holidays,VE A/C Sleeper (2+1),23:00,07h 00m,06:00,641,33 Seats available,4.4
+PEFSU,Delhi to Ludhiana,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,06h 16m,05:21,599,12 Seats available,4.1
+PEFSU,Delhi to Ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,07h 10m,06:10,449,28 Seats available,4.7
+PEFSU,Delhi to Ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07h 00m,06:40,641,32 Seats available,4.4
+PEFSU,Delhi to Ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:31,06h 30m,05:01,500,26 Seats available,4.0
+PEFSU,Delhi to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,08h 00m,06:15,419,27 Seats available,4.3
+PEFSU,Delhi to Ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 00m,06:30,641,35 Seats available,4.4
+PEFSU,Delhi to Ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,06h 40m,03:10,499,16 Seats available,4.3
+PEFSU,Delhi to Ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,06h 50m,02:50,606,21 Seats available,4.6
+PEFSU,Delhi to Ludhiana,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:30,07h 05m,05:35,480,31 Seats available,4.6
+PEFSU,Delhi to Ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,05h 54m,05:44,450,23 Seats available,4.8
+PEFSU,Delhi to Ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,06h 50m,04:55,490,28 Seats available,4.8
+PEFSU,Delhi to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,08h 15m,06:15,3850,35 Seats available,5.0
+PEFSU,Delhi to Ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,07h 30m,04:30,529,21 Seats available,4.7
+PEFSU,Delhi to Ludhiana,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,05h 20m,05:00,561,47 Seats available,3.2
+PEFSU,Delhi to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,06h 30m,06:00,409,22 Seats available,4.3
+PEFSU,Delhi to Ludhiana,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:13,06h 22m,05:35,499,17 Seats available,3.8
+PEFSU,Delhi to Ludhiana,FlixBus,Bharat Benz A/C Sleeper (2+1),17:45,07h 25m,01:10,926.79,7 Seats available,4.3
+PEFSU,Delhi to Ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,06h 00m,05:05,586,31 Seats available,3.6
+PEFSU,Delhi to Ludhiana,Royal Safari India Travels,A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,583,37 Seats available,4.3
+PEFSU,Delhi to Ludhiana,FlixBus,Bharat Benz A/C Sleeper (2+1),21:45,06h 40m,04:25,749.11,13 Seats available,4.0
+PEFSU,Delhi to Ludhiana,CALL2TRIP,A/C Seater / Sleeper (2+2),22:40,06h 00m,04:40,699,40 Seats available,4.7
+PEFSU,Delhi to Ludhiana,Zingbus Plus,A/C Sleeper (2+1),21:35,06h 35m,04:10,935,25 Seats available,4.0
+PEFSU,Delhi to Ludhiana,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05h 20m,04:00,449,21 Seats available,4.1
+PEFSU,Delhi to Ludhiana,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,06h 06m,05:11,599,13 Seats available,2.4
+PEFSU,Delhi to Ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,05h 30m,05:05,586,33 Seats available,4.0
+PEFSU,Delhi to Ludhiana,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,06h 45m,05:45,700,38 Seats available,2.8
+PEFSU,Delhi to Ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:40,06h 06m,04:46,629,39 Seats available,2.0
+PEFSU,Delhi to Ludhiana,Maheshwaram Travels,A/C Seater / Sleeper (2+2),21:00,07h 00m,04:00,566,32 Seats available,4.6
+PEFSU,Delhi to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,06h 25m,05:45,479,30 Seats available,4.2
+PEFSU,Delhi to Ludhiana,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,07h 35m,06:05,629,16 Seats available,3.0
+PEFSU,Delhi to Ludhiana,NueGo,Electric A/C Seater (2+2),18:00,06h 25m,00:25,304,30 Seats available,2.6
+PEFSU,Delhi to Ludhiana,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:05,05h 56m,05:01,499,8 Seats available,3.0
+PEFSU,Delhi to Ludhiana,NueGo,Electric A/C Seater (2+2),23:50,06h 25m,06:15,304,25 Seats available,3.5
+PEFSU,Delhi to Ludhiana,New Navyug Travels,A/C Sleeper (2+1),22:45,05h 45m,04:30,625,28 Seats available,3.2
+PEFSU,Delhi to Ludhiana,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,05h 35m,04:00,600,18 Seats available,3.6
+PEFSU,Delhi to Ludhiana,FlixBus,Bharat Benz A/C Sleeper (2+1),23:00,06h 50m,05:50,749.11,12 Seats available,3.4
+PEFSU,Delhi to Ludhiana,Classic Travels,A/C Seater / Sleeper (2+2),21:45,07h 00m,04:45,649,24 Seats available,3.4
+PEFSU,Delhi to Ludhiana,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),22:50,05h 45m,04:35,499,34 Seats available,3.6
+PEFSU,Delhi to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,08h 10m,06:10,659,17 Seats available,3.0
+PEFSU,Delhi to Ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,06h 06m,04:46,640,38 Seats available,3.5
+PEFSU,Delhi to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,08h 15m,00:45,3300,47 Seats available,3.5
+PEFSU,Delhi to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:30,08h 15m,22:45,3850,28 Seats available,2.7
+PEFSU,Delhi to Ludhiana,NueGo,Electric A/C Seater (2+2),23:00,06h 25m,05:25,304,38 Seats available,2.1
+PEFSU,Delhi to Ludhiana,New National Travels,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,629,5 Seats available,2.4
+PEFSU,Delhi to Ludhiana,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),14:00,08h 05m,22:05,508,50 Seats available,2.1
+PEFSU,Delhi to Ludhiana,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05h 20m,04:00,1200,51 Seats available,3.5
+PEFSU,Delhi to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:30,08h 15m,03:45,3300,40 Seats available,3.5
+PEFSU,Delhi to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),23:30,08h 15m,07:45,3300,50 Seats available,3.4
+PEFSU,Delhi to Ludhiana,ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,05h 25m,03:55,600,51 Seats available,3.2
+PEFSU,Delhi to Ludhiana,Travel Point,A/C Seater / Sleeper (2+2),21:00,05h 21m,02:21,998,50 Seats available,2.9
+PEFSU,Delhi to Ludhiana,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:00,06h 32m,23:32,499,28 Seats available,2.9
+PEFSU,Ludhiana to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:27,05h 51m,04:18,600,23 Seats available,4.6
+PEFSU,Ludhiana to Delhi,New Navyug Travels,A/C Sleeper (2+1),23:00,06h 30m,05:30,675,34 Seats available,4.1
+PEFSU,Ludhiana to Delhi,Laxmi holidays,VE A/C Sleeper (2+1),23:55,06h 50m,06:45,570,32 Seats available,4.3
+PEFSU,Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,05h 55m,05:20,499,26 Seats available,4.2
+PEFSU,Ludhiana to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 47m,05:42,540,21 Seats available,4.7
+PEFSU,Ludhiana to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:20,06h 10m,04:30,559,25 Seats available,4.5
+PEFSU,Ludhiana to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:50,05h 50m,05:40,529,27 Seats available,4.8
+PEFSU,Ludhiana to Delhi,AdArmaan Tour & Travels,A/C Seater / Sleeper (2+1),22:50,07h 10m,06:00,445,11 Seats available,3.1
+PEFSU,Ludhiana to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,05h 40m,04:35,659,28 Seats available,4.7
+PEFSU,Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:30,05h 50m,05:20,549,29 Seats available,3.9
+PEFSU,Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:57,06h 53m,06:50,549,31 Seats available,3.6
+PEFSU,Ludhiana to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,05h 10m,04:00,540,29 Seats available,4.5
+PEFSU,Ludhiana to Delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:50,06h 50m,06:40,471,25 Seats available,4.8
+PEFSU,Ludhiana to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),17:29,07h 31m,01:00,3300,28 Seats available,5.0
+PEFSU,Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:58,06h 52m,06:50,599,28 Seats available,5.0
+PEFSU,Ludhiana to Delhi,NueGo,Electric A/C Seater (2+2),18:00,05h 50m,23:50,304,27 Seats available,3.5
+PEFSU,Ludhiana to Delhi,NueGo,Electric A/C Seater (2+2),23:15,05h 50m,05:05,304,35 Seats available,3.9
+PEFSU,Ludhiana to Delhi,NueGo,Electric A/C Seater (2+2),00:05,05h 50m,05:55,304,35 Seats available,3.1
+PEFSU,Ludhiana to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,06h 22m,06:20,599,27 Seats available,3.6
+PEFSU,Ludhiana to Delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 20m,05:15,600,21 Seats available,3.2
+PEFSU,Ludhiana to Delhi,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),21:29,07h 31m,05:00,3850,29 Seats available,3.5
+PEFSU,Ludhiana to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:59,06h 31m,06:30,499,28 Seats available,2.3
+PEFSU,Ludhiana to Delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:05,06h 00m,05:05,659,53 Seats available,3.8
+PEFSU,Ludhiana to Delhi,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),13:29,07h 31m,21:00,3300,42 Seats available,3.5
+PEFSU,Ludhiana to Delhi,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),13:29,07h 31m,21:00,3850,32 Seats available,3.5
+PEFSU,Ludhiana to Delhi,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),19:28,06h 50m,02:18,649,22 Seats available,1.7
+PEFSU,Ludhiana to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),13:39,09h 31m,23:10,2500,51 Seats available,3.5
+PEFSU,Ludhiana to Delhi,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),16:00,07h 01m,23:01,749,34 Seats available,3.2
+PEFSU,Ludhiana to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),15:29,09h 31m,01:00,3850,38 Seats available,3.5
+PEFSU,Ludhiana to Delhi,Deltin Travels,A/C Seater / Sleeper (2+1),23:45,07h 00m,06:45,599,44 Seats available,3.5
+PEFSU,Ludhiana to Delhi,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),15:29,07h 31m,23:00,3850,38 Seats available,3.5
+PEFSU,Ludhiana to Delhi,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),17:50,07h 40m,01:30,810,38 Seats available,1.7
+PEFSU,Ludhiana to Delhi,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:29,07h 01m,02:30,3300,36 Seats available,3.5
+PEFSU,Ludhiana to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,06h 07m,06:05,599,50 Seats available,5.0
+PEFSU,Jalandhar to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:05,07h 40m,04:45,455,28 Seats available,4.5
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,06h 52m,05:42,540,21 Seats available,4.6
+PEFSU,Jalandhar to Delhi,Laxmi holidays,VE A/C Sleeper (2+1),23:05,07h 40m,06:45,570,33 Seats available,4.5
+PEFSU,Jalandhar to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:35,07h 45m,06:20,436,33 Seats available,4.3
+PEFSU,Jalandhar to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:25,07h 35m,07:00,570,26 Seats available,4.4
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:30,07h 10m,05:40,529,27 Seats available,4.1
+PEFSU,Jalandhar to Delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:10,06h 20m,05:30,599,32 Seats available,4.5
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:55,06h 25m,06:20,609,15 Seats available,4.6
+PEFSU,Jalandhar to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:55,07h 35m,07:30,781,12 Seats available,4.4
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:40,06h 20m,04:00,540,29 Seats available,4.6
+PEFSU,Jalandhar to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:26,06h 50m,06:16,480,23 Seats available,4.6
+PEFSU,Jalandhar to Delhi,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),22:00,09h 00m,07:00,3300,37 Seats available,5.0
+PEFSU,Jalandhar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,499,28 Seats available,4.8
+PEFSU,Jalandhar to Delhi,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),23:55,06h 20m,06:15,550,14 Seats available,4.6
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,07h 30m,04:30,559,25 Seats available,4.5
+PEFSU,Jalandhar to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),21:11,07h 07m,04:18,600,23 Seats available,4.5
+PEFSU,Jalandhar to Delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:35,08h 05m,06:40,471,25 Seats available,4.7
+PEFSU,Jalandhar to Delhi,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),23:10,06h 40m,05:50,599,16 Seats available,4.5
+PEFSU,Jalandhar to Delhi,FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,552.68,10 Seats available,4.4
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,07h 05m,04:35,659,28 Seats available,4.1
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,07h 00m,06:00,499,42 Seats available,4.1
+PEFSU,Jalandhar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,06h 50m,05:20,549,29 Seats available,3.8
+PEFSU,Jalandhar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,06h 50m,05:20,499,21 Seats available,3.7
+PEFSU,Jalandhar to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:30,06h 50m,06:20,599,35 Seats available,4.4
+PEFSU,Jalandhar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:54,06h 36m,06:30,499,29 Seats available,3.3
+PEFSU,Jalandhar to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:30,06h 35m,06:05,599,34 Seats available,4.5
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:50,07h 15m,05:05,659,28 Seats available,4.2
+PEFSU,Jalandhar to Delhi,New Navyug Travels,A/C Sleeper (2+1),21:50,07h 40m,05:30,675,28 Seats available,3.9
+PEFSU,Jalandhar to Delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,06h 30m,05:10,600,33 Seats available,3.6
+PEFSU,Jalandhar to Delhi,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),15:15,07h 46m,23:01,449,31 Seats available,3.6
+PEFSU,Jalandhar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,549,53 Seats available,1.8
+PEFSU,Jalandhar to Delhi,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),18:33,07h 45m,02:18,749,27 Seats available,2.8
+PEFSU,Jalandhar to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,06h 35m,05:45,540,22 Seats available,3.8
+PEFSU,Jalandhar to Delhi,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),20:00,09h 00m,05:00,3850,28 Seats available,3.7
+PEFSU,Jalandhar to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),16:00,09h 00m,01:00,3300,20 Seats available,3.5
+PEFSU,Jalandhar to Delhi,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:00,09h 00m,23:00,3850,42 Seats available,3.5
+PEFSU,Jalandhar to Delhi,Lavish Travels,A/C Seater / Sleeper (2+2),23:40,05h 50m,05:30,584,25 Seats available,2.7
+PEFSU,Jalandhar to Delhi,NueGo,Electric A/C Seater (2+2),23:45,08h 40m,08:25,380,26 Seats available,3.6
+PEFSU,Jalandhar to Delhi,Khurana Bus Service,Volvo A/C (2+2),18:35,08h 05m,02:40,500,52 Seats available,2.6
+PEFSU,Jalandhar to Delhi,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),16:20,09h 10m,01:30,810,18 Seats available,2.0
+PEFSU,Jalandhar to Delhi,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:45,06h 45m,06:30,500,42 Seats available,2.4
+PEFSU,Jalandhar to Delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,699,38 Seats available,1.9
+PEFSU,Jalandhar to Delhi,Ashok Travels,A/C Seater / Sleeper (2+2),23:00,07h 00m,06:00,658,38 Seats available,2.3
+PEFSU,Jalandhar to Delhi,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),23:50,06h 10m,06:00,549,22 Seats available,1.4
+PEFSU,Jalandhar to Delhi,Deltin Travels,A/C Seater / Sleeper (2+1),22:35,07h 55m,06:30,1099,32 Seats available,1.0
+PEFSU,Jalandhar to Delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:10,06h 05m,05:15,600,49 Seats available,2.6
+PEFSU,Jalandhar to Delhi,Deltin Travels,A/C Seater / Sleeper (2+1),22:50,07h 55m,06:45,599,37 Seats available,1.0
+PEFSU,Delhi to Jalandhar,New Navyug Travels,A/C Sleeper (2+1),22:45,07h 25m,06:10,625,28 Seats available,4.1
+PEFSU,Delhi to Jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:13,06h 57m,06:10,499,11 Seats available,4.0
+PEFSU,Delhi to Jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07h 35m,05:55,525,35 Seats available,4.5
+PEFSU,Delhi to Jalandhar,AdIntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,07h 15m,06:45,409,22 Seats available,4.4
+PEFSU,Delhi to Jalandhar,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:05,06h 44m,05:49,600,22 Seats available,4.6
+PEFSU,Delhi to Jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,08h 20m,08:00,641,32 Seats available,4.5
+PEFSU,Delhi to Jalandhar,Laxmi holidays,VE A/C Sleeper (2+1),23:00,08h 30m,07:30,641,33 Seats available,4.4
+PEFSU,Delhi to Jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,08h 00m,06:05,477,27 Seats available,4.7
+PEFSU,Delhi to Jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,07h 55m,04:25,499,16 Seats available,4.4
+PEFSU,Delhi to Jalandhar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,07h 27m,06:32,599,12 Seats available,4.0
+PEFSU,Delhi to Jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,08h 20m,07:20,449,28 Seats available,4.5
+PEFSU,Delhi to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,09h 00m,07:15,419,27 Seats available,4.5
+PEFSU,Delhi to Jalandhar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:30,08h 15m,06:45,448,31 Seats available,4.5
+PEFSU,Delhi to Jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,07h 55m,03:55,546,22 Seats available,4.4
+PEFSU,Delhi to Jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,06h 59m,06:49,450,23 Seats available,4.9
+PEFSU,Delhi to Jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,08h 10m,06:10,547,38 Seats available,4.4
+PEFSU,Delhi to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,09h 20m,07:20,659,17 Seats available,4.8
+PEFSU,Delhi to Jalandhar,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,06h 35m,05:00,600,16 Seats available,4.5
+PEFSU,Delhi to Jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,08h 40m,05:40,529,21 Seats available,4.5
+PEFSU,Delhi to Jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:31,07h 44m,06:15,500,26 Seats available,4.2
+PEFSU,Delhi to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,07h 40m,07:00,479,30 Seats available,4.6
+PEFSU,Delhi to Jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,07h 00m,06:05,586,31 Seats available,3.0
+PEFSU,Delhi to Jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,08h 30m,08:00,641,35 Seats available,4.4
+PEFSU,Delhi to Jalandhar,Lavish Travels,A/C Seater / Sleeper (2+2),18:15,09h 15m,03:30,539,46 Seats available,1.7
+PEFSU,Delhi to Jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,07h 05m,06:30,549,17 Seats available,3.1
+PEFSU,Delhi to Jalandhar,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:30,07h 20m,05:50,699,8 Seats available,4.7
+PEFSU,Delhi to Jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:40,06h 30m,06:10,586,33 Seats available,3.0
+PEFSU,Delhi to Jalandhar,RK Holiday,A/C Seater / Sleeper (2+2),18:25,07h 00m,01:25,595,32 Seats available,5.0
+PEFSU,Delhi to Jalandhar,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07h 30m,02:00,1330,14 Seats available,4.8
+PEFSU,Delhi to Jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:40,07h 26m,06:06,629,38 Seats available,3.1
+PEFSU,Delhi to Jalandhar,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,08h 50m,07:20,629,16 Seats available,4.2
+PEFSU,Delhi to Jalandhar,Maheshwaram Travels,A/C Seater / Sleeper (2+2),21:00,08h 05m,05:05,566,32 Seats available,1.0
+PEFSU,Delhi to Jalandhar,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),18:45,08h 30m,03:15,522,38 Seats available,4.3
+PEFSU,Delhi to Jalandhar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,07h 45m,06:50,599,13 Seats available,3.6
+PEFSU,Delhi to Jalandhar,Kingfisher Busline Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:00,08h 00m,05:00,1599,30 Seats available,3.9
+PEFSU,Delhi to Jalandhar,Royal Safari India Travels,A/C Seater / Sleeper (2+2),22:30,07h 00m,05:30,583,37 Seats available,3.1
+PEFSU,Delhi to Jalandhar,NueGo,Electric A/C Seater (2+2),22:00,08h 25m,06:25,477,17 Seats available,4.8
+PEFSU,Delhi to Jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,08h 30m,04:10,670,16 Seats available,3.5
+PEFSU,Delhi to Jalandhar,Zingbus Plus,A/C Sleeper (2+1),21:35,07h 40m,05:15,885,23 Seats available,3.4
+PEFSU,Delhi to Jalandhar,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:57,09h 33m,09:30,449,43 Seats available,2.5
+PEFSU,Delhi to Jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,07h 30m,06:00,655,38 Seats available,3.8
+PEFSU,Delhi to Jalandhar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07h 35m,07:15,561,47 Seats available,2.6
+PEFSU,Delhi to Jalandhar,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,06h 30m,05:10,1200,5 Seats available,3.6
+PEFSU,Delhi to Jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:05,07h 07m,06:12,499,10 Seats available,2.4
+PEFSU,Delhi to Jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),18:30,07h 30m,02:00,550,19 Seats available,5.0
+PEFSU,Delhi to Jalandhar,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,06h 20m,05:00,449,21 Seats available,1.7
+PEFSU,Delhi to Jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,05h 41m,04:21,640,37 Seats available,2.1
+PEFSU,Delhi to Jalandhar,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),14:00,09h 05m,23:05,554,34 Seats available,2.3
+PEFSU,Delhi to Jalandhar,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),22:50,06h 45m,05:35,499,34 Seats available,3.1
+PEFSU,Delhi to Jalandhar,Big Bus,A/C Seater / Sleeper (2+2),17:35,06h 10m,23:45,685,39 Seats available,1.0
+PEFSU,Delhi to Jalandhar,New National Travels,A/C Seater / Sleeper (2+2),23:00,07h 00m,06:00,629,15 Seats available,2.9
+PEFSU,Delhi to Jalandhar,Big Bus,A/C Seater / Sleeper (2+2),15:30,06h 10m,21:40,685,16 Seats available,2.8
+PEFSU,Delhi to Jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),15:30,07h 30m,23:00,699,12 Seats available,4.5
+PEFSU,Delhi to Jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:00,07h 30m,00:30,685,13 Seats available,4.3
+PEFSU,Delhi to Jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),17:55,08h 50m,02:45,650,7 Seats available,5.0
+PEFSU,Delhi to Jalandhar,ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,600,24 Seats available,4.3
+PEFSU,Delhi to Jalandhar,FlixBus,Bharat Benz A/C Sleeper (2+1),23:00,08h 05m,07:05,820.54,38 Seats available,4.3
+PEFSU,Delhi to Jalandhar,FlixBus,Bharat Benz A/C Sleeper (2+1),21:45,07h 40m,05:25,795.54,34 Seats available,2.1
+PEFSU,Delhi to Jalandhar,FlixBus,Bharat Benz A/C Sleeper (2+1),17:45,08h 25m,02:10,984.82,37 Seats available,2.0
+PEFSU,Delhi to Jalandhar,Classic Travels,A/C Seater / Sleeper (2+2),21:45,08h 15m,06:00,649,52 Seats available,1.5
+PEFSU,Delhi to Jalandhar,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,07h 15m,06:15,700,38 Seats available,1.3
+PEFSU,Delhi to Jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,07h 30m,04:00,655,40 Seats available,3.7
+PEFSU,Delhi to Jalandhar,Ashok Bus Service,A/C Seater / Sleeper (2+2),23:35,08h 40m,08:15,759,46 Seats available,3.6
+PEFSU,Delhi to Jalandhar,SPEED BUS,Bharat Benz A/C Seater / Sleeper (2+2),21:45,08h 15m,06:00,599,26 Seats available,3.5
+PEFSU,Delhi to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,09h 45m,07:45,3850,50 Seats available,3.5
+PEFSU,Delhi to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:30,09h 45m,00:15,3850,47 Seats available,3.6
+PEFSU,Delhi to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),23:30,09h 45m,09:15,3300,50 Seats available,3.5
+PEFSU,Delhi to Jalandhar,Shiv Mohan Travels,AC Sleeper (2+1),18:20,09h 50m,04:10,1113,29 Seats available,3.5
+PEFSU,Delhi to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:30,09h 45m,05:15,3300,41 Seats available,3.2
+PEFSU,Delhi to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,09h 45m,02:15,3300,40 Seats available,2.1
+PEFSU,Delhi to Jalandhar,Travel Point,A/C Seater / Sleeper (2+2),21:00,06h 21m,03:21,1099,40 Seats available,2.1
+PEFSU,Delhi to Jalandhar,RK Holiday,A/C Seater / Sleeper (2+2),21:20,07h 00m,04:20,595,40 Seats available,1.6
+PEFSU,Delhi to Jalandhar,Big Bus,A/C Seater / Sleeper (2+2),22:30,05h 00m,03:30,685,34 Seats available,1.0
+PEFSU,Delhi Airport to Patiala,PEPSU (Punjab) - 66689,Volvo AC Seater (2+2),15:25,05h 00m,20:25,711,37 Seats available,3.8
+PEFSU,Ludhiana to Delhi Airport,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:27,05h 51m,04:18,600,23 Seats available,4.6
+PEFSU,Ludhiana to Delhi Airport,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:50,06h 50m,06:40,538,25 Seats available,4.8
+PEFSU,Ludhiana to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 47m,05:42,540,21 Seats available,4.7
+PEFSU,Ludhiana to Delhi Airport,AdArmaan Tour & Travels,A/C Seater / Sleeper (2+1),22:50,07h 10m,06:00,445,11 Seats available,3.1
+PEFSU,Ludhiana to Delhi Airport,Laxmi holidays,VE A/C Sleeper (2+1),23:55,06h 50m,06:45,600,32 Seats available,4.3
+PEFSU,Ludhiana to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:20,06h 10m,04:30,559,25 Seats available,4.5
+PEFSU,Ludhiana to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,05h 40m,04:35,659,28 Seats available,4.7
+PEFSU,Ludhiana to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,05h 10m,04:00,540,29 Seats available,4.5
+PEFSU,Ludhiana to Delhi Airport,NueGo,Electric A/C Seater (2+2),23:15,05h 50m,05:05,320,27 Seats available,3.9
+PEFSU,Ludhiana to Delhi Airport,NueGo,Electric A/C Seater (2+2),18:00,05h 50m,23:50,320,34 Seats available,3.5
+PEFSU,Ludhiana to Delhi Airport,New Navyug Travels,A/C Sleeper (2+1),23:00,06h 30m,05:30,675,26 Seats available,4.1
+PEFSU,Ludhiana to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,05h 55m,05:20,599,35 Seats available,4.2
+PEFSU,Ludhiana to Delhi Airport,NueGo,Electric A/C Seater (2+2),00:05,05h 50m,05:55,320,38 Seats available,3.1
+PEFSU,Ludhiana to Delhi Airport,Classic Travels,A/C Seater / Sleeper (2+2),23:55,07h 00m,06:55,389,35 Seats available,2.8
+PEFSU,Ludhiana to Delhi Airport,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,06h 22m,06:20,699,29 Seats available,3.6
+PEFSU,Ludhiana to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:30,05h 50m,05:20,649,27 Seats available,3.9
+PEFSU,Ludhiana to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:50,05h 50m,05:40,529,38 Seats available,4.8
+PEFSU,Ludhiana to Delhi Airport,Classic Travels,A/C Seater / Sleeper (2+2),23:30,07h 00m,06:30,389,28 Seats available,2.2
+PEFSU,Ludhiana to Delhi Airport,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:05,06h 00m,05:05,659,27 Seats available,3.8
+PEFSU,Ludhiana to Delhi Airport,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 20m,05:15,600,31 Seats available,3.2
+PEFSU,Ludhiana to Delhi Airport,NueGo,Electric A/C Seater (2+2),14:20,06h 45m,21:05,400,29 Seats available,2.8
+PEFSU,Ludhiana to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:57,06h 53m,06:50,599,22 Seats available,3.6
+PEFSU,Ludhiana to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:59,06h 31m,06:30,599,28 Seats available,2.3
+PEFSU,Ludhiana to Delhi Airport,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),17:50,07h 40m,01:30,900,34 Seats available,1.7
+PEFSU,Ludhiana to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:58,06h 52m,06:50,599,36 Seats available,5.0
+PEFSU,Ludhiana to Delhi Airport,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,06h 07m,06:05,699,50 Seats available,5.0
+PEFSU,Ludhiana to Delhi Airport,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:40,05h 30m,05:10,600,53 Seats available,2.2
+PEFSU,Ludhiana to Delhi Airport,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),16:00,07h 01m,23:01,999,28 Seats available,3.2
+PEFSU,Ludhiana to Delhi Airport,Travel Point,A/C Seater / Sleeper (2+2),23:25,05h 55m,05:20,999,21 Seats available,1.5
+PEFSU,Ludhiana to Delhi Airport,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),19:28,06h 50m,02:18,899,32 Seats available,1.7
+PEFSU,Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),17:29,07h 31m,01:00,3300,51 Seats available,5.0
+PEFSU,Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),13:39,09h 31m,23:10,2500,44 Seats available,3.5
+PEFSU,Ludhiana to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),21:29,07h 31m,05:00,3850,38 Seats available,3.5
+PEFSU,Ludhiana to Delhi Airport,Deltin Travels,A/C Seater / Sleeper (2+1),23:45,07h 00m,06:45,599,42 Seats available,3.5
+PEFSU,Delhi Airport to Ludhiana,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:05,05h 39m,04:44,600,22 Seats available,4.6
+PEFSU,Delhi Airport to Ludhiana,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,06h 40m,05:00,553,35 Seats available,4.6
+PEFSU,Delhi Airport to Ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,07h 10m,06:10,449,28 Seats available,4.7
+PEFSU,Delhi Airport to Ludhiana,AdGolden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,06h 16m,05:21,699,12 Seats available,4.1
+PEFSU,Delhi Airport to Ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07h 00m,06:40,675,32 Seats available,4.4
+PEFSU,Delhi Airport to Ludhiana,Laxmi holidays,VE A/C Sleeper (2+1),23:00,07h 00m,06:00,675,33 Seats available,4.4
+PEFSU,Delhi Airport to Ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 00m,06:30,675,35 Seats available,4.4
+PEFSU,Delhi Airport to Ludhiana,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:30,07h 05m,05:35,513,31 Seats available,4.6
+PEFSU,Delhi Airport to Ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,06h 40m,03:10,499,16 Seats available,4.3
+PEFSU,Delhi Airport to Ludhiana,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,07h 30m,04:30,529,21 Seats available,4.7
+PEFSU,Delhi Airport to Ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,06h 50m,02:50,693,21 Seats available,4.6
+PEFSU,Delhi Airport to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,08h 00m,06:15,419,27 Seats available,4.3
+PEFSU,Delhi Airport to Ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:31,06h 30m,05:01,500,26 Seats available,4.0
+PEFSU,Delhi Airport to Ludhiana,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:13,06h 22m,05:35,699,17 Seats available,3.8
+PEFSU,Delhi Airport to Ludhiana,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,06h 50m,04:55,570,28 Seats available,4.8
+PEFSU,Delhi Airport to Ludhiana,Royal Safari India Travels,A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,665.71,37 Seats available,4.0
+PEFSU,Delhi Airport to Ludhiana,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,06h 20m,05:45,649,25 Seats available,3.0
+PEFSU,Delhi Airport to Ludhiana,NueGo,Electric A/C Seater (2+2),23:50,06h 25m,06:15,320,25 Seats available,4.7
+PEFSU,Delhi Airport to Ludhiana,Zingbus Plus,A/C Sleeper (2+1),21:35,06h 35m,04:10,1069,25 Seats available,3.0
+PEFSU,Delhi Airport to Ludhiana,NueGo,Electric A/C Seater (2+2),18:00,06h 25m,00:25,320,36 Seats available,4.6
+PEFSU,Delhi Airport to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,06h 25m,05:45,479,30 Seats available,3.2
+PEFSU,Delhi Airport to Ludhiana,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,05h 20m,05:00,686,47 Seats available,4.2
+PEFSU,Delhi Airport to Ludhiana,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,07h 35m,06:05,629,16 Seats available,2.7
+PEFSU,Delhi Airport to Ludhiana,NueGo,Electric A/C Seater (2+2),23:00,06h 25m,05:25,320,28 Seats available,4.1
+PEFSU,Delhi Airport to Ludhiana,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,06h 06m,05:11,699,13 Seats available,3.6
+PEFSU,Delhi Airport to Ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,06h 00m,05:05,651,31 Seats available,3.6
+PEFSU,Delhi Airport to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,08h 10m,06:10,659,17 Seats available,4.1
+PEFSU,Delhi Airport to Ludhiana,NueGo,Electric A/C Seater (2+2),22:00,06h 40m,04:40,500,17 Seats available,3.4
+PEFSU,Delhi Airport to Ludhiana,Classic Travels,A/C Seater / Sleeper (2+2),21:45,07h 00m,04:45,649,24 Seats available,3.2
+PEFSU,Delhi Airport to Ludhiana,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,05h 35m,04:00,600,18 Seats available,2.6
+PEFSU,Delhi Airport to Ludhiana,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:05,05h 56m,05:01,699,8 Seats available,2.1
+PEFSU,Delhi Airport to Ludhiana,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05h 20m,04:00,1300,5 Seats available,4.3
+PEFSU,Delhi Airport to Ludhiana,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,06h 30m,06:00,409,22 Seats available,4.0
+PEFSU,Delhi Airport to Ludhiana,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05h 20m,04:00,449,21 Seats available,4.0
+PEFSU,Delhi Airport to Ludhiana,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,06h 45m,05:45,700,38 Seats available,3.5
+PEFSU,Delhi Airport to Ludhiana,New Navyug Travels,A/C Sleeper (2+1),22:45,05h 45m,04:30,625,28 Seats available,3.0
+PEFSU,Delhi Airport to Ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,06h 06m,04:46,711,38 Seats available,4.8
+PEFSU,Delhi Airport to Ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,05h 54m,05:44,450,23 Seats available,3.4
+PEFSU,Delhi Airport to Ludhiana,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),22:50,05h 45m,04:35,499,34 Seats available,3.6
+PEFSU,Delhi Airport to Ludhiana,FlixBus,Bharat Benz A/C Sleeper (2+1),23:00,06h 50m,05:50,749.11,12 Seats available,2.4
+PEFSU,Delhi Airport to Ludhiana,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),14:00,08h 05m,22:05,549,38 Seats available,2.1
+PEFSU,Delhi Airport to Ludhiana,New National Travels,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,699,33 Seats available,2.4
+PEFSU,Delhi Airport to Ludhiana,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,05h 30m,05:05,599,32 Seats available,2.0
+PEFSU,Delhi Airport to Ludhiana,Maheshwaram Travels,A/C Seater / Sleeper (2+2),21:00,07h 00m,04:00,666,35 Seats available,5.0
+PEFSU,Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,08h 15m,06:15,3850,9 Seats available,4.3
+PEFSU,Delhi Airport to Ludhiana,FlixBus,Bharat Benz A/C Sleeper (2+1),17:45,07h 25m,01:10,795.54,13 Seats available,4.3
+PEFSU,Delhi Airport to Ludhiana,FlixBus,Bharat Benz A/C Sleeper (2+1),21:45,06h 40m,04:25,749.11,40 Seats available,4.0
+PEFSU,Delhi Airport to Ludhiana,CALL2TRIP,A/C Seater / Sleeper (2+2),22:40,06h 00m,04:40,699,51 Seats available,3.5
+PEFSU,Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),23:30,08h 15m,07:45,3300,47 Seats available,3.5
+PEFSU,Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:30,08h 15m,22:45,3850,50 Seats available,3.5
+PEFSU,Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,08h 15m,00:45,3300,40 Seats available,3.5
+PEFSU,Delhi Airport to Ludhiana,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:30,08h 15m,03:45,3300,50 Seats available,3.4
+PEFSU,Delhi Airport to Ludhiana,ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,05h 25m,03:55,600,51 Seats available,3.2
+PEFSU,Delhi Airport to Ludhiana,Travel Point,A/C Seater / Sleeper (2+2),21:00,05h 21m,02:21,1099,39 Seats available,2.9
+PEFSU,Delhi Airport to Ludhiana,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:57,07h 53m,07:50,699,50 Seats available,2.9
+PEFSU,Delhi Airport to Ludhiana,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:00,06h 32m,23:32,699,28 Seats available,2.8
+PEFSU,Jalandhar to Delhi Airport,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:26,06h 50m,06:16,480,23 Seats available,4.6
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,06h 52m,05:42,540,20 Seats available,4.6
+PEFSU,Jalandhar to Delhi Airport,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:05,07h 40m,04:45,455,28 Seats available,4.5
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:40,06h 20m,04:00,540,29 Seats available,4.6
+PEFSU,Jalandhar to Delhi Airport,Yolo Bus,VE A/C Seater / Sleeper (2+1),21:11,07h 07m,04:18,600,23 Seats available,4.5
+PEFSU,Jalandhar to Delhi Airport,Laxmi holidays,VE A/C Sleeper (2+1),23:05,07h 40m,06:45,600,33 Seats available,4.5
+PEFSU,Jalandhar to Delhi Airport,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:35,08h 05m,06:40,538,24 Seats available,4.7
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,07h 30m,04:30,559,25 Seats available,4.5
+PEFSU,Jalandhar to Delhi Airport,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:25,07h 35m,07:00,600,26 Seats available,4.4
+PEFSU,Jalandhar to Delhi Airport,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:35,07h 45m,06:20,436,33 Seats available,4.3
+PEFSU,Jalandhar to Delhi Airport,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:55,07h 35m,07:30,822,12 Seats available,4.4
+PEFSU,Jalandhar to Delhi Airport,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:30,06h 50m,06:20,699,35 Seats available,4.4
+PEFSU,Jalandhar to Delhi Airport,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),23:10,06h 40m,05:50,599,16 Seats available,4.5
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,07h 00m,06:00,499,42 Seats available,4.1
+PEFSU,Jalandhar to Delhi Airport,New Navyug Travels,A/C Sleeper (2+1),21:50,07h 40m,05:30,675,28 Seats available,3.9
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,07h 05m,04:35,659,28 Seats available,4.1
+PEFSU,Jalandhar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,06h 50m,05:20,649,29 Seats available,3.8
+PEFSU,Jalandhar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,06h 50m,05:20,599,21 Seats available,3.7
+PEFSU,Jalandhar to Delhi Airport,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:10,06h 20m,05:30,699,32 Seats available,4.5
+PEFSU,Jalandhar to Delhi Airport,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,06h 30m,05:10,600,33 Seats available,3.6
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:50,07h 15m,05:05,659,28 Seats available,4.2
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:55,06h 25m,06:20,609,15 Seats available,4.6
+PEFSU,Jalandhar to Delhi Airport,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:30,06h 35m,06:05,699,34 Seats available,4.5
+PEFSU,Jalandhar to Delhi Airport,Khurana Bus Service,Volvo A/C (2+2),18:35,08h 05m,02:40,500,25 Seats available,2.6
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:30,07h 10m,05:40,529,27 Seats available,4.1
+PEFSU,Jalandhar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:54,06h 36m,06:30,599,29 Seats available,3.3
+PEFSU,Jalandhar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,599,28 Seats available,4.8
+PEFSU,Jalandhar to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,06h 35m,05:45,540,27 Seats available,3.8
+PEFSU,Jalandhar to Delhi Airport,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:10,06h 05m,05:15,600,22 Seats available,2.6
+PEFSU,Jalandhar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,599,31 Seats available,1.8
+PEFSU,Jalandhar to Delhi Airport,Lavish Travels,A/C Seater / Sleeper (2+2),23:40,05h 50m,05:30,649,20 Seats available,2.7
+PEFSU,Jalandhar to Delhi Airport,NueGo,Electric A/C Seater (2+2),23:45,08h 40m,08:25,400,42 Seats available,3.6
+PEFSU,Jalandhar to Delhi Airport,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),23:55,06h 20m,06:15,550,14 Seats available,4.6
+PEFSU,Jalandhar to Delhi Airport,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),18:33,07h 45m,02:18,999,53 Seats available,2.8
+PEFSU,Jalandhar to Delhi Airport,Travel Point,A/C Seater / Sleeper (2+2),22:25,06h 55m,05:20,999,49 Seats available,2.7
+PEFSU,Jalandhar to Delhi Airport,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,699,18 Seats available,1.9
+PEFSU,Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),22:00,09h 00m,07:00,3300,37 Seats available,5.0
+PEFSU,Jalandhar to Delhi Airport,FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,552.68,10 Seats available,4.4
+PEFSU,Jalandhar to Delhi Airport,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:45,06h 45m,06:30,500,52 Seats available,2.4
+PEFSU,Jalandhar to Delhi Airport,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),16:20,09h 10m,01:30,900,26 Seats available,2.0
+PEFSU,Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),20:00,09h 00m,05:00,3850,22 Seats available,3.7
+PEFSU,Jalandhar to Delhi Airport,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),15:15,07h 46m,23:01,999,28 Seats available,3.6
+PEFSU,Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),16:00,09h 00m,01:00,3300,42 Seats available,3.5
+PEFSU,Jalandhar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:00,09h 00m,23:00,3850,37 Seats available,3.5
+PEFSU,Jalandhar to Delhi Airport,Ashok Travels,A/C Seater / Sleeper (2+2),23:00,07h 00m,06:00,759,38 Seats available,2.3
+PEFSU,Jalandhar to Delhi Airport,Khurana Bus Service,Volvo A/C (2+2),19:35,08h 05m,03:40,3500,32 Seats available,1.7
+PEFSU,Jalandhar to Delhi Airport,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),23:50,06h 10m,06:00,549,38 Seats available,1.4
+PEFSU,Phagwara to Delhi Airport,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:20,07h 25m,04:45,455,28 Seats available,4.6
+PEFSU,Phagwara to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06h 37m,05:42,540,21 Seats available,4.6
+PEFSU,Phagwara to Delhi Airport,Laxmi holidays,VE A/C Sleeper (2+1),23:10,07h 35m,06:45,600,33 Seats available,4.5
+PEFSU,Phagwara to Delhi Airport,Yolo Bus,VE A/C Seater / Sleeper (2+1),21:37,06h 41m,04:18,600,23 Seats available,4.4
+PEFSU,Phagwara to Delhi Airport,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:40,07h 40m,06:20,436,33 Seats available,4.1
+PEFSU,Phagwara to Delhi Airport,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:35,07h 25m,07:00,600,26 Seats available,4.6
+PEFSU,Phagwara to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,06h 35m,04:35,659,28 Seats available,4.7
+PEFSU,Phagwara to Delhi Airport,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:40,06h 40m,06:20,699,35 Seats available,3.9
+PEFSU,Phagwara to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:25,07h 05m,04:30,559,25 Seats available,3.8
+PEFSU,Phagwara to Delhi Airport,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,07h 55m,06:40,570,28 Seats available,4.7
+PEFSU,Phagwara to Delhi Airport,New Navyug Travels,A/C Sleeper (2+1),22:00,07h 30m,05:30,675,30 Seats available,4.0
+PEFSU,Phagwara to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:55,06h 05m,04:00,540,29 Seats available,4.7
+PEFSU,Phagwara to Delhi Airport,Here Bus,A/C Seater / Sleeper (2+1),22:45,05h 44m,04:29,856.19,38 Seats available,3.7
+PEFSU,Phagwara to Delhi Airport,Kingfisher Busline Pvt Ltd,Volvo A/C Multi-Axle Semi Sleeper (2+2),18:10,06h 40m,00:50,1199,48 Seats available,3.6
+PEFSU,Phagwara to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:40,06h 40m,05:20,649,30 Seats available,3.2
+PEFSU,Phagwara to Delhi Airport,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,06h 00m,05:30,699,43 Seats available,3.7
+PEFSU,Phagwara to Delhi Airport,Khurana Bus Service,Volvo A/C (2+2),18:55,07h 45m,02:40,500,32 Seats available,3.3
+PEFSU,Phagwara to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,06h 45m,06:00,499,42 Seats available,2.7
+PEFSU,Phagwara to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:57,06h 33m,06:30,599,31 Seats available,2.0
+PEFSU,Phagwara to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:45,06h 35m,05:20,599,25 Seats available,2.9
+PEFSU,Phagwara to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:55,06h 55m,06:50,599,31 Seats available,5.0
+PEFSU,Phagwara to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:20,06h 25m,05:45,540,27 Seats available,4.5
+PEFSU,Phagwara to Delhi Airport,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),16:40,08h 50m,01:30,900,30 Seats available,4.3
+PEFSU,Phagwara to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,06h 45m,05:40,529,27 Seats available,4.0
+PEFSU,Phagwara to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:55,06h 55m,06:50,599,28 Seats available,3.9
+PEFSU,Phagwara to Delhi Airport,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:55,06h 15m,05:10,600,36 Seats available,3.7
+PEFSU,Phagwara to Delhi Airport,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,07h 05m,05:05,659,28 Seats available,5.0
+PEFSU,Phagwara to Delhi Airport,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:47,06h 18m,06:05,699,32 Seats available,4.1
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),22:35,08h 25m,07:00,3300,44 Seats available,4.1
+PEFSU,Phagwara to Delhi Airport,Deltin Travels,A/C Seater / Sleeper (2+1),22:55,07h 50m,06:45,599,32 Seats available,1.0
+PEFSU,Phagwara to Delhi Airport,Deltin Travels,A/C Seater / Sleeper (2+1),22:40,07h 50m,06:30,599,38 Seats available,3.7
+PEFSU,Phagwara to Delhi Airport,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:35,05h 40m,05:15,600,28 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,SPEED BUS,Volvo A/C Semi Sleeper (2+2),14:10,20h 15m,10:25,1099,41 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),22:35,10h 25m,09:00,2500,44 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),14:35,08h 25m,23:00,2500,44 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),16:35,08h 25m,01:00,3000,22 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),20:35,08h 25m,05:00,3850,28 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),20:35,08h 25m,05:00,2500,51 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),18:35,07h 55m,02:30,2500,42 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:35,08h 25m,23:00,3300,44 Seats available,3.5
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),14:35,10h 25m,01:00,3850,38 Seats available,2.9
+PEFSU,Phagwara to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),16:35,08h 25m,01:00,2500,18 Seats available,1.3
+PEFSU,Phagwara to Delhi Airport,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),23:58,06h 02m,06:00,549,37 Seats available,1.0
+PEFSU,Phagwara to Delhi Airport,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),21:45,08h 15m,06:00,1000,53 Seats available,1.0
+PEFSU,Phagwara to Delhi Airport,Khurana Bus Service,Volvo A/C (2+2),19:55,07h 45m,03:40,3500,52 Seats available,1.0
+PEFSU,Delhi to Phagwara,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,08h 10m,07:50,641,32 Seats available,4.6
+PEFSU,Delhi to Phagwara,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07h 10m,05:30,525,35 Seats available,4.4
+PEFSU,Delhi to Phagwara,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,08h 00m,06:00,547,38 Seats available,4.4
+PEFSU,Delhi to Phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,07h 20m,03:50,499,16 Seats available,4.9
+PEFSU,Delhi to Phagwara,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:05,06h 15m,05:20,600,22 Seats available,4.3
+PEFSU,Delhi to Phagwara,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,641,35 Seats available,4.3
+PEFSU,Delhi to Phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,07h 50m,06:50,429,28 Seats available,4.7
+PEFSU,Delhi to Phagwara,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:31,07h 06m,05:37,500,24 Seats available,4.4
+PEFSU,Delhi to Phagwara,New Navyug Travels,A/C Sleeper (2+1),22:45,06h 30m,05:15,625,28 Seats available,4.1
+PEFSU,Delhi to Phagwara,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,07h 35m,03:35,606,21 Seats available,4.3
+PEFSU,Delhi to Phagwara,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,06h 45m,06:10,549,25 Seats available,3.0
+PEFSU,Delhi to Phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,08h 00m,05:00,529,21 Seats available,4.7
+PEFSU,Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,08h 35m,06:50,399,27 Seats available,4.3
+PEFSU,Delhi to Phagwara,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:13,06h 42m,05:55,499,11 Seats available,3.7
+PEFSU,Delhi to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,06h 30m,05:35,586,31 Seats available,3.3
+PEFSU,Delhi to Phagwara,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,07h 05m,06:10,599,12 Seats available,4.4
+PEFSU,Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,07h 10m,06:30,459,30 Seats available,4.8
+PEFSU,Delhi to Phagwara,Kingfisher Busline Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:00,07h 45m,04:45,1599,30 Seats available,4.9
+PEFSU,Delhi to Phagwara,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07h 10m,01:40,1330,14 Seats available,4.4
+PEFSU,Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,08h 50m,06:50,659,17 Seats available,3.9
+PEFSU,Delhi to Phagwara,Royal Safari India Travels,A/C Seater / Sleeper (2+2),22:30,07h 20m,05:50,583,37 Seats available,2.0
+PEFSU,Delhi to Phagwara,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,08h 15m,06:45,629,16 Seats available,2.5
+PEFSU,Delhi to Phagwara,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07h 35m,07:15,561,47 Seats available,2.5
+PEFSU,Delhi to Phagwara,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05h 50m,04:30,1200,5 Seats available,1.8
+PEFSU,Delhi to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,06h 00m,05:35,586,33 Seats available,1.3
+PEFSU,Delhi to Phagwara,Classic Travels,A/C Seater / Sleeper (2+2),21:45,07h 30m,05:15,649,24 Seats available,4.3
+PEFSU,Delhi to Phagwara,Lavish Travels,A/C Seater / Sleeper (2+2),18:15,09h 00m,03:15,539,46 Seats available,4.6
+PEFSU,Delhi to Phagwara,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:30,08h 05m,06:35,464,31 Seats available,2.9
+PEFSU,Delhi to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,07h 05m,06:35,389,22 Seats available,1.0
+PEFSU,Delhi to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:40,07h 06m,05:46,629,39 Seats available,4.0
+PEFSU,Delhi to Phagwara,Maheshwaram Travels,A/C Seater / Sleeper (2+2),19:40,09h 20m,05:00,566,34 Seats available,3.9
+PEFSU,Delhi to Phagwara,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,06h 15m,04:40,600,16 Seats available,3.6
+PEFSU,Delhi to Phagwara,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,06h 05m,04:45,449,21 Seats available,3.6
+PEFSU,Delhi to Phagwara,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:00,07h 02m,00:02,849,51 Seats available,3.8
+PEFSU,Delhi to Phagwara,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:57,08h 48m,08:45,449,51 Seats available,3.8
+PEFSU,Delhi to Phagwara,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:05,06h 45m,05:50,499,8 Seats available,4.9
+PEFSU,Delhi to Phagwara,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,07h 25m,06:30,599,12 Seats available,5.0
+PEFSU,Delhi to Phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,08h 20m,04:00,670,16 Seats available,3.5
+PEFSU,Delhi to Phagwara,Zingbus Plus,A/C Sleeper (2+1),21:35,07h 20m,04:55,935,25 Seats available,2.9
+PEFSU,Delhi to Phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),18:30,07h 10m,01:40,550,19 Seats available,4.0
+PEFSU,Delhi to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,07h 06m,05:46,640,38 Seats available,2.0
+PEFSU,Delhi to Phagwara,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,06h 30m,06:20,450,23 Seats available,3.8
+PEFSU,Delhi to Phagwara,NueGo,Electric A/C Seater (2+2),22:00,08h 10m,06:10,477,17 Seats available,4.1
+PEFSU,Delhi to Phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),17:55,08h 30m,02:25,650,15 Seats available,3.5
+PEFSU,Delhi to Phagwara,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,07h 40m,05:45,490,30 Seats available,3.5
+PEFSU,Delhi to Phagwara,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,09h 15m,01:45,3300,48 Seats available,3.5
+PEFSU,Delhi to Phagwara,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),23:30,09h 15m,08:45,3300,49 Seats available,3.5
+PEFSU,Delhi to Phagwara,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),14:30,09h 15m,23:45,3300,51 Seats available,2.9
+PEFSU,Delhi to Phagwara,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:30,09h 15m,04:45,3300,46 Seats available,3.5
+PEFSU,Delhi to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,05h 46m,04:26,640,52 Seats available,3.0
+PEFSU,Delhi to Phagwara,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:30,09h 15m,23:45,3850,44 Seats available,2.9
+PEFSU,Delhi to Phagwara,SPEED BUS,Bharat Benz A/C Seater / Sleeper (2+2),21:45,08h 00m,05:45,599,42 Seats available,2.9
+PEFSU,Delhi to Phagwara,CALL2TRIP,A/C Seater / Sleeper (2+2),22:40,06h 30m,05:10,699,34 Seats available,2.5
+PEFSU,Delhi to Phagwara,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,09h 15m,07:15,3000,29 Seats available,2.5
+PEFSU,Delhi to Phagwara,RK Holiday,A/C Seater / Sleeper (2+2),18:25,06h 30m,00:55,595,40 Seats available,2.4
+PEFSU,Delhi to Phagwara,RK Holiday,A/C Seater / Sleeper (2+2),21:20,06h 30m,03:50,595,40 Seats available,1.0
+PEFSU,Delhi to Phagwara,ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,06h 15m,04:45,600,34 Seats available,4.1
+PEFSU,Delhi Airport to Jalandhar,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:05,06h 44m,05:49,600,22 Seats available,4.6
+PEFSU,Delhi Airport to Jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07h 35m,05:55,553,33 Seats available,4.5
+PEFSU,Delhi Airport to Jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,08h 20m,08:00,675,32 Seats available,4.5
+PEFSU,Delhi Airport to Jalandhar,AdIntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,07h 15m,06:45,409,22 Seats available,4.4
+PEFSU,Delhi Airport to Jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,08h 10m,06:10,576,38 Seats available,4.4
+PEFSU,Delhi Airport to Jalandhar,Laxmi holidays,VE A/C Sleeper (2+1),23:00,08h 30m,07:30,675,33 Seats available,4.4
+PEFSU,Delhi Airport to Jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,08h 20m,07:20,449,28 Seats available,4.5
+PEFSU,Delhi Airport to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,09h 00m,07:15,419,27 Seats available,4.5
+PEFSU,Delhi Airport to Jalandhar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,08h 30m,08:00,675,35 Seats available,4.4
+PEFSU,Delhi Airport to Jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,07h 55m,03:55,624,22 Seats available,4.4
+PEFSU,Delhi Airport to Jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,08h 40m,05:40,529,21 Seats available,4.5
+PEFSU,Delhi Airport to Jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,07h 55m,04:25,499,16 Seats available,4.4
+PEFSU,Delhi Airport to Jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:31,07h 44m,06:15,500,26 Seats available,4.2
+PEFSU,Delhi Airport to Jalandhar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:30,08h 15m,06:45,512,31 Seats available,4.5
+PEFSU,Delhi Airport to Jalandhar,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:30,07h 20m,05:50,699,8 Seats available,4.7
+PEFSU,Delhi Airport to Jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:13,06h 57m,06:10,699,11 Seats available,4.0
+PEFSU,Delhi Airport to Jalandhar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,07h 27m,06:32,699,12 Seats available,4.0
+PEFSU,Delhi Airport to Jalandhar,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07h 30m,02:00,1400,14 Seats available,4.8
+PEFSU,Delhi Airport to Jalandhar,New Navyug Travels,A/C Sleeper (2+1),22:45,07h 25m,06:10,625,28 Seats available,4.1
+PEFSU,Delhi Airport to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,09h 20m,07:20,659,17 Seats available,4.8
+PEFSU,Delhi Airport to Jalandhar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,08h 00m,06:05,545,27 Seats available,4.7
+PEFSU,Delhi Airport to Jalandhar,Kingfisher Busline Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:00,08h 00m,05:00,1599,30 Seats available,4.6
+PEFSU,Delhi Airport to Jalandhar,Royal Safari India Travels,A/C Seater / Sleeper (2+2),22:30,07h 00m,05:30,665.71,37 Seats available,4.5
+PEFSU,Delhi Airport to Jalandhar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,07h 40m,07:00,479,30 Seats available,4.8
+PEFSU,Delhi Airport to Jalandhar,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,06h 35m,05:00,600,16 Seats available,4.2
+PEFSU,Delhi Airport to Jalandhar,Zingbus Plus,A/C Sleeper (2+1),21:35,07h 40m,05:15,1011,23 Seats available,3.8
+PEFSU,Delhi Airport to Jalandhar,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,08h 50m,07:20,629,16 Seats available,4.3
+PEFSU,Delhi Airport to Jalandhar,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,06h 30m,05:10,1300,5 Seats available,2.8
+PEFSU,Delhi Airport to Jalandhar,Ashok Bus Service,VE A/C Seater / Sleeper (2+1),18:45,08h 30m,03:15,549,38 Seats available,3.1
+PEFSU,Delhi Airport to Jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),17:00,07h 30m,00:30,685,39 Seats available,3.9
+PEFSU,Delhi Airport to Jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,07h 05m,06:30,649,17 Seats available,2.5
+PEFSU,Delhi Airport to Jalandhar,NueGo,Electric A/C Seater (2+2),22:00,08h 25m,06:25,500,17 Seats available,3.0
+PEFSU,Delhi Airport to Jalandhar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07h 35m,07:15,686,47 Seats available,3.6
+PEFSU,Delhi Airport to Jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,07h 00m,06:05,651,31 Seats available,2.4
+PEFSU,Delhi Airport to Jalandhar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,07h 45m,06:50,699,13 Seats available,3.4
+PEFSU,Delhi Airport to Jalandhar,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,06h 20m,05:00,449,21 Seats available,2.6
+PEFSU,Delhi Airport to Jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),22:30,07h 30m,06:00,655,38 Seats available,4.9
+PEFSU,Delhi Airport to Jalandhar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:05,07h 07m,06:12,699,10 Seats available,3.6
+PEFSU,Delhi Airport to Jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,06h 59m,06:49,450,23 Seats available,3.1
+PEFSU,Delhi Airport to Jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),18:30,07h 30m,02:00,550,19 Seats available,3.0
+PEFSU,Delhi Airport to Jalandhar,New National Travels,A/C Seater / Sleeper (2+2),23:00,07h 00m,06:00,699,34 Seats available,2.3
+PEFSU,Delhi Airport to Jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:40,06h 30m,06:10,599,33 Seats available,2.9
+PEFSU,Delhi Airport to Jalandhar,Big Bus,A/C Seater / Sleeper (2+2),17:35,06h 10m,23:45,685,16 Seats available,3.1
+PEFSU,Delhi Airport to Jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),15:30,07h 30m,23:00,699,34 Seats available,1.0
+PEFSU,Delhi Airport to Jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,08h 30m,04:10,670,37 Seats available,1.7
+PEFSU,Delhi Airport to Jalandhar,Big Bus,A/C Seater / Sleeper (2+2),15:30,06h 10m,21:40,685,32 Seats available,2.1
+PEFSU,Delhi Airport to Jalandhar,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),14:00,09h 05m,23:05,599,15 Seats available,5.0
+PEFSU,Delhi Airport to Jalandhar,NEW KING BUS SERVICE,A/C Seater / Sleeper (2+2),22:50,06h 45m,05:35,499,12 Seats available,5.0
+PEFSU,Delhi Airport to Jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,05h 41m,04:21,711,7 Seats available,4.5
+PEFSU,Delhi Airport to Jalandhar,RK Holiday,A/C Seater / Sleeper (2+2),18:25,07h 00m,01:25,595,16 Seats available,5.0
+PEFSU,Delhi Airport to Jalandhar,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),17:55,08h 50m,02:45,650,13 Seats available,4.3
+PEFSU,Delhi Airport to Jalandhar,FlixBus,Bharat Benz A/C Sleeper (2+1),23:00,08h 05m,07:05,820.54,38 Seats available,4.3
+PEFSU,Delhi Airport to Jalandhar,FlixBus,Bharat Benz A/C Sleeper (2+1),17:45,08h 25m,02:10,984.82,24 Seats available,4.3
+PEFSU,Delhi Airport to Jalandhar,ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,600,46 Seats available,2.0
+PEFSU,Delhi Airport to Jalandhar,FlixBus,Bharat Benz A/C Sleeper (2+1),21:45,07h 40m,05:25,795.54,34 Seats available,2.1
+PEFSU,Delhi Airport to Jalandhar,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,07h 15m,06:15,700,37 Seats available,1.7
+PEFSU,Delhi Airport to Jalandhar,Classic Travels,A/C Seater / Sleeper (2+2),21:45,08h 15m,06:00,649,52 Seats available,1.5
+PEFSU,Delhi Airport to Jalandhar,Lavish Travels,A/C Seater / Sleeper (2+2),18:15,09h 15m,03:30,599,26 Seats available,1.3
+PEFSU,Delhi Airport to Jalandhar,CAPITAL HOLIDAYS,A/C Seater / Sleeper (2+2),20:30,07h 30m,04:00,655,38 Seats available,3.7
+PEFSU,Delhi Airport to Jalandhar,Ashok Bus Service,A/C Seater / Sleeper (2+2),23:35,08h 40m,08:15,799,43 Seats available,3.6
+PEFSU,Delhi Airport to Jalandhar,SPEED BUS,Bharat Benz A/C Seater / Sleeper (2+2),21:45,08h 15m,06:00,599,40 Seats available,3.6
+PEFSU,Delhi Airport to Jalandhar,Shiv Mohan Travels,AC Sleeper (2+1),18:20,09h 50m,04:10,1000,46 Seats available,3.5
+PEFSU,Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,09h 45m,07:45,3850,47 Seats available,3.5
+PEFSU,Delhi Airport to Jalandhar,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:57,09h 33m,09:30,699,50 Seats available,3.5
+PEFSU,Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:30,09h 45m,00:15,3850,50 Seats available,3.5
+PEFSU,Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),23:30,09h 45m,09:15,3300,38 Seats available,3.5
+PEFSU,Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,09h 45m,02:15,3300,41 Seats available,3.2
+PEFSU,Delhi Airport to Jalandhar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:30,09h 45m,05:15,3300,29 Seats available,3.1
+PEFSU,Delhi Airport to Jalandhar,Travel Point,A/C Seater / Sleeper (2+2),21:00,06h 21m,03:21,1099,40 Seats available,2.1
+PEFSU,Delhi Airport to Jalandhar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:40,07h 26m,06:06,699,40 Seats available,2.1
+PEFSU,Delhi Airport to Jalandhar,Big Bus,A/C Seater / Sleeper (2+2),22:30,05h 00m,03:30,685,40 Seats available,1.6
+PEFSU,Delhi Airport to Jalandhar,RK Holiday,A/C Seater / Sleeper (2+2),21:20,07h 00m,04:20,595,32 Seats available,1.0
+PEFSU,Delhi Airport to Jalandhar,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:00,07h 37m,00:37,699,34 Seats available,1.0
+PEFSU,Phagwara to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:20,07h 25m,04:45,455,28 Seats available,4.6
+PEFSU,Phagwara to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:05,06h 37m,05:42,540,21 Seats available,4.6
+PEFSU,Phagwara to Delhi,Laxmi holidays,VE A/C Sleeper (2+1),23:10,07h 35m,06:45,570,33 Seats available,4.5
+PEFSU,Phagwara to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),21:37,06h 41m,04:18,600,23 Seats available,4.4
+PEFSU,Phagwara to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:40,07h 40m,06:20,436,33 Seats available,4.1
+PEFSU,Phagwara to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:35,07h 25m,07:00,570,26 Seats available,4.6
+PEFSU,Phagwara to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,06h 35m,04:35,659,28 Seats available,4.7
+PEFSU,Phagwara to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:40,06h 40m,06:20,599,35 Seats available,3.9
+PEFSU,Phagwara to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:25,07h 05m,04:30,559,25 Seats available,3.8
+PEFSU,Phagwara to Delhi,New Navyug Travels,A/C Sleeper (2+1),22:00,07h 30m,05:30,675,30 Seats available,4.0
+PEFSU,Phagwara to Delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,07h 55m,06:40,499,28 Seats available,4.7
+PEFSU,Phagwara to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:55,06h 05m,04:00,540,29 Seats available,4.7
+PEFSU,Phagwara to Delhi,Here Bus,A/C Seater / Sleeper (2+1),22:45,05h 44m,04:29,856.19,38 Seats available,3.7
+PEFSU,Phagwara to Delhi,Kingfisher Busline Pvt Ltd,Volvo A/C Multi-Axle Semi Sleeper (2+2),18:10,06h 40m,00:50,1199,48 Seats available,3.6
+PEFSU,Phagwara to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:40,06h 40m,05:20,549,30 Seats available,3.2
+PEFSU,Phagwara to Delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,06h 00m,05:30,599,43 Seats available,3.7
+PEFSU,Phagwara to Delhi,Khurana Bus Service,Volvo A/C (2+2),18:55,07h 45m,02:40,500,32 Seats available,3.7
+PEFSU,Phagwara to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,06h 45m,06:00,499,42 Seats available,3.3
+PEFSU,Phagwara to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:47,06h 18m,06:05,599,32 Seats available,4.3
+PEFSU,Phagwara to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:57,06h 33m,06:30,499,31 Seats available,2.9
+PEFSU,Phagwara to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:55,06h 55m,06:50,599,28 Seats available,2.0
+PEFSU,Phagwara to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:20,06h 25m,05:45,540,27 Seats available,2.7
+PEFSU,Phagwara to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:55,06h 55m,06:50,549,31 Seats available,4.5
+PEFSU,Phagwara to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:45,06h 35m,05:20,499,25 Seats available,1.0
+PEFSU,Phagwara to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,06h 45m,05:40,529,27 Seats available,1.0
+PEFSU,Phagwara to Delhi,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),18:53,07h 25m,02:18,749,53 Seats available,4.0
+PEFSU,Phagwara to Delhi,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),15:30,07h 16m,22:46,449,36 Seats available,3.9
+PEFSU,Phagwara to Delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:55,06h 15m,05:10,600,28 Seats available,4.1
+PEFSU,Phagwara to Delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,07h 05m,05:05,659,32 Seats available,5.0
+PEFSU,Phagwara to Delhi,Deltin Travels,A/C Seater / Sleeper (2+1),22:55,07h 50m,06:45,599,30 Seats available,5.0
+PEFSU,Phagwara to Delhi,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),16:40,08h 50m,01:30,810,44 Seats available,4.1
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),22:35,08h 25m,07:00,3300,38 Seats available,1.0
+PEFSU,Phagwara to Delhi,Deltin Travels,A/C Seater / Sleeper (2+1),22:40,07h 50m,06:30,599,28 Seats available,3.7
+PEFSU,Phagwara to Delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:35,05h 40m,05:15,600,41 Seats available,3.5
+PEFSU,Phagwara to Delhi,SPEED BUS,Volvo A/C Semi Sleeper (2+2),14:10,20h 15m,10:25,1099,51 Seats available,3.5
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:35,08h 25m,23:00,3300,44 Seats available,3.5
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),18:35,07h 55m,02:30,2500,28 Seats available,3.5
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),22:35,10h 25m,09:00,2500,44 Seats available,3.5
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),20:35,08h 25m,05:00,2500,22 Seats available,3.5
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),16:35,08h 25m,01:00,2500,44 Seats available,3.5
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),14:35,08h 25m,23:00,2500,42 Seats available,3.5
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),20:35,08h 25m,05:00,3850,38 Seats available,3.5
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),16:35,08h 25m,01:00,3000,18 Seats available,2.9
+PEFSU,Phagwara to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),14:35,10h 25m,01:00,3850,52 Seats available,1.3
+PEFSU,Phagwara to Delhi,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),23:58,06h 02m,06:00,549,37 Seats available,1.0
+PEFSU,Delhi to Amritsar,PEPSU (Punjab) - 67121,Volvo AC Seater (2+2),21:50,10h 30m,08:20,1269,37 Seats available,3.4
+PEFSU,Delhi to Amritsar,RSRTC - 156675,Express Non AC Seater 2+3,22:30,10h 00m,08:30,650,42 Seats available,1.7
+PEFSU,Delhi to Amritsar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,09h 10m,07:30,525,33 Seats available,4.6
+PEFSU,Delhi to Amritsar,AdBhawani Travels,A/C Seater / Sleeper (2+2),22:00,09h 15m,07:15,2000,50 Seats available,3.9
+PEFSU,Delhi to Amritsar,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:50,08h 27m,07:17,500,26 Seats available,4.3
+PEFSU,Delhi to Amritsar,NueGo,Electric A/C Seater (2+2),22:00,09h 55m,07:55,475,17 Seats available,4.0
+PEFSU,Delhi to Amritsar,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:05,08h 20m,07:25,600,22 Seats available,4.5
+PEFSU,Delhi to Amritsar,AdIntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,08h 55m,08:15,479,30 Seats available,4.7
+PEFSU,Delhi to Amritsar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,08h 16m,07:41,549,25 Seats available,3.8
+PEFSU,Delhi to Amritsar,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:55,07h 30m,06:25,600,12 Seats available,4.2
+PEFSU,Delhi to Amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,09h 10m,05:40,499,16 Seats available,4.4
+PEFSU,Delhi to Amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,09h 40m,08:40,449,28 Seats available,4.5
+PEFSU,Delhi to Amritsar,Laxmi holidays,VE A/C Sleeper (2+1),23:00,10h 00m,09:00,641,33 Seats available,4.3
+PEFSU,Delhi to Amritsar,Yolo Bus,VE A/C Seater / Sleeper (2+1),00:19,08h 06m,08:25,450,23 Seats available,5.0
+PEFSU,Delhi to Amritsar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:05,08h 40m,07:45,599,10 Seats available,4.0
+PEFSU,Delhi to Amritsar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,09h 50m,07:50,547,38 Seats available,4.1
+PEFSU,Delhi to Amritsar,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:30,10h 00m,08:30,436,31 Seats available,4.5
+PEFSU,Delhi to Amritsar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,10h 10m,09:40,641,35 Seats available,4.4
+PEFSU,Delhi to Amritsar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,09h 50m,06:50,529,21 Seats available,4.3
+PEFSU,Delhi to Amritsar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:35,08h 30m,08:05,599,7 Seats available,4.2
+PEFSU,Delhi to Amritsar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,07h 40m,07:15,586,31 Seats available,2.8
+PEFSU,Delhi to Amritsar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,09h 50m,09:30,641,32 Seats available,4.6
+PEFSU,Delhi to Amritsar,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:35,07h 55m,07:30,599,11 Seats available,3.8
+PEFSU,Delhi to Amritsar,FlixBus,Bharat Benz A/C Sleeper (2+1),23:00,09h 25m,08:25,772.32,13 Seats available,5.0
+PEFSU,Delhi to Amritsar,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:30,08h 40m,07:10,699,8 Seats available,4.6
+PEFSU,Delhi to Amritsar,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,09h 45m,07:50,460,27 Seats available,4.5
+PEFSU,Delhi to Amritsar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,10h 30m,08:30,659,17 Seats available,4.6
+PEFSU,Delhi to Amritsar,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),23:00,08h 00m,07:00,700,38 Seats available,4.1
+PEFSU,Delhi to Amritsar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:30,11h 30m,07:00,3300,49 Seats available,5.0
+PEFSU,Delhi to Amritsar,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),00:15,07h 25m,07:40,586,33 Seats available,2.6
+PEFSU,Delhi to Amritsar,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,10h 00m,08:30,629,16 Seats available,4.5
+PEFSU,Delhi to Amritsar,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,07h 50m,06:30,449,15 Seats available,3.7
+PEFSU,Delhi to Amritsar,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,08h 30m,07:35,599,8 Seats available,3.6
+PEFSU,Delhi to Amritsar,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:30,11h 30m,02:00,3850,39 Seats available,3.5
+PEFSU,Delhi to Amritsar,New National Travels,A/C Seater / Sleeper (2+2),23:00,08h 00m,07:00,629,34 Seats available,3.0
+PEFSU,Delhi to Amritsar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,11h 30m,04:00,3300,47 Seats available,3.5
+PEFSU,Delhi to Amritsar,Royal Safari India Travels,A/C Seater / Sleeper (2+2),22:30,07h 30m,06:00,583,37 Seats available,3.8
+PEFSU,Delhi to Amritsar,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:55,07h 35m,06:30,1200,5 Seats available,3.5
+PEFSU,Delhi to Amritsar,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),23:30,11h 30m,11:00,3300,47 Seats available,2.6
+PEFSU,Delhi to Amritsar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),00:40,08h 30m,09:10,561,47 Seats available,2.9
+PEFSU,Delhi to Amritsar,Classic Travels,A/C Seater / Sleeper (2+2),21:45,09h 15m,07:00,549,24 Seats available,2.8
+PEFSU,Delhi to Amritsar,CALL2TRIP,A/C Seater / Sleeper (2+2),22:40,08h 30m,07:10,699,40 Seats available,2.2
+PEFSU,Delhi to Amritsar,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,11h 30m,09:30,3850,38 Seats available,2.1
+PEFSU,Amritsar to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,09h 15m,04:45,608,28 Seats available,4.5
+PEFSU,Amritsar to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:45,08h 00m,05:45,600,27 Seats available,4.4
+PEFSU,Amritsar to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:11,08h 05m,06:16,600,23 Seats available,4.6
+PEFSU,Amritsar to Delhi,AdIntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,08h 00m,04:00,600,29 Seats available,4.5
+PEFSU,Amritsar to Delhi,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:30,07h 40m,05:10,600,35 Seats available,4.2
+PEFSU,Amritsar to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:10,07h 55m,06:05,599,34 Seats available,4.0
+PEFSU,Amritsar to Delhi,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:45,07h 30m,05:15,600,19 Seats available,4.0
+PEFSU,Amritsar to Delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),19:56,08h 22m,04:18,600,23 Seats available,4.5
+PEFSU,Amritsar to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:50,09h 10m,07:00,722,26 Seats available,4.6
+PEFSU,Amritsar to Delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,09h 20m,06:20,608,33 Seats available,4.3
+PEFSU,Amritsar to Delhi,Laxmi holidays,VE A/C Sleeper (2+1),21:30,09h 15m,06:45,722,33 Seats available,4.2
+PEFSU,Amritsar to Delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,09h 00m,07:30,941,12 Seats available,4.4
+PEFSU,Amritsar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:30,07h 50m,06:20,679,15 Seats available,4.6
+PEFSU,Amritsar to Delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:15,08h 27m,05:42,600,21 Seats available,4.4
+PEFSU,Amritsar to Delhi,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:50,07h 40m,05:30,599,36 Seats available,4.5
+PEFSU,Amritsar to Delhi,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:20,10h 20m,06:40,661,24 Seats available,4.9
+PEFSU,Amritsar to Delhi,FlixBus,Bharat Benz A/C Sleeper (2+1),22:00,09h 00m,07:00,586.61,10 Seats available,4.6
+PEFSU,Amritsar to Delhi,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),21:30,08h 20m,05:50,799,8 Seats available,4.6
+PEFSU,Amritsar to Delhi,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),18:00,11h 00m,05:00,3850,21 Seats available,5.0
+PEFSU,Amritsar to Delhi,NueGo,Electric A/C Seater (2+2),22:30,09h 55m,08:25,500,42 Seats available,4.0
+PEFSU,Amritsar to Delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:15,08h 40m,04:55,659,28 Seats available,4.5
+PEFSU,Amritsar to Delhi,Deltin Travels,A/C Seater / Sleeper (2+1),21:10,09h 20m,06:30,599,38 Seats available,4.1
+PEFSU,Amritsar to Delhi,Deltin Travels,A/C Seater / Sleeper (2+1),21:25,09h 20m,06:45,599,32 Seats available,4.1
+PEFSU,Amritsar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,08h 20m,06:50,499,28 Seats available,3.5
+PEFSU,Amritsar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),21:00,08h 20m,05:20,549,24 Seats available,3.7
+PEFSU,Amritsar to Delhi,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),22:30,08h 00m,06:30,500,52 Seats available,3.1
+PEFSU,Amritsar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),20:45,08h 35m,05:20,499,26 Seats available,3.6
+PEFSU,Amritsar to Delhi,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:15,08h 05m,06:20,599,35 Seats available,3.9
+PEFSU,Amritsar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,08h 20m,06:50,599,31 Seats available,3.0
+PEFSU,Amritsar to Delhi,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),14:00,11h 00m,01:00,3300,28 Seats available,3.5
+PEFSU,Amritsar to Delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:45,08h 42m,04:27,659,28 Seats available,3.7
+PEFSU,Amritsar to Delhi,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),20:00,11h 00m,07:00,3300,44 Seats available,3.5
+PEFSU,Amritsar to Delhi,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:40,07h 50m,06:30,499,29 Seats available,2.6
+PEFSU,Amritsar to Delhi,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),22:05,07h 40m,05:45,549,38 Seats available,2.6
+PEFSU,Amritsar to Delhi,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:05,08h 05m,07:10,561,41 Seats available,2.9
+PEFSU,Amritsar to Delhi,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:25,08h 50m,07:15,599,22 Seats available,2.6
+PEFSU,Amritsar to Delhi,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:15,08h 25m,06:40,629,26 Seats available,2.5
+PEFSU,Amritsar to Delhi,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:00,08h 25m,06:25,629,30 Seats available,2.6
+PEFSU,Amritsar to Delhi,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),22:20,09h 00m,07:20,761,38 Seats available,2.8
+PEFSU,Amritsar to Delhi,CALL2TRIP,A/C Seater / Sleeper (2+2),22:25,07h 45m,06:10,799,18 Seats available,2.0
+PEFSU,Amritsar to Delhi Airport,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:50,09h 10m,07:00,760,26 Seats available,4.6
+PEFSU,Amritsar to Delhi Airport,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:11,08h 05m,06:16,600,23 Seats available,4.6
+PEFSU,Amritsar to Delhi Airport,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),21:30,08h 20m,05:50,799,8 Seats available,4.6
+PEFSU,Amritsar to Delhi Airport,AdIntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,08h 00m,04:00,600,29 Seats available,4.5
+PEFSU,Amritsar to Delhi Airport,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,09h 15m,04:45,640,28 Seats available,4.5
+PEFSU,Amritsar to Delhi Airport,Yolo Bus,VE A/C Seater / Sleeper (2+1),19:56,08h 22m,04:18,600,23 Seats available,4.5
+PEFSU,Amritsar to Delhi Airport,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:20,10h 20m,06:40,755,24 Seats available,4.9
+PEFSU,Amritsar to Delhi Airport,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,09h 00m,07:30,991,12 Seats available,4.4
+PEFSU,Amritsar to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:45,08h 00m,05:45,600,27 Seats available,4.4
+PEFSU,Amritsar to Delhi Airport,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:15,08h 27m,05:42,600,21 Seats available,4.4
+PEFSU,Amritsar to Delhi Airport,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:50,07h 40m,05:30,699,36 Seats available,4.5
+PEFSU,Amritsar to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:30,07h 50m,06:20,679,15 Seats available,4.6
+PEFSU,Amritsar to Delhi Airport,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,09h 20m,06:20,640,33 Seats available,4.3
+PEFSU,Amritsar to Delhi Airport,Laxmi holidays,VE A/C Sleeper (2+1),21:30,09h 15m,06:45,760,33 Seats available,4.2
+PEFSU,Amritsar to Delhi Airport,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:30,07h 40m,05:10,600,35 Seats available,4.2
+PEFSU,Amritsar to Delhi Airport,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:15,08h 05m,06:20,699,35 Seats available,3.9
+PEFSU,Amritsar to Delhi Airport,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:45,07h 30m,05:15,600,19 Seats available,4.0
+PEFSU,Amritsar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),21:00,08h 20m,05:20,649,24 Seats available,3.7
+PEFSU,Amritsar to Delhi Airport,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:10,07h 55m,06:05,699,34 Seats available,4.0
+PEFSU,Amritsar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),20:45,08h 35m,05:20,599,26 Seats available,3.6
+PEFSU,Amritsar to Delhi Airport,IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:45,08h 42m,04:27,659,28 Seats available,3.7
+PEFSU,Amritsar to Delhi Airport,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),20:15,08h 40m,04:55,659,28 Seats available,4.5
+PEFSU,Amritsar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,08h 20m,06:50,599,31 Seats available,3.0
+PEFSU,Amritsar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:40,07h 50m,06:30,599,29 Seats available,2.6
+PEFSU,Amritsar to Delhi Airport,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:25,08h 50m,07:15,599,22 Seats available,2.6
+PEFSU,Amritsar to Delhi Airport,K.S Travels,A/C Semi Sleeper / Sleeper (2+2),22:30,08h 00m,06:30,500,52 Seats available,3.1
+PEFSU,Amritsar to Delhi Airport,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),22:30,08h 20m,06:50,599,28 Seats available,3.5
+PEFSU,Amritsar to Delhi Airport,NueGo,Electric A/C Seater (2+2),22:30,09h 55m,08:25,526,42 Seats available,4.0
+PEFSU,Amritsar to Delhi Airport,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:05,08h 05m,07:10,686,41 Seats available,2.9
+PEFSU,Amritsar to Delhi Airport,SHREE SATGURU TRAVELS,A/C Seater / Sleeper (2+2),22:05,07h 40m,05:45,549,38 Seats available,2.6
+PEFSU,Amritsar to Delhi Airport,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:15,08h 25m,06:40,699,26 Seats available,2.5
+PEFSU,Amritsar to Delhi Airport,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:00,08h 25m,06:25,699,30 Seats available,2.6
+PEFSU,Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),18:00,11h 00m,05:00,3850,21 Seats available,5.0
+PEFSU,Amritsar to Delhi Airport,FlixBus,Bharat Benz A/C Sleeper (2+1),22:00,09h 00m,07:00,586.61,10 Seats available,4.6
+PEFSU,Amritsar to Delhi Airport,Deltin Travels,A/C Seater / Sleeper (2+1),21:25,09h 20m,06:45,599,32 Seats available,4.1
+PEFSU,Amritsar to Delhi Airport,Deltin Travels,A/C Seater / Sleeper (2+1),21:10,09h 20m,06:30,599,38 Seats available,4.1
+PEFSU,Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),14:00,11h 00m,01:00,3300,28 Seats available,3.5
+PEFSU,Amritsar to Delhi Airport,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),20:00,11h 00m,07:00,3300,44 Seats available,3.5
+PEFSU,Amritsar to Delhi Airport,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),22:20,09h 00m,07:20,886,38 Seats available,2.8
+PEFSU,Amritsar to Delhi Airport,CALL2TRIP,A/C Seater / Sleeper (2+2),22:25,07h 45m,06:10,799,18 Seats available,2.0
+PEFSU,Delhi Airport to Phagwara,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,08h 10m,07:50,675,32 Seats available,4.6
+PEFSU,Delhi Airport to Phagwara,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07h 10m,05:30,553,35 Seats available,4.4
+PEFSU,Delhi Airport to Phagwara,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,08h 00m,06:00,576,38 Seats available,4.4
+PEFSU,Delhi Airport to Phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,07h 20m,03:50,499,16 Seats available,4.9
+PEFSU,Delhi Airport to Phagwara,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:05,06h 15m,05:20,600,22 Seats available,4.3
+PEFSU,Delhi Airport to Phagwara,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,675,35 Seats available,4.3
+PEFSU,Delhi Airport to Phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,07h 50m,06:50,429,28 Seats available,4.7
+PEFSU,Delhi Airport to Phagwara,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:31,07h 06m,05:37,500,24 Seats available,4.4
+PEFSU,Delhi Airport to Phagwara,New Navyug Travels,A/C Sleeper (2+1),22:45,06h 30m,05:15,625,28 Seats available,4.1
+PEFSU,Delhi Airport to Phagwara,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:13,06h 42m,05:55,699,11 Seats available,3.7
+PEFSU,Delhi Airport to Phagwara,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,07h 35m,03:35,693,21 Seats available,4.3
+PEFSU,Delhi Airport to Phagwara,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,08h 00m,05:00,529,21 Seats available,4.7
+PEFSU,Delhi Airport to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:15,08h 35m,06:50,399,27 Seats available,4.3
+PEFSU,Delhi Airport to Phagwara,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,07h 05m,06:10,699,12 Seats available,4.4
+PEFSU,Delhi Airport to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,07h 10m,06:30,459,30 Seats available,4.8
+PEFSU,Delhi Airport to Phagwara,Kingfisher Busline Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),21:00,07h 45m,04:45,1599,30 Seats available,4.9
+PEFSU,Delhi Airport to Phagwara,Royal Safari India Travels,A/C Seater / Sleeper (2+2),22:30,07h 20m,05:50,665.71,37 Seats available,4.4
+PEFSU,Delhi Airport to Phagwara,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07h 10m,01:40,1400,14 Seats available,3.9
+PEFSU,Delhi Airport to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,08h 50m,06:50,659,17 Seats available,3.0
+PEFSU,Delhi Airport to Phagwara,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,08h 15m,06:45,629,16 Seats available,3.3
+PEFSU,Delhi Airport to Phagwara,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:25,06h 45m,06:10,649,25 Seats available,2.0
+PEFSU,Delhi Airport to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:05,06h 30m,05:35,651,31 Seats available,2.5
+PEFSU,Delhi Airport to Phagwara,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+2),23:40,07h 35m,07:15,686,47 Seats available,5.0
+PEFSU,Delhi Airport to Phagwara,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,05h 50m,04:30,1300,5 Seats available,1.3
+PEFSU,Delhi Airport to Phagwara,Zingbus Plus,A/C Sleeper (2+1),21:35,07h 20m,04:55,1069,25 Seats available,1.8
+PEFSU,Delhi Airport to Phagwara,Lavish Travels,A/C Seater / Sleeper (2+2),18:15,09h 00m,03:15,599,46 Seats available,4.6
+PEFSU,Delhi Airport to Phagwara,Classic Travels,A/C Seater / Sleeper (2+2),21:45,07h 30m,05:15,649,24 Seats available,4.0
+PEFSU,Delhi Airport to Phagwara,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,07h 05m,06:35,389,22 Seats available,3.9
+PEFSU,Delhi Airport to Phagwara,ADTC tour and Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,06h 15m,04:40,600,16 Seats available,3.8
+PEFSU,Delhi Airport to Phagwara,ADTC tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,06h 05m,04:45,449,21 Seats available,3.8
+PEFSU,Delhi Airport to Phagwara,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:05,07h 25m,06:30,699,12 Seats available,4.3
+PEFSU,Delhi Airport to Phagwara,Golden Temple Express Volvo,A/C Seater / Sleeper (2+2),23:05,06h 45m,05:50,699,8 Seats available,4.9
+PEFSU,Delhi Airport to Phagwara,Zingbus Plus,Scania A/C Semi Sleeper (2+2),22:30,08h 05m,06:35,530,31 Seats available,3.5
+PEFSU,Delhi Airport to Phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),19:40,08h 20m,04:00,670,16 Seats available,4.1
+PEFSU,Delhi Airport to Phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),18:30,07h 10m,01:40,550,19 Seats available,2.9
+PEFSU,Delhi Airport to Phagwara,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,07h 40m,05:45,560,30 Seats available,2.5
+PEFSU,Delhi Airport to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,07h 06m,05:46,711,38 Seats available,4.0
+PEFSU,Delhi Airport to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),23:35,06h 00m,05:35,599,33 Seats available,2.0
+PEFSU,Delhi Airport to Phagwara,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:50,06h 30m,06:20,450,23 Seats available,3.8
+PEFSU,Delhi Airport to Phagwara,NueGo,Electric A/C Seater (2+2),22:00,08h 10m,06:10,500,17 Seats available,3.6
+PEFSU,Delhi Airport to Phagwara,Ram Dalal Holidays,Bharat Benz A/C Sleeper (2+1),17:55,08h 30m,02:25,650,15 Seats available,3.6
+PEFSU,Delhi Airport to Phagwara,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:57,08h 48m,08:45,699,51 Seats available,3.5
+PEFSU,Delhi Airport to Phagwara,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:00,07h 02m,00:02,699,51 Seats available,3.5
+PEFSU,Delhi Airport to Phagwara,Indo Canadian Transport Pvt. Ltd.,A/C Seater (2+2),14:30,09h 15m,23:45,3300,48 Seats available,3.5
+PEFSU,Delhi Airport to Phagwara,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),14:30,09h 15m,23:45,3850,49 Seats available,3.5
+PEFSU,Delhi Airport to Phagwara,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),16:30,09h 15m,01:45,3300,51 Seats available,3.5
+PEFSU,Delhi Airport to Phagwara,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),23:30,09h 15m,08:45,3300,52 Seats available,3.0
+PEFSU,Delhi Airport to Phagwara,Indo Canadian Transport Pvt. Ltd.,Mercedes A/C Semi Sleeper (2+2),19:30,09h 15m,04:45,3300,46 Seats available,2.9
+PEFSU,Delhi Airport to Phagwara,SPEED BUS,Bharat Benz A/C Seater / Sleeper (2+2),21:45,08h 00m,05:45,599,42 Seats available,2.9
+PEFSU,Delhi Airport to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+1),22:40,05h 46m,04:26,711,39 Seats available,2.9
+PEFSU,Delhi Airport to Phagwara,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),22:00,09h 15m,07:15,3000,44 Seats available,2.9
+PEFSU,Delhi Airport to Phagwara,Banjara Satguru Travels,A/C Seater / Sleeper (2+2),22:40,07h 06m,05:46,699,34 Seats available,2.5
+PEFSU,Delhi Airport to Phagwara,CALL2TRIP,A/C Seater / Sleeper (2+2),22:40,06h 30m,05:10,699,29 Seats available,2.5
+PEFSU,Delhi Airport to Phagwara,RK Holiday,A/C Seater / Sleeper (2+2),18:25,06h 30m,00:55,595,40 Seats available,2.4
+PEFSU,Delhi Airport to Phagwara,RK Holiday,A/C Seater / Sleeper (2+2),21:20,06h 30m,03:50,595,34 Seats available,1.0
+PEFSU,Delhi Airport to Phagwara,ADTC tour and Travels,Bharat Benz A/C Seater / Sleeper (2+2),22:30,06h 15m,04:45,600,40 Seats available,1.0
+PEFSU,Delhi Airport to Phagwara,Maheshwaram Travels,A/C Seater / Sleeper (2+2),19:40,09h 20m,05:00,666,34 Seats available,4.1
